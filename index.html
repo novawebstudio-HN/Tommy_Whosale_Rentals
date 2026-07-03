@@ -411,7 +411,7 @@
    While it stays as "PASTE_YOUR_APPS_SCRIPT_URL_HERE" the form shows a
    friendly notice instead of sending.
    ========================================================================= */
-const FORM_ENDPOINT = "PASTE_YOUR_APPS_SCRIPT_URL_HERE";
+const FORM_ENDPOINT = "https://script.google.com/macros/s/AKfycbxOU-THCFypaCGCfzfczQ-_nfB8-tR3zrc__gLUH5DxiNNgILR66Y90v5iatxLfZyhxRw/exec";
 
 document.getElementById('year').textContent = new Date().getFullYear();
 
@@ -537,7 +537,10 @@ function submitForm(e){
   msg.className = 'form-msg';
   msg.style.display = 'none';
 
-  fetch(FORM_ENDPOINT, { method:'POST', body: new FormData(form) })
+  // Apps Script web apps don't return CORS headers, so we use no-cors:
+  // the request still reaches the script and the row is saved. The response
+  // is opaque (we can't read it), so completion is treated as success.
+  fetch(FORM_ENDPOINT, { method:'POST', mode:'no-cors', body: new FormData(form) })
     .then(() => {
       msg.className = 'form-msg ok';
       msg.textContent = 'Thank you! We received your request and will be in touch soon.';
