@@ -25,24 +25,9 @@ VALID = ('.png', '.jpg', '.jpeg', '.webp')
 THUMB_MAXW = 500
 THUMB_QUALITY = 75
 
-DISPLAY = {
-    'Accesories': 'Accessories',
-    'Accesories/Charder C': 'Charger Plates',
-    'Accesories/Shades': 'Shades',
-    'Candle Holders': 'Candle Holders',
-    'Candle Holders/Candle Display': 'Candle Displays',
-    'Candle Holders/Candle Sticks': 'Candlesticks',
-    'Candle Holders/Votive Holders': 'Votive Holders',
-    'Candle Holders/Votive Pegs': 'Votive Pegs',
-    'Centerpieces': 'Centerpieces',
-    'Centerpieces/Centerpieces Bowls': 'Centerpiece Bowls',
-    'Centerpieces/Certepiece Pedestals': 'Centerpiece Pedestals',
-    'Chairs/Cushions': 'Cushions',
-    'Dance floors': 'Dance Floors',
-    'Lamps and Lighting': 'Lamps & Lighting',
-    'Pedestals and columns': 'Pedestals & Columns',
-    'Risers': 'Risers & Stages',
-}
+# Las carpetas ya tienen nombres limpios = nombre visible. Este mapa es solo
+# para casos especiales (ninguno por ahora).
+DISPLAY = {}
 
 # Portada elegida a mano (substring del nombre de archivo)
 COVER_OVERRIDE = {
@@ -56,7 +41,7 @@ DESC = {
     'Accessories': 'The finishing touches — charger plates and beaded lampshades that complete a refined table.',
     'Charger Plates': 'Enhance your dining experience with our stylish chargers, designed to sit seamlessly beneath dinner plates. Crafted for both beauty and function, they protect your table while adding a sophisticated layer to any setting.',
     'Shades': 'Create an intimate, romantic ambiance with our elegant table lampshades, perfect for weddings and special events. These charming accents add a soft, warm glow to your decor.',
-    'Arches': 'Frame your perfect moment with our elegant arches and chuppahs. Whether you prefer classic or modern styles, our rentals provide the perfect backdrop for your vows, creating a stunning focal point for your special day.',
+    'Arches & Chuppahs': 'Frame your perfect moment with our elegant arches and chuppahs. Whether you prefer classic or modern styles, our rentals provide the perfect backdrop for your vows, creating a stunning focal point for your special day.',
     'Bar': 'Statement bars for any event — from classic white and black designs to rustic and modern LED-lit styles.',
     'Candelabras': 'Add timeless elegance to your event with our exquisite candelabras. These striking centerpieces bring sophistication and warmth, creating a captivating ambiance with their classic design and soft candlelight.',
     'Candle Holders': 'Candlelight for every setting — displays, candlesticks, votive holders and votive pegs.',
@@ -112,6 +97,7 @@ def _units(name):
     name = name.rsplit('.', 1)[0]
     name = re.sub(r'\s*\(\d+\)\s*$', '', name)          # (1) duplicado
     name = re.sub(r'\s+[1-9]$', '', name)               # " 2" indice de foto
+    name = re.sub(r'\s+[A-Za-z]$', '', name)            # " a"/" c" sufijo de orden
     name = name.replace('´´', '"').replace('’’', '"').replace("''", '"')
     name = name.replace('”', '"').replace('“', '"').replace('″', '"')
     name = name.replace('´', "'").replace('’', "'").replace('‘', "'").replace('′', "'")
