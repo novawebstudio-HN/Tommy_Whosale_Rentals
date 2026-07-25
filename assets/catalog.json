@@ -1387,16 +1387,9 @@
     "name": "Pedestals & Columns",
     "folder": "Pedestals & Columns",
     "desc": "Elevate your event decor with our elegant pedestals and columns. Ideal for floral displays or dramatic focal points, adding height and sophistication to any space.",
-    "cover": "thumbs/Pedestals & Columns/3 wrougnt iron g 3_ wrought iron grecian pedestal. This item can be custom painted any color_.webp",
-    "count": 19,
+    "cover": "thumbs/Pedestals & Columns/33_ fluted pedestal. This item can be custom painted any color.webp",
+    "count": 21,
     "items": [
-      {
-        "src": "Pedestals & Columns/3 wrougnt iron g 3_ wrought iron grecian pedestal. This item can be custom painted any color_.png",
-        "thumb": "thumbs/Pedestals & Columns/3 wrougnt iron g 3_ wrought iron grecian pedestal. This item can be custom painted any color_.webp",
-        "title": "3 Wrougnt Iron G Wrought Iron Grecian Pedestal",
-        "dims": "3\"",
-        "note": "This item can be custom painted any color"
-      },
       {
         "src": "Pedestals & Columns/33_ fluted pedestal. This item can be custom painted any color.png",
         "thumb": "thumbs/Pedestals & Columns/33_ fluted pedestal. This item can be custom painted any color.webp",
@@ -1433,6 +1426,13 @@
         "note": ""
       },
       {
+        "src": "Pedestals & Columns/Large shiny white oman stand. 47_Hx15.5_W.png",
+        "thumb": "thumbs/Pedestals & Columns/Large shiny white oman stand. 47_Hx15.5_W.webp",
+        "title": "Large Shiny White Oman Stand",
+        "dims": "47\"H × 15.5\"W",
+        "note": ""
+      },
+      {
         "src": "Pedestals & Columns/28_ rust plain fluted pedestal.png",
         "thumb": "thumbs/Pedestals & Columns/28_ rust plain fluted pedestal.webp",
         "title": "Rust Plain Fluted Pedestal",
@@ -1445,6 +1445,13 @@
         "title": "Silver Metal Display Stands",
         "dims": "",
         "note": "Available in 49\" and 32\" heights both with a 12\" base and top"
+      },
+      {
+        "src": "Pedestals & Columns/Small shiny white oman stand. 29.5_Hx15.5_W.png",
+        "thumb": "thumbs/Pedestals & Columns/Small shiny white oman stand. 29.5_Hx15.5_W.webp",
+        "title": "Small Shiny White Oman Stand",
+        "dims": "29.5\"H × 15.5\"W",
+        "note": ""
       },
       {
         "src": "Pedestals & Columns/8_ stone grey greek column.png",
@@ -1521,6 +1528,13 @@
         "thumb": "thumbs/Pedestals & Columns/5_ wrought iron grecian pedestal. This item can be custom painted any color.webp",
         "title": "Wrought Iron Grecian Pedestal",
         "dims": "5\"",
+        "note": "This item can be custom painted any color"
+      },
+      {
+        "src": "Pedestals & Columns/3_ wrought iron grecian pedestal. This item can be custom painted any color.png",
+        "thumb": "thumbs/Pedestals & Columns/3_ wrought iron grecian pedestal. This item can be custom painted any color.webp",
+        "title": "Wrought Iron Grecian Pedestal",
+        "dims": "3\"",
         "note": "This item can be custom painted any color"
       }
     ]
