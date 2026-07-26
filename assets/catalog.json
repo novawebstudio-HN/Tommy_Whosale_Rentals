@@ -182,7 +182,7 @@
     "folder": "Arches & Chuppahs",
     "desc": "Frame your perfect moment with our elegant arches and chuppahs. Whether you prefer classic or modern styles, our rentals provide the perfect backdrop for your vows, creating a stunning focal point for your special day.",
     "cover": "thumbs/Arches & Chuppahs/Butterfly arch. Available in white and natural wrought iron.webp",
-    "count": 12,
+    "count": 16,
     "items": [
       {
         "src": "Arches & Chuppahs/Butterfly arch. Available in white and natural wrought iron.png",
@@ -190,13 +190,6 @@
         "title": "Butterfly Arch",
         "dims": "",
         "note": "Available in white and natural wrought iron"
-      },
-      {
-        "src": "Arches & Chuppahs/ChatGPT Image 24 jul 2026, 17_36_04.png",
-        "thumb": "thumbs/Arches & Chuppahs/ChatGPT Image 24 jul 2026, 17_36_04.webp",
-        "title": "",
-        "dims": "",
-        "note": ""
       },
       {
         "src": "Arches & Chuppahs/Chuppa poles are 7 feet tall, and available in either gold or silver.png",
@@ -213,9 +206,30 @@
         "note": ""
       },
       {
+        "src": "Arches & Chuppahs/Clear Acrylic Floral Arch.png",
+        "thumb": "thumbs/Arches & Chuppahs/Clear Acrylic Floral Arch.webp",
+        "title": "Clear Acrylic Floral Arch",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Arches & Chuppahs/Clear Chuppah with Floral Top.png",
+        "thumb": "thumbs/Arches & Chuppahs/Clear Chuppah with Floral Top.webp",
+        "title": "Clear Chuppah with Floral Top",
+        "dims": "",
+        "note": ""
+      },
+      {
         "src": "Arches & Chuppahs/Clear Column white top chuppah  7x7x7.png",
         "thumb": "thumbs/Arches & Chuppahs/Clear Column white top chuppah  7x7x7.webp",
         "title": "Clear Column White Top Chuppah 7x7x7",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Arches & Chuppahs/Draped Floral Chuppah.png",
+        "thumb": "thumbs/Arches & Chuppahs/Draped Floral Chuppah.webp",
+        "title": "Draped Floral Chuppah",
         "dims": "",
         "note": ""
       },
@@ -227,10 +241,24 @@
         "note": "Available in Ivory and Gray"
       },
       {
+        "src": "Arches & Chuppahs/Suspended Floral Canopy.png",
+        "thumb": "thumbs/Arches & Chuppahs/Suspended Floral Canopy.webp",
+        "title": "Suspended Floral Canopy",
+        "dims": "",
+        "note": ""
+      },
+      {
         "src": "Arches & Chuppahs/Veranda arbor, 48_Wx12_Dx88_H.png",
         "thumb": "thumbs/Arches & Chuppahs/Veranda arbor, 48_Wx12_Dx88_H.webp",
         "title": "Veranda Arbor",
         "dims": "48\"W × 12\"D × 88\"H",
+        "note": ""
+      },
+      {
+        "src": "Arches & Chuppahs/White Floral Chuppah.png",
+        "thumb": "thumbs/Arches & Chuppahs/White Floral Chuppah.webp",
+        "title": "White Floral Chuppah",
+        "dims": "",
         "note": ""
       },
       {
@@ -1565,24 +1593,31 @@
     "count": 16,
     "items": [
       {
-        "src": "Tables/6´ serp tables.jpg",
-        "thumb": "thumbs/Tables/6´ serp tables.webp",
-        "title": "6' Serp Tables",
+        "src": "Tables/Banquet and Tuscan Tables.jpg",
+        "thumb": "thumbs/Tables/Banquet and Tuscan Tables.webp",
+        "title": "Banquet and Tuscan Tables",
         "dims": "",
         "note": ""
       },
       {
-        "src": "Tables/6_x18_x30_ class room tables 8_x18x30_ class room tables 6_x18_x42_ high class room tables 8_x18_x42_ high class room tables.jpg",
-        "thumb": "thumbs/Tables/6_x18_x30_ class room tables 8_x18x30_ class room tables 6_x18_x42_ high class room tables 8_x18_x42_ high class room tables.webp",
-        "title": "Class Room Tables Class Room Tables High Class Room Tables High Class Room Tables",
-        "dims": "6\" × 18\" × 30\" / 8\" × 18 × 30\" / 6\" × 18\" × 42\" / 8\" × 18\" × 42\"",
+        "src": "Tables/Classroom Tables.jpg",
+        "thumb": "thumbs/Tables/Classroom Tables.webp",
+        "title": "Classroom Tables",
+        "dims": "",
         "note": ""
       },
       {
-        "src": "Tables/Clear acrylic high cocktail table size 24”x42” high.jpg",
-        "thumb": "thumbs/Tables/Clear acrylic high cocktail table size 24”x42” high.webp",
-        "title": "Clear Acrylic High Cocktail Table Size High",
-        "dims": "24\" × 42\"",
+        "src": "Tables/Clear Acrylic High Cocktail Table.jpg",
+        "thumb": "thumbs/Tables/Clear Acrylic High Cocktail Table.webp",
+        "title": "Clear Acrylic High Cocktail Table",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Tables/Cocktail and Round Tables 2.jpg",
+        "thumb": "thumbs/Tables/Cocktail and Round Tables 2.webp",
+        "title": "Cocktail and Round Tables",
+        "dims": "",
         "note": ""
       },
       {
@@ -1591,13 +1626,6 @@
         "title": "Country Wood Table",
         "dims": "",
         "note": "It has cast iron legs with a distressed wood top. This table measures W98\"xD39\"xH31"
-      },
-      {
-        "src": "Tables/             6_x30x30 foot tables                     8_x30x30 foot table          8_x42_x30 Rectangular Tuscan              table(42_wide)                  10_x42_x30 Rectangular Tuscan table (42_ wide) _.jpg",
-        "thumb": "thumbs/Tables/             6_x30x30 foot tables                     8_x30x30 foot table          8_x42_x30 Rectangular Tuscan              table(42_wide)                  10_x42_x30 Rectangular Tuscan table (42_ wide) _.webp",
-        "title": "Foot Tables Foot Table Rectangular Tuscan Table( Wide) Rectangular Tuscan Table ( Wide)",
-        "dims": "6\" × 30 × 30 / 8\" × 30 × 30 / 8\" × 42\" × 30 / 42\" / 10\" × 42\" × 30 / 42\"",
-        "note": ""
       },
       {
         "src": "Tables/Glass top bar table.jpg",
@@ -1614,17 +1642,10 @@
         "note": ""
       },
       {
-        "src": "Tables/High and low light tables and chairs.png",
-        "thumb": "thumbs/Tables/High and low light tables and chairs.webp",
-        "title": "High and Low Light Tables and Chairs",
+        "src": "Tables/High Cocktail Table.jpg",
+        "thumb": "thumbs/Tables/High Cocktail Table.webp",
+        "title": "High Cocktail Table",
         "dims": "",
-        "note": ""
-      },
-      {
-        "src": "Tables/High cocktail 30_x 42_ high.jpg",
-        "thumb": "thumbs/Tables/High cocktail 30_x 42_ high.webp",
-        "title": "High Cocktail High",
-        "dims": "30\" × 42\"",
         "note": ""
       },
       {
@@ -1635,38 +1656,45 @@
         "note": ""
       },
       {
-        "src": "Tables/     30_x30_ low cocktail tables     _       36_x 30_ low cocktail table                           48_ rd tables_         _          _60_ rd  tables    72_ rd tables _.jpg",
-        "thumb": "thumbs/Tables/     30_x30_ low cocktail tables     _       36_x 30_ low cocktail table                           48_ rd tables_         _          _60_ rd  tables    72_ rd tables _.webp",
-        "title": "Low Cocktail Tables Low Cocktail Table Rd Tables Rd Tables Rd Tables",
-        "dims": "30\" × 30\" / 36\" × 30\" / 48\" / 60\" / 72\"",
-        "note": ""
-      },
-      {
-        "src": "Tables/Low cocktail takes and high tables(1).png",
-        "thumb": "thumbs/Tables/Low cocktail takes and high tables(1).webp",
-        "title": "Low Cocktail Takes and High Tables",
+        "src": "Tables/Light-Up Tables and Chairs.png",
+        "thumb": "thumbs/Tables/Light-Up Tables and Chairs.webp",
+        "title": "Light-Up Tables and Chairs",
         "dims": "",
         "note": ""
       },
       {
-        "src": "Tables/30_ x30_ low on wheels  36_ x 30 low on wheels(1).jpg",
-        "thumb": "thumbs/Tables/30_ x30_ low on wheels  36_ x 30 low on wheels(1).webp",
-        "title": "Low on Wheels Low on Wheels",
-        "dims": "30\" × 30\" / 36\" × 30",
+        "src": "Tables/Low and High Cocktail Tables.png",
+        "thumb": "thumbs/Tables/Low and High Cocktail Tables.webp",
+        "title": "Low and High Cocktail Tables",
+        "dims": "",
         "note": ""
       },
       {
-        "src": "Tables/Mirrored cocktail table, 36_x36_ square.jpg",
-        "thumb": "thumbs/Tables/Mirrored cocktail table, 36_x36_ square.webp",
-        "title": "Mirrored Cocktail Table, Square",
-        "dims": "36\" × 36\"",
+        "src": "Tables/Low Tables on Wheels 2.jpg",
+        "thumb": "thumbs/Tables/Low Tables on Wheels 2.webp",
+        "title": "Low Tables on Wheels",
+        "dims": "",
         "note": ""
       },
       {
-        "src": "Tables/White Acrylic tables  Size 10’x42”x30” high  Size 8’x42”x30” high.png",
-        "thumb": "thumbs/Tables/White Acrylic tables  Size 10’x42”x30” high  Size 8’x42”x30” high.webp",
-        "title": "White Acrylic Tables Size 10'x High Size 8'x High",
-        "dims": "42\" × 30\" / 42\" × 30\"",
+        "src": "Tables/Mirrored Cocktail Table.jpg",
+        "thumb": "thumbs/Tables/Mirrored Cocktail Table.webp",
+        "title": "Mirrored Cocktail Table",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Tables/Serpentine Tables.jpg",
+        "thumb": "thumbs/Tables/Serpentine Tables.webp",
+        "title": "Serpentine Tables",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Tables/White Acrylic Tables.png",
+        "thumb": "thumbs/Tables/White Acrylic Tables.webp",
+        "title": "White Acrylic Tables",
+        "dims": "",
         "note": ""
       },
       {
