@@ -82,6 +82,16 @@ def chair_key(title):
             return (rank, t)
     return (9, t)
 
+
+def dancefloor_key(f):
+    """Salon ('Par N') primero con cada par junto; renders de producto al final."""
+    name = f.rsplit('.', 1)[0]
+    m = re.match(r'\s*par\s+(\d+)(?:\.(\d+))?\s*$', name, re.I)
+    if m:
+        return (0, int(m.group(1)), 1 if m.group(2) else 0, int(m.group(2) or 0))
+    nums = re.findall(r'\d+', name)
+    return (1, int(nums[0]) if nums else 999, name.lower())
+
 MINOR = {'a', 'an', 'and', 'the', 'of', 'with', 'in', 'on', 'or', 'to', 'for', 'x'}
 KEEP_UPPER = {'LED', 'U', 'US', 'TV', 'DJ'}
 
@@ -251,6 +261,8 @@ def images_in(rel):
              if f.lower().endswith(VALID) and f.lower() != 'logo.jpg']
     if rel == 'Chairs':
         files.sort(key=lambda f: chair_key(parse_name(f)[0]))
+    elif rel == 'Dance Floors':
+        files.sort(key=dancefloor_key)
     else:
         files.sort(key=lambda f: parse_name(f)[0].lower())
     items = []
