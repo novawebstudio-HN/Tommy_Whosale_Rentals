@@ -273,7 +273,7 @@ def images_in(rel):
             title, dims, note = '', '', ''   # Dance Floors: sin nombre, solo la foto
         items.append({'src': src, 'thumb': make_thumb(src),
                       'title': title, 'dims': dims, 'note': note, 'file': f})
-    return dedup(items)
+    return items   # sin fusionar: cada imagen es su propia tarjeta
 
 
 def subdirs(rel):

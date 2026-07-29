@@ -5,7 +5,7 @@
     "folder": "Accessories",
     "desc": "The finishing touches — charger plates and beaded lampshades that complete a refined table.",
     "cover": "thumbs/Accessories/Charger Plates/Clear Glass Silver Rim.webp",
-    "count": 21,
+    "count": 23,
     "children": [
       {
         "type": "category",
@@ -13,7 +13,7 @@
         "folder": "Accessories/Charger Plates",
         "desc": "Enhance your dining experience with our stylish chargers, designed to sit seamlessly beneath dinner plates. Crafted for both beauty and function, they protect your table while adding a sophisticated layer to any setting.",
         "cover": "thumbs/Accessories/Charger Plates/Clear Glass Silver Rim.webp",
-        "count": 11,
+        "count": 12,
         "items": [
           {
             "src": "Accessories/Charger Plates/Clear Glass Silver Rim.png",
@@ -65,6 +65,13 @@
             "note": ""
           },
           {
+            "src": "Accessories/Charger Plates/11´´ Round Clear Glass Charger Plate With Silver Ball Trim(1).png",
+            "thumb": "thumbs/Accessories/Charger Plates/11´´ Round Clear Glass Charger Plate With Silver Ball Trim(1).webp",
+            "title": "Round Clear Glass Charger Plate with Silver Ball Trim",
+            "dims": "11\"",
+            "note": ""
+          },
+          {
             "src": "Accessories/Charger Plates/11´´ Round Clear Glass Charger Plate With Silver Ball Trim.png",
             "thumb": "thumbs/Accessories/Charger Plates/11´´ Round Clear Glass Charger Plate With Silver Ball Trim.webp",
             "title": "Round Clear Glass Charger Plate with Silver Ball Trim",
@@ -100,7 +107,7 @@
         "folder": "Accessories/Shades",
         "desc": "Create an intimate, romantic ambiance with our elegant table lampshades, perfect for weddings and special events. These charming accents add a soft, warm glow to your decor.",
         "cover": "thumbs/Accessories/Shades/Beaded shade with hanging beads. Available in sand, gold, and silver..webp",
-        "count": 10,
+        "count": 11,
         "items": [
           {
             "src": "Accessories/Shades/Beaded shade with hanging beads. Available in sand, gold, and silver..png",
@@ -161,6 +168,13 @@
           {
             "src": "Accessories/Shades/13´´ Square Black High Glass Ceramic Charger Plate(1).png",
             "thumb": "thumbs/Accessories/Shades/13´´ Square Black High Glass Ceramic Charger Plate(1).webp",
+            "title": "Square Black High Glass Ceramic Charger Plate",
+            "dims": "13\"",
+            "note": ""
+          },
+          {
+            "src": "Accessories/Shades/13´´ Square Black High Glass Ceramic Charger Plate.png",
+            "thumb": "thumbs/Accessories/Shades/13´´ Square Black High Glass Ceramic Charger Plate.webp",
             "title": "Square Black High Glass Ceramic Charger Plate",
             "dims": "13\"",
             "note": ""
@@ -405,7 +419,7 @@
     "folder": "Candelabras",
     "desc": "Add timeless elegance to your event with our exquisite candelabras. These striking centerpieces bring sophistication and warmth, creating a captivating ambiance with their classic design and soft candlelight.",
     "cover": "thumbs/Candelabras/10 arm all crystal contemporary candelabra with candle hurricanes.webp",
-    "count": 17,
+    "count": 20,
     "items": [
       {
         "src": "Candelabras/10 arm all crystal contemporary candelabra with candle hurricanes.png",
@@ -457,6 +471,13 @@
         "note": ""
       },
       {
+        "src": "Candelabras/30_ crystal and silver 5 arm candelabra.png",
+        "thumb": "thumbs/Candelabras/30_ crystal and silver 5 arm candelabra.webp",
+        "title": "Crystal and Silver 5 Arm Candelabra",
+        "dims": "30\"",
+        "note": ""
+      },
+      {
         "src": "Candelabras/30_ crystal and silver 5 arm candelabra(1).png",
         "thumb": "thumbs/Candelabras/30_ crystal and silver 5 arm candelabra(1).webp",
         "title": "Crystal and Silver 5 Arm Candelabra",
@@ -478,6 +499,13 @@
         "note": ""
       },
       {
+        "src": "Candelabras/24_ gold 4 arm candelabra(1).png",
+        "thumb": "thumbs/Candelabras/24_ gold 4 arm candelabra(1).webp",
+        "title": "Gold 4 Arm Candelabra",
+        "dims": "24\"",
+        "note": ""
+      },
+      {
         "src": "Candelabras/24_ gold 4 or 5 arm candelabra.png",
         "thumb": "thumbs/Candelabras/24_ gold 4 or 5 arm candelabra.webp",
         "title": "Gold 4 or 5 Arm Candelabra",
@@ -487,6 +515,13 @@
       {
         "src": "Candelabras/Large gold 5 arm candelabra.png",
         "thumb": "thumbs/Candelabras/Large gold 5 arm candelabra.webp",
+        "title": "Large Gold 5 Arm Candelabra",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Candelabras/Large gold 5 arm candelabra(1).png",
+        "thumb": "thumbs/Candelabras/Large gold 5 arm candelabra(1).webp",
         "title": "Large Gold 5 Arm Candelabra",
         "dims": "",
         "note": ""
@@ -534,7 +569,7 @@
     "folder": "Candle Holders",
     "desc": "Candlelight for every setting — displays, candlesticks, votive holders and votive pegs.",
     "cover": "thumbs/Candle Holders/Candle Displays/5´ pedestal candle holder.webp",
-    "count": 33,
+    "count": 34,
     "children": [
       {
         "type": "category",
@@ -660,7 +695,7 @@
         "folder": "Candle Holders/Votive Holders",
         "desc": "Enhance your event decor with our elegant votive holders, designed to cast a warm, ambient glow and add a touch of charm and intimacy to any table setting.",
         "cover": "thumbs/Candle Holders/Votive Holders/Crystal flared top votive holder.webp",
-        "count": 9,
+        "count": 10,
         "items": [
           {
             "src": "Candle Holders/Votive Holders/Crystal flared top votive holder.png",
@@ -672,6 +707,13 @@
           {
             "src": "Candle Holders/Votive Holders/Crystal shotglass votive holder(1).png",
             "thumb": "thumbs/Candle Holders/Votive Holders/Crystal shotglass votive holder(1).webp",
+            "title": "Crystal Shotglass Votive Holder",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Candle Holders/Votive Holders/Crystal shotglass votive holder.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/Crystal shotglass votive holder.webp",
             "title": "Crystal Shotglass Votive Holder",
             "dims": "",
             "note": ""
@@ -1069,7 +1111,7 @@
     "folder": "Chairs",
     "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
     "cover": "thumbs/Chairs/Black Ballroom Chair c.webp",
-    "count": 32,
+    "count": 34,
     "children": [
       {
         "type": "category",
@@ -1077,7 +1119,7 @@
         "folder": "Chairs",
         "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
         "cover": "thumbs/Chairs/Black Ballroom Chair c.webp",
-        "count": 26,
+        "count": 27,
         "items": [
           {
             "src": "Chairs/Black Ballroom Chair c.png",
@@ -1096,6 +1138,13 @@
           {
             "src": "Chairs/Fruitwood ballroom chair(1).png",
             "thumb": "thumbs/Chairs/Fruitwood ballroom chair(1).webp",
+            "title": "Fruitwood Ballroom Chair",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Chairs/Fruitwood ballroom chair.png",
+            "thumb": "thumbs/Chairs/Fruitwood ballroom chair.webp",
             "title": "Fruitwood Ballroom Chair",
             "dims": "",
             "note": ""
@@ -1269,7 +1318,7 @@
         "folder": "Chairs/Cushions",
         "desc": "Soft seat cushions in a range of colors to complete and add comfort to your chairs.",
         "cover": "thumbs/Chairs/Cushions/Black Lamour Cushions.webp",
-        "count": 6,
+        "count": 7,
         "items": [
           {
             "src": "Chairs/Cushions/Black Lamour Cushions.png",
@@ -1302,6 +1351,13 @@
           {
             "src": "Chairs/Cushions/Pearl Bengaline Cushions.png",
             "thumb": "thumbs/Chairs/Cushions/Pearl Bengaline Cushions.webp",
+            "title": "Pearl Bengaline Cushions",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Chairs/Cushions/Pearl Bengaline Cushions(1).png",
+            "thumb": "thumbs/Chairs/Cushions/Pearl Bengaline Cushions(1).webp",
             "title": "Pearl Bengaline Cushions",
             "dims": "",
             "note": ""
@@ -1852,7 +1908,7 @@
     "folder": "Tables",
     "desc": "A full range of event tables — banquet, cocktail, round, serpentine, classroom and specialty tables in wood, glass and mirrored finishes.",
     "cover": "thumbs/Tables/Country wood table. It has cast iron legs with a distressed wood top. This table measures W98_xD39_xH31.webp",
-    "count": 16,
+    "count": 20,
     "items": [
       {
         "src": "Tables/Banquet and Tuscan Tables.jpg",
@@ -1878,6 +1934,13 @@
       {
         "src": "Tables/Cocktail and Round Tables 2.jpg",
         "thumb": "thumbs/Tables/Cocktail and Round Tables 2.webp",
+        "title": "Cocktail and Round Tables",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Tables/Cocktail and Round Tables.jpg",
+        "thumb": "thumbs/Tables/Cocktail and Round Tables.webp",
         "title": "Cocktail and Round Tables",
         "dims": "",
         "note": ""
@@ -1932,8 +1995,29 @@
         "note": ""
       },
       {
+        "src": "Tables/Low and High Cocktail Tables 3.png",
+        "thumb": "thumbs/Tables/Low and High Cocktail Tables 3.webp",
+        "title": "Low and High Cocktail Tables",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Tables/Low and High Cocktail Tables 2.png",
+        "thumb": "thumbs/Tables/Low and High Cocktail Tables 2.webp",
+        "title": "Low and High Cocktail Tables",
+        "dims": "",
+        "note": ""
+      },
+      {
         "src": "Tables/Low Tables on Wheels 2.jpg",
         "thumb": "thumbs/Tables/Low Tables on Wheels 2.webp",
+        "title": "Low Tables on Wheels",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Tables/Low Tables on Wheels.jpg",
+        "thumb": "thumbs/Tables/Low Tables on Wheels.webp",
         "title": "Low Tables on Wheels",
         "dims": "",
         "note": ""
