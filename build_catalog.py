@@ -228,7 +228,8 @@ def dedup(items):
     Distintas medidas = productos distintos -> tarjetas separadas."""
     groups, order = {}, []
     for it in items:
-        key = (it['title'], it['dims'])
+        # sin nombre -> cada foto es su propia tarjeta (no se fusionan)
+        key = (it['title'], it['dims']) if it['title'] else ('__unique__', it['src'])
         if key not in groups:
             groups[key] = []
             order.append(key)
@@ -256,8 +257,8 @@ def images_in(rel):
     for f in files:
         src = rel + '/' + f
         title, dims, note = parse_name(f)
-        if f.lower().startswith('chatgpt image'):
-            title, dims, note = '', '', ''
+        if f.lower().startswith('chatgpt image') or rel == 'Dance Floors':
+            title, dims, note = '', '', ''   # Dance Floors: sin nombre, solo la foto
         items.append({'src': src, 'thumb': make_thumb(src),
                       'title': title, 'dims': dims, 'note': note, 'file': f})
     return dedup(items)
