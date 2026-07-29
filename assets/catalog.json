@@ -1319,6 +1319,268 @@
   },
   {
     "type": "category",
+    "name": "Dance Floors",
+    "folder": "Dance Floors",
+    "desc": "Available in red, black, and white — all with a high-shine finish. Your dance floor can be made in almost any even size (note: every floor has a 5\" edging).",
+    "cover": "thumbs/Dance Floors/13.webp",
+    "count": 36,
+    "items": [
+      {
+        "src": "Dance Floors/13.png",
+        "thumb": "thumbs/Dance Floors/13.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/14.png",
+        "thumb": "thumbs/Dance Floors/14.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/15.png",
+        "thumb": "thumbs/Dance Floors/15.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/16.png",
+        "thumb": "thumbs/Dance Floors/16.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/18.png",
+        "thumb": "thumbs/Dance Floors/18.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/3.png",
+        "thumb": "thumbs/Dance Floors/3.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/4.png",
+        "thumb": "thumbs/Dance Floors/4.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/5.png",
+        "thumb": "thumbs/Dance Floors/5.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/6.png",
+        "thumb": "thumbs/Dance Floors/6.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/7.png",
+        "thumb": "thumbs/Dance Floors/7.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/9.png",
+        "thumb": "thumbs/Dance Floors/9.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/black floor.png",
+        "thumb": "thumbs/Dance Floors/black floor.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 3.jpg",
+        "thumb": "thumbs/Dance Floors/Par 3.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 6.png",
+        "thumb": "thumbs/Dance Floors/Par 6.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 7.png",
+        "thumb": "thumbs/Dance Floors/Par 7.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 5.png",
+        "thumb": "thumbs/Dance Floors/Par 5.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 9.png",
+        "thumb": "thumbs/Dance Floors/Par 9.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 2.png",
+        "thumb": "thumbs/Dance Floors/Par 2.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 1.png",
+        "thumb": "thumbs/Dance Floors/Par 1.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 4.png",
+        "thumb": "thumbs/Dance Floors/Par 4.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 8.png",
+        "thumb": "thumbs/Dance Floors/Par 8.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 1.1.png",
+        "thumb": "thumbs/Dance Floors/Par 1.1.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 10.png",
+        "thumb": "thumbs/Dance Floors/Par 10.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 10.1.png",
+        "thumb": "thumbs/Dance Floors/Par 10.1.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 11.png",
+        "thumb": "thumbs/Dance Floors/Par 11.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 11.1.png",
+        "thumb": "thumbs/Dance Floors/Par 11.1.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 12.png",
+        "thumb": "thumbs/Dance Floors/Par 12.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 12.1.png",
+        "thumb": "thumbs/Dance Floors/Par 12.1.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 2.2.png",
+        "thumb": "thumbs/Dance Floors/Par 2.2.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 3.1.jpg",
+        "thumb": "thumbs/Dance Floors/Par 3.1.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/par 4.1.png",
+        "thumb": "thumbs/Dance Floors/par 4.1.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 5.1.png",
+        "thumb": "thumbs/Dance Floors/Par 5.1.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 6.1.png",
+        "thumb": "thumbs/Dance Floors/Par 6.1.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 7.1.png",
+        "thumb": "thumbs/Dance Floors/Par 7.1.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 8.1.png",
+        "thumb": "thumbs/Dance Floors/Par 8.1.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Par 9.1.png",
+        "thumb": "thumbs/Dance Floors/Par 9.1.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "type": "category",
     "name": "Displays",
     "folder": "Displays",
     "desc": "Create stunning focal points with our large display pieces, perfect for showcasing floral arrangements or candles. They add height and drama, transforming any space.",

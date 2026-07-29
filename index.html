@@ -395,10 +395,10 @@ function showGallery(cat, backHash, backText){
   document.getElementById('masonry').innerHTML = currentItems.map((it,idx)=>`
     <div class="gitem" onclick="openLb(${idx})">
       <div class="ph"><img loading="lazy" decoding="async" src="${enc(it.thumb||it.src)}" onerror="this.onerror=null;this.src='${enc(it.src)}'" alt="${esc(it.title||cat.name)}"></div>
-      <div class="cap">
+      ${(it.title || it.dims) ? `<div class="cap">
         <span class="cap-name">${esc(it.title||cat.name)}</span>
         <span class="cap-dim">${it.dims ? esc(it.dims) : ''}</span>
-      </div>
+      </div>` : ''}
     </div>`).join('');
   window.scrollTo({top:0});
 }
