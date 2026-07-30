@@ -1110,20 +1110,20 @@
     "name": "Chairs",
     "folder": "Chairs",
     "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
-    "cover": "thumbs/Chairs/Black Ballroom Chair c.webp",
-    "count": 36,
+    "cover": "thumbs/Chairs/Black Ballroom Chair_.webp",
+    "count": 37,
     "children": [
       {
         "type": "category",
         "name": "Chairs",
         "folder": "Chairs",
         "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
-        "cover": "thumbs/Chairs/Black Ballroom Chair c.webp",
-        "count": 29,
+        "cover": "thumbs/Chairs/Black Ballroom Chair_.webp",
+        "count": 30,
         "items": [
           {
-            "src": "Chairs/Black Ballroom Chair c.png",
-            "thumb": "thumbs/Chairs/Black Ballroom Chair c.webp",
+            "src": "Chairs/Black Ballroom Chair_.png",
+            "thumb": "thumbs/Chairs/Black Ballroom Chair_.webp",
             "title": "Black Ballroom Chair",
             "dims": "",
             "note": ""
@@ -1157,6 +1157,13 @@
             "note": ""
           },
           {
+            "src": "Chairs/Gold Ballroom Chair.png",
+            "thumb": "thumbs/Chairs/Gold Ballroom Chair.webp",
+            "title": "Gold Ballroom Chair",
+            "dims": "",
+            "note": ""
+          },
+          {
             "src": "Chairs/Natural Ballroom Chairs.png",
             "thumb": "thumbs/Chairs/Natural Ballroom Chairs.webp",
             "title": "Natural Ballroom Chairs",
@@ -1164,9 +1171,9 @@
             "note": ""
           },
           {
-            "src": "Chairs/Pearl essence Chivari ballroom chair.png",
-            "thumb": "thumbs/Chairs/Pearl essence Chivari ballroom chair.webp",
-            "title": "Pearl Essence Chivari Ballroom Chair",
+            "src": "Chairs/Pearl Essence Ballroom Chairs.png",
+            "thumb": "thumbs/Chairs/Pearl Essence Ballroom Chairs.webp",
+            "title": "Pearl Essence Ballroom Chairs",
             "dims": "",
             "note": ""
           },
@@ -1185,23 +1192,30 @@
             "note": ""
           },
           {
-            "src": "Chairs/White ballroom chair.png",
-            "thumb": "thumbs/Chairs/White ballroom chair.webp",
-            "title": "White Ballroom Chair",
+            "src": "Chairs/Sultry Beige Ballroom chairs.png",
+            "thumb": "thumbs/Chairs/Sultry Beige Ballroom chairs.webp",
+            "title": "Sultry Beige Ballroom Chairs",
             "dims": "",
             "note": ""
           },
           {
-            "src": "Chairs/_Cross Back Fruitwood Chairs d.png",
-            "thumb": "thumbs/Chairs/_Cross Back Fruitwood Chairs d.webp",
+            "src": "Chairs/White Ballroom Chairs.png",
+            "thumb": "thumbs/Chairs/White Ballroom Chairs.webp",
+            "title": "White Ballroom Chairs",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Chairs/Cross Back Fruitwood Chairs.png",
+            "thumb": "thumbs/Chairs/Cross Back Fruitwood Chairs.webp",
             "title": "Cross Back Fruitwood Chairs",
             "dims": "",
             "note": ""
           },
           {
-            "src": "Chairs/Cross Back Natural Chairs d.png",
-            "thumb": "thumbs/Chairs/Cross Back Natural Chairs d.webp",
-            "title": "Cross Back Natural Chairs",
+            "src": "Chairs/Cross Back Natural Chair.png",
+            "thumb": "thumbs/Chairs/Cross Back Natural Chair.webp",
+            "title": "Cross Back Natural Chair",
             "dims": "",
             "note": ""
           },
@@ -1241,13 +1255,6 @@
             "note": ""
           },
           {
-            "src": "Chairs/square back clear chairs.png",
-            "thumb": "thumbs/Chairs/square back clear chairs.webp",
-            "title": "Square Back Clear Chairs",
-            "dims": "",
-            "note": ""
-          },
-          {
             "src": "Chairs/Leatherette bar chair. Available in black or white.png",
             "thumb": "thumbs/Chairs/Leatherette bar chair. Available in black or white.webp",
             "title": "Leatherette Bar Chair",
@@ -1283,8 +1290,8 @@
             "note": ""
           },
           {
-            "src": "Chairs/Black Barstool a.png",
-            "thumb": "thumbs/Chairs/Black Barstool a.webp",
+            "src": "Chairs/Black Barstool.png",
+            "thumb": "thumbs/Chairs/Black Barstool.webp",
             "title": "Black Barstool",
             "dims": "",
             "note": ""
@@ -1297,7 +1304,7 @@
             "note": ""
           },
           {
-            "src": "Chairs/Mahogany Barstool.png",
+            "src": "Chairs/Mahogany Barstool.jpg",
             "thumb": "thumbs/Chairs/Mahogany Barstool.webp",
             "title": "Mahogany Barstool",
             "dims": "",
@@ -1318,9 +1325,9 @@
             "note": ""
           },
           {
-            "src": "Chairs/Pearl.png",
-            "thumb": "thumbs/Chairs/Pearl.webp",
-            "title": "Pearl",
+            "src": "Chairs/Hora Chair.png",
+            "thumb": "thumbs/Chairs/Hora Chair.webp",
+            "title": "Hora Chair",
             "dims": "",
             "note": ""
           }
@@ -1693,7 +1700,7 @@
     "folder": "Fabrics",
     "desc": "Premium linens and fabrics in a wide range of colors and textures — from Lamour matte satin and velvet to shantung, prints and more — to dress your tables, chairs and backdrops.",
     "cover": "thumbs/Fabrics/Belize/Cactus 395.webp",
-    "count": 238,
+    "count": 239,
     "children": [
       {
         "type": "category",
@@ -1979,6 +1986,23 @@
             "src": "Fabrics/Glimmer/White 219.jpg",
             "thumb": "thumbs/Fabrics/Glimmer/White 219.webp",
             "title": "White",
+            "dims": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "name": "Hemstitch Napkins",
+        "folder": "Fabrics/Hemstitch Napkins",
+        "desc": "",
+        "cover": "thumbs/Fabrics/Hemstitch Napkins/Hemstitch color Napkins.webp",
+        "count": 1,
+        "items": [
+          {
+            "src": "Fabrics/Hemstitch Napkins/Hemstitch color Napkins.jpg",
+            "thumb": "thumbs/Fabrics/Hemstitch Napkins/Hemstitch color Napkins.webp",
+            "title": "Hemstitch Color Napkins",
             "dims": "",
             "note": ""
           }
@@ -3469,19 +3493,12 @@
     "folder": "Furniture",
     "desc": "Complete your event with our furniture rentals — day beds, ramps, napkins and event essentials designed for comfort and elegance.",
     "cover": "thumbs/Furniture/White Day Bed Size 6’.webp",
-    "count": 3,
+    "count": 2,
     "items": [
       {
         "src": "Furniture/Handicap ramps.png",
         "thumb": "thumbs/Furniture/Handicap ramps.webp",
         "title": "Handicap Ramps",
-        "dims": "",
-        "note": ""
-      },
-      {
-        "src": "Furniture/Hemstitch color Napkins.jpg",
-        "thumb": "thumbs/Furniture/Hemstitch color Napkins.webp",
-        "title": "Hemstitch Color Napkins",
         "dims": "",
         "note": ""
       },
