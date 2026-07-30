@@ -118,6 +118,25 @@ def dancefloor_key(f):
     nums = re.findall(r'\d+', name)
     return (1, int(nums[0]) if nums else 999, name.lower())
 
+
+def table_key(f):
+    """Agrupa por material/tipo: madera/banquete, redondas, coctel,
+    acrilico/cristal/vidrio/espejo, y especiales (light-up) al final."""
+    n = f.lower()
+    if any(k in n for k in ('acrylic', 'crystal', 'glass', 'mirror')):
+        rank = 3
+    elif 'light-up' in n or 'light up' in n:
+        rank = 4
+    elif any(k in n for k in ('wood', 'tuscan', 'banquet', 'serpentine', 'classroom')):
+        rank = 0
+    elif 'round' in n:
+        rank = 1
+    elif 'cocktail' in n or 'wheels' in n:
+        rank = 2
+    else:
+        rank = 5
+    return (rank, parse_name(f)[0].lower())
+
 MINOR = {'a', 'an', 'and', 'the', 'of', 'with', 'in', 'on', 'or', 'to', 'for', 'x'}
 KEEP_UPPER = {'LED', 'U', 'US', 'TV', 'DJ'}
 
@@ -290,6 +309,8 @@ def images_in(rel):
         files.sort(key=lambda f: chair_sort_key(rel, f))
     elif rel == 'Dance Floors':
         files.sort(key=dancefloor_key)
+    elif rel == 'Tables':
+        files.sort(key=table_key)
     else:
         files.sort(key=lambda f: parse_name(f)[0].lower())
     items = []
