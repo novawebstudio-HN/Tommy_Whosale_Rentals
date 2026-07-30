@@ -84,6 +84,31 @@ def chair_key(title):
     return (9, t)
 
 
+def bg_is_light(path):
+    """True si el fondo (esquinas) es claro; False si es oscuro."""
+    if not HAVE_PIL:
+        return True
+    try:
+        im = Image.open(path).convert('RGB')
+        w, h = im.size
+        pts = [(2, 2), (w - 3, 2), (2, h - 3), (w - 3, h - 3)]
+        vals = []
+        for (x, y) in pts:
+            r, g, b = im.getpixel((x, y))
+            vals.append(0.299 * r + 0.587 * g + 0.114 * b)
+        return (sum(vals) / len(vals)) >= 120
+    except Exception:
+        return True
+
+
+def chair_sort_key(rel, f):
+    """Por estilo; dentro de cada estilo: fondo oscuro primero, luego claro."""
+    title = parse_name(f)[0]
+    srank = chair_key(title)[0]
+    light = 1 if bg_is_light(os.path.join(ROOT, rel, f)) else 0
+    return (srank, light, title.lower())
+
+
 def dancefloor_key(f):
     """Salon ('Par N') primero con cada par junto; renders de producto al final."""
     name = f.rsplit('.', 1)[0]
@@ -262,7 +287,7 @@ def images_in(rel):
     files = [f for f in os.listdir(d)
              if f.lower().endswith(VALID) and f.lower() != 'logo.jpg']
     if rel == 'Chairs':
-        files.sort(key=lambda f: chair_key(parse_name(f)[0]))
+        files.sort(key=lambda f: chair_sort_key(rel, f))
     elif rel == 'Dance Floors':
         files.sort(key=dancefloor_key)
     else:
