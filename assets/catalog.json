@@ -1993,23 +1993,6 @@
       },
       {
         "type": "category",
-        "name": "Hemstitch Napkins",
-        "folder": "Fabrics/Hemstitch Napkins",
-        "desc": "",
-        "cover": "thumbs/Fabrics/Hemstitch Napkins/Hemstitch color Napkins.webp",
-        "count": 1,
-        "items": [
-          {
-            "src": "Fabrics/Hemstitch Napkins/Hemstitch color Napkins.jpg",
-            "thumb": "thumbs/Fabrics/Hemstitch Napkins/Hemstitch color Napkins.webp",
-            "title": "Hemstitch Color Napkins",
-            "dims": "",
-            "note": ""
-          }
-        ]
-      },
-      {
-        "type": "category",
         "name": "Iridescent Crush",
         "folder": "Fabrics/Iridescent Crush",
         "desc": "",
@@ -3480,6 +3463,23 @@
             "src": "Fabrics/Velvet/White 965.jpg",
             "thumb": "thumbs/Fabrics/Velvet/White 965.webp",
             "title": "White",
+            "dims": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "name": "Hemstitch Napkins",
+        "folder": "Fabrics/Hemstitch Napkins",
+        "desc": "",
+        "cover": "thumbs/Fabrics/Hemstitch Napkins/Hemstitch color Napkins.webp",
+        "count": 1,
+        "items": [
+          {
+            "src": "Fabrics/Hemstitch Napkins/Hemstitch color Napkins.jpg",
+            "thumb": "thumbs/Fabrics/Hemstitch Napkins/Hemstitch color Napkins.webp",
+            "title": "Hemstitch Color Napkins",
             "dims": "",
             "note": ""
           }

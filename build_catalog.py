@@ -358,6 +358,8 @@ def main():
             imgs = images_in(rel)
             if imgs:
                 sub_children.append(category_node(rel, imgs))
+        # Hemstitch Napkins siempre al final de sus subcategorias
+        sub_children.sort(key=lambda c: (c['name'] == 'Hemstitch Napkins', c['name'].lower()))
 
         if direct and sub_children:
             children = [category_node(top, direct)] + sub_children
