@@ -62,6 +62,7 @@ DESC = {
     'Lamps & Lighting': 'Brighten your event with our elegant lamps and lighting rentals, creating a warm, inviting atmosphere that enhances the ambiance of any occasion.',
     'Pedestals & Columns': 'Elevate your event decor with our elegant pedestals and columns. Ideal for floral displays or dramatic focal points, adding height and sophistication to any space.',
     'Urns': 'Add timeless elegance with our classic urn rentals, perfect for showcasing beautiful floral arrangements indoors or outdoors.',
+    'Fabrics': 'Premium linens and fabrics in a wide range of colors and textures — from Lamour matte satin and velvet to shantung, prints and more — to dress your tables, chairs and backdrops.',
 }
 
 # Orden por estilo para las sillas (para que no salgan "regadas")
@@ -114,6 +115,7 @@ def _units(name):
     name = re.sub(r'(\d+)\s+(\d+)_(\d+)_', r'\1 \2/\3"', name)
     name = re.sub(r'(\d+)_(\d+)_', r'\1/\2"', name)
     name = re.sub(r'(\d)_', r'\1"', name)
+    name = re.sub(r"_s\b", "'s", name)                  # "Katie_s" -> "Katie's"
     name = name.replace('_', ' ')
     name = re.sub(r'\.([A-Za-z])', r'. \1', name)
     name = re.sub(r'\s+', ' ', name).strip()
@@ -269,6 +271,9 @@ def images_in(rel):
     for f in files:
         src = rel + '/' + f
         title, dims, note = parse_name(f)
+        if rel.startswith('Fabrics'):
+            # quita el codigo del final (ej. "Apple 623", "Barocco Celery P048")
+            title = re.sub(r'\s+[A-Za-z]{0,2}\d+$', '', title).strip()
         if f.lower().startswith('chatgpt image') or rel == 'Dance Floors':
             title, dims, note = '', '', ''   # Dance Floors: sin nombre, solo la foto
         items.append({'src': src, 'thumb': make_thumb(src),
