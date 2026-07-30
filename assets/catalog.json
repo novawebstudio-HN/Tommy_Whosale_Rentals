@@ -1111,7 +1111,7 @@
     "folder": "Chairs",
     "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
     "cover": "thumbs/Chairs/Chiavari Ballroom Gold Chair.webp",
-    "count": 35,
+    "count": 36,
     "children": [
       {
         "type": "category",
@@ -1119,7 +1119,7 @@
         "folder": "Chairs",
         "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
         "cover": "thumbs/Chairs/Chiavari Ballroom Gold Chair.webp",
-        "count": 28,
+        "count": 29,
         "items": [
           {
             "src": "Chairs/Chiavari Ballroom Gold Chair.png",
@@ -1160,6 +1160,13 @@
             "src": "Chairs/Pearl Essence Ballroom Chairs.png",
             "thumb": "thumbs/Chairs/Pearl Essence Ballroom Chairs.webp",
             "title": "Pearl Essence Ballroom Chairs",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Chairs/Pearl Essence Chivari Ballroom Chair.png",
+            "thumb": "thumbs/Chairs/Pearl Essence Chivari Ballroom Chair.webp",
+            "title": "Pearl Essence Chivari Ballroom Chair",
             "dims": "",
             "note": ""
           },
@@ -3718,9 +3725,16 @@
         "note": ""
       },
       {
-        "src": "Tables/Clear Acrylic High Cocktail Table.jpg",
-        "thumb": "thumbs/Tables/Clear Acrylic High Cocktail Table.webp",
-        "title": "Clear Acrylic High Cocktail Table",
+        "src": "Tables/Country wood table. It has cast iron legs with a distressed wood top. This table measures W98_xD39_xH31.jpg",
+        "thumb": "thumbs/Tables/Country wood table. It has cast iron legs with a distressed wood top. This table measures W98_xD39_xH31.webp",
+        "title": "Country Wood Table",
+        "dims": "",
+        "note": "It has cast iron legs with a distressed wood top. This table measures W98\"xD39\"xH31"
+      },
+      {
+        "src": "Tables/Serpentine Tables.jpg",
+        "thumb": "thumbs/Tables/Serpentine Tables.webp",
+        "title": "Serpentine Tables",
         "dims": "",
         "note": ""
       },
@@ -3739,23 +3753,9 @@
         "note": ""
       },
       {
-        "src": "Tables/Country wood table. It has cast iron legs with a distressed wood top. This table measures W98_xD39_xH31.jpg",
-        "thumb": "thumbs/Tables/Country wood table. It has cast iron legs with a distressed wood top. This table measures W98_xD39_xH31.webp",
-        "title": "Country Wood Table",
-        "dims": "",
-        "note": "It has cast iron legs with a distressed wood top. This table measures W98\"xD39\"xH31"
-      },
-      {
-        "src": "Tables/Glass top bar table.jpg",
-        "thumb": "thumbs/Tables/Glass top bar table.webp",
-        "title": "Glass Top Bar Table",
-        "dims": "",
-        "note": ""
-      },
-      {
-        "src": "Tables/High Acrylic Tables.png",
-        "thumb": "thumbs/Tables/High Acrylic Tables.webp",
-        "title": "High Acrylic Tables",
+        "src": "Tables/White round tables.png",
+        "thumb": "thumbs/Tables/White round tables.webp",
+        "title": "White Round Tables",
         "dims": "",
         "note": ""
       },
@@ -3763,20 +3763,6 @@
         "src": "Tables/High Cocktail Table.jpg",
         "thumb": "thumbs/Tables/High Cocktail Table.webp",
         "title": "High Cocktail Table",
-        "dims": "",
-        "note": ""
-      },
-      {
-        "src": "Tables/High Crystal Tables.png",
-        "thumb": "thumbs/Tables/High Crystal Tables.webp",
-        "title": "High Crystal Tables",
-        "dims": "",
-        "note": ""
-      },
-      {
-        "src": "Tables/Light-Up Tables and Chairs.png",
-        "thumb": "thumbs/Tables/Light-Up Tables and Chairs.webp",
-        "title": "Light-Up Tables and Chairs",
         "dims": "",
         "note": ""
       },
@@ -3816,16 +3802,37 @@
         "note": ""
       },
       {
-        "src": "Tables/Mirrored Cocktail Table.jpg",
-        "thumb": "thumbs/Tables/Mirrored Cocktail Table.webp",
-        "title": "Mirrored Cocktail Table",
+        "src": "Tables/Clear Acrylic High Cocktail Table.jpg",
+        "thumb": "thumbs/Tables/Clear Acrylic High Cocktail Table.webp",
+        "title": "Clear Acrylic High Cocktail Table",
         "dims": "",
         "note": ""
       },
       {
-        "src": "Tables/Serpentine Tables.jpg",
-        "thumb": "thumbs/Tables/Serpentine Tables.webp",
-        "title": "Serpentine Tables",
+        "src": "Tables/Glass top bar table.jpg",
+        "thumb": "thumbs/Tables/Glass top bar table.webp",
+        "title": "Glass Top Bar Table",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Tables/High Acrylic Tables.png",
+        "thumb": "thumbs/Tables/High Acrylic Tables.webp",
+        "title": "High Acrylic Tables",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Tables/High Crystal Tables.png",
+        "thumb": "thumbs/Tables/High Crystal Tables.webp",
+        "title": "High Crystal Tables",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Tables/Mirrored Cocktail Table.jpg",
+        "thumb": "thumbs/Tables/Mirrored Cocktail Table.webp",
+        "title": "Mirrored Cocktail Table",
         "dims": "",
         "note": ""
       },
@@ -3837,9 +3844,9 @@
         "note": ""
       },
       {
-        "src": "Tables/White round tables.png",
-        "thumb": "thumbs/Tables/White round tables.webp",
-        "title": "White Round Tables",
+        "src": "Tables/Light-Up Tables and Chairs.png",
+        "thumb": "thumbs/Tables/Light-Up Tables and Chairs.webp",
+        "title": "Light-Up Tables and Chairs",
         "dims": "",
         "note": ""
       }
