@@ -1110,7 +1110,7 @@
     "name": "Chairs",
     "folder": "Chairs",
     "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
-    "cover": "thumbs/Chairs/Black Ballroom Chair_.webp",
+    "cover": "thumbs/Chairs/Chiavari Ballroom Black Chair.webp",
     "count": 37,
     "children": [
       {
@@ -1118,16 +1118,9 @@
         "name": "Chairs",
         "folder": "Chairs",
         "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
-        "cover": "thumbs/Chairs/Black Ballroom Chair_.webp",
+        "cover": "thumbs/Chairs/Chiavari Ballroom Black Chair.webp",
         "count": 30,
         "items": [
-          {
-            "src": "Chairs/Black Ballroom Chair_.png",
-            "thumb": "thumbs/Chairs/Black Ballroom Chair_.webp",
-            "title": "Black Ballroom Chair",
-            "dims": "",
-            "note": ""
-          },
           {
             "src": "Chairs/Chiavari Ballroom Black Chair.png",
             "thumb": "thumbs/Chairs/Chiavari Ballroom Black Chair.webp",
@@ -1206,6 +1199,13 @@
             "note": ""
           },
           {
+            "src": "Chairs/Black Ballroom Chair_.png",
+            "thumb": "thumbs/Chairs/Black Ballroom Chair_.webp",
+            "title": "Black Ballroom Chair",
+            "dims": "",
+            "note": ""
+          },
+          {
             "src": "Chairs/Cross Back Fruitwood Chairs.png",
             "thumb": "thumbs/Chairs/Cross Back Fruitwood Chairs.webp",
             "title": "Cross Back Fruitwood Chairs",
@@ -1276,13 +1276,6 @@
             "note": ""
           },
           {
-            "src": "Chairs/Black Garden Chairs.png",
-            "thumb": "thumbs/Chairs/Black Garden Chairs.webp",
-            "title": "Black Garden Chairs",
-            "dims": "",
-            "note": ""
-          },
-          {
             "src": "Chairs/White Garden Chairs.png",
             "thumb": "thumbs/Chairs/White Garden Chairs.webp",
             "title": "White Garden Chairs",
@@ -1290,9 +1283,9 @@
             "note": ""
           },
           {
-            "src": "Chairs/Black Barstool.png",
-            "thumb": "thumbs/Chairs/Black Barstool.webp",
-            "title": "Black Barstool",
+            "src": "Chairs/Black Garden Chairs.png",
+            "thumb": "thumbs/Chairs/Black Garden Chairs.webp",
+            "title": "Black Garden Chairs",
             "dims": "",
             "note": ""
           },
@@ -1300,13 +1293,6 @@
             "src": "Chairs/Gold Barstool.png",
             "thumb": "thumbs/Chairs/Gold Barstool.webp",
             "title": "Gold Barstool",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Chairs/Mahogany Barstool.jpg",
-            "thumb": "thumbs/Chairs/Mahogany Barstool.webp",
-            "title": "Mahogany Barstool",
             "dims": "",
             "note": ""
           },
@@ -1321,6 +1307,20 @@
             "src": "Chairs/White Barstool.png",
             "thumb": "thumbs/Chairs/White Barstool.webp",
             "title": "White Barstool",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Chairs/Black Barstool.png",
+            "thumb": "thumbs/Chairs/Black Barstool.webp",
+            "title": "Black Barstool",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Chairs/Mahogany Barstool.jpg",
+            "thumb": "thumbs/Chairs/Mahogany Barstool.webp",
+            "title": "Mahogany Barstool",
             "dims": "",
             "note": ""
           },
