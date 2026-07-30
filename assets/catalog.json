@@ -1110,24 +1110,17 @@
     "name": "Chairs",
     "folder": "Chairs",
     "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
-    "cover": "thumbs/Chairs/Chiavari Ballroom Black Chair.webp",
-    "count": 36,
+    "cover": "thumbs/Chairs/Chiavari Ballroom Gold Chair.webp",
+    "count": 35,
     "children": [
       {
         "type": "category",
         "name": "Chairs",
         "folder": "Chairs",
         "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
-        "cover": "thumbs/Chairs/Chiavari Ballroom Black Chair.webp",
-        "count": 29,
+        "cover": "thumbs/Chairs/Chiavari Ballroom Gold Chair.webp",
+        "count": 28,
         "items": [
-          {
-            "src": "Chairs/Chiavari Ballroom Black Chair.png",
-            "thumb": "thumbs/Chairs/Chiavari Ballroom Black Chair.webp",
-            "title": "Chiavari Ballroom Black Chair",
-            "dims": "",
-            "note": ""
-          },
           {
             "src": "Chairs/Chiavari Ballroom Gold Chair.png",
             "thumb": "thumbs/Chairs/Chiavari Ballroom Gold Chair.webp",
@@ -1171,16 +1164,16 @@
             "note": ""
           },
           {
-            "src": "Chairs/Pearl Essence Chivari Ballroom Chair.png",
-            "thumb": "thumbs/Chairs/Pearl Essence Chivari Ballroom Chair.webp",
-            "title": "Pearl Essence Chivari Ballroom Chair",
+            "src": "Chairs/Silver Ballroom Chair.png",
+            "thumb": "thumbs/Chairs/Silver Ballroom Chair.webp",
+            "title": "Silver Ballroom Chair",
             "dims": "",
             "note": ""
           },
           {
-            "src": "Chairs/Silver Ballroom Chair.png",
-            "thumb": "thumbs/Chairs/Silver Ballroom Chair.webp",
-            "title": "Silver Ballroom Chair",
+            "src": "Chairs/Sultry Beige Ballroom chairs.png",
+            "thumb": "thumbs/Chairs/Sultry Beige Ballroom chairs.webp",
+            "title": "Sultry Beige Ballroom Chairs",
             "dims": "",
             "note": ""
           },
