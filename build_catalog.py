@@ -262,7 +262,18 @@ def _clean_table_meas(s):
     s = re.sub(r'"\s+(?=\d)', '" · ', s)
     s = re.sub(r'\b(high|low|round|square|wide)\s+(?=\d)', r'\1 · ', s, flags=re.I)
     s = re.sub(r'\s+', ' ', s).strip(' .,-·')
-    return s
+    return ' · '.join(_norm_size(seg) for seg in s.split(' · ') if seg.strip())
+
+
+def _norm_size(seg):
+    """High/Low con mayuscula; agrega 'High' a las tallas pies × ancho × alto
+    que no traen palabra de altura (para que todo se vea uniforme)."""
+    seg = re.sub(r'\bhigh\b', 'High', seg, flags=re.I)
+    seg = re.sub(r'\blow\b', 'Low', seg, flags=re.I)
+    if re.match(r'^\d+\'\s*×\s*\d+"?\s*×\s*\d+"?$', seg) \
+            and not re.search(r'High|Low|Round|Square|[Ww]ide', seg):
+        seg += ' High'
+    return seg
 
 
 def table_parse(f):
