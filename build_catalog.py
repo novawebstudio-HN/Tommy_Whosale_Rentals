@@ -255,10 +255,10 @@ def _clean_table_meas(s):
     s = re.sub(r'\bSizes?\b|\bmeasures?\b', '', s, flags=re.I)
     s = (s.replace('´´', '"').replace('”', '"').replace('“', '"').replace('″', '"')
           .replace('’', "'").replace('‘', "'").replace('′', "'").replace("''", '"'))
-    s = s.replace('_x', ' x ').replace('_', ' ')
-    s = re.sub(r'\s*[x×]\s*', ' x ', s)
+    s = s.replace('_x', ' × ').replace('_', ' ')
+    s = re.sub(r'\s*[x×]\s*', ' × ', s)
     s = re.sub(r'(["\'])(?=[A-Za-z])', r'\1 ', s)   # 39"wide -> 39" wide
-    # separa las distintas tallas con " · "
+    # separa las distintas tallas con " · " (cada una es su propia etiqueta)
     s = re.sub(r'"\s+(?=\d)', '" · ', s)
     s = re.sub(r'\b(high|low|round|square|wide)\s+(?=\d)', r'\1 · ', s, flags=re.I)
     s = re.sub(r'\s+', ' ', s).strip(' .,-·')

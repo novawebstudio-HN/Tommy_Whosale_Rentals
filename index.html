@@ -92,7 +92,8 @@
   .gallery-grid.fill .gitem .ph img{width:100%;height:100%;max-width:none;max-height:none;object-fit:cover}
   .gitem .cap{padding:12px 14px;border-top:1px solid var(--line)}
   .gitem .cap-name{font-weight:600;font-size:.92rem;color:#222;line-height:1.3;height:2.6em;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-  .gitem .cap-dim{display:block;margin-top:4px;font-size:.8rem;color:var(--muted);min-height:1.1em}
+  .gitem .cap-dim{display:flex;flex-wrap:wrap;gap:5px;margin-top:7px;min-height:1.1em}
+  .gitem .cap-dim .dim-chip{font-size:.72rem;color:#5a5148;background:#f4f1ee;border:1px solid var(--line);border-radius:999px;padding:2px 9px;white-space:nowrap;line-height:1.55}
 
   .hidden{display:none}
 
@@ -100,7 +101,10 @@
   .lb.open{display:flex}
   .lb img{max-width:92vw;max-height:78vh;border-radius:8px;box-shadow:0 20px 60px rgba(0,0,0,.6)}
   .lb .lb-cap{color:#fff;margin-top:16px;font-weight:600;font-size:1.05rem;text-align:center;max-width:90vw}
-  .lb .lb-sub{color:#c9c9c9;margin-top:5px;font-size:.9rem;font-weight:400;text-align:center;max-width:90vw;padding:0 12px}
+  .lb .lb-sub{color:#c9c9c9;margin-top:9px;font-size:.9rem;font-weight:400;text-align:center;max-width:90vw;padding:0 12px}
+  .lb .lb-sub .lb-dims{display:flex;flex-wrap:wrap;gap:6px;justify-content:center}
+  .lb .lb-sub .dim-chip{font-size:.8rem;color:#eee;background:rgba(255,255,255,.14);border-radius:999px;padding:3px 11px;white-space:nowrap}
+  .lb .lb-sub .lb-note{display:block;margin-top:10px;font-style:italic}
   .lb .x,.lb .nav{position:absolute;background:rgba(255,255,255,.12);border:0;color:#fff;cursor:pointer;border-radius:50%;display:flex;align-items:center;justify-content:center;transition:.2s}
   .lb .x{top:20px;right:22px;width:46px;height:46px;font-size:1.6rem}
   .lb .nav{top:50%;transform:translateY(-50%);width:54px;height:54px;font-size:2rem}
@@ -402,7 +406,7 @@ function showGallery(cat, backHash, backText){
       <div class="ph"><img loading="lazy" decoding="async" src="${enc(it.thumb||it.src)}" onerror="this.onerror=null;this.src='${enc(it.src)}'" alt="${esc(it.title||cat.name)}"></div>
       ${(it.title || it.dims) ? `<div class="cap">
         <span class="cap-name">${esc(it.title||cat.name)}</span>
-        <span class="cap-dim">${it.dims ? esc(it.dims) : ''}</span>
+        <span class="cap-dim">${it.dims ? it.dims.split(/\s*[·/]\s*/).filter(Boolean).map(s=>`<span class="dim-chip">${esc(s)}</span>`).join('') : ''}</span>
       </div>` : ''}
     </div>`).join('');
   window.scrollTo({top:0});
@@ -435,7 +439,10 @@ function updateLb(){
   const it = currentItems[lbIndex];
   document.getElementById('lbImg').src = enc(it.src);
   document.getElementById('lbCap').textContent = it.title || '';
-  document.getElementById('lbSub').textContent = [it.dims, it.note].filter(Boolean).join('  ·  ');
+  const dimHtml = it.dims ? it.dims.split(/\s*[·/]\s*/).filter(Boolean).map(s=>`<span class="dim-chip">${esc(s)}</span>`).join('') : '';
+  document.getElementById('lbSub').innerHTML =
+    (dimHtml ? `<span class="lb-dims">${dimHtml}</span>` : '') +
+    (it.note ? `<span class="lb-note">${esc(it.note)}</span>` : '');
   document.getElementById('lbCounter').textContent = (lbIndex+1)+' / '+currentItems.length;
 }
 function lbStep(d){ lbIndex=(lbIndex+d+currentItems.length)%currentItems.length; updateLb(); }
