@@ -3707,7 +3707,7 @@
     "name": "Tables",
     "folder": "Tables",
     "desc": "A full range of event tables — banquet, cocktail, round, serpentine, classroom and specialty tables in wood, glass and mirrored finishes.",
-    "cover": "Tables/Country wood table. It has cast iron legs with a distressed wood top. This table measures W98_xD39_xH31.jpg",
+    "cover": "Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.jpg",
     "count": 20,
     "children": [
       {
@@ -3715,35 +3715,42 @@
         "name": "Wood & Banquet Tables",
         "folder": "Tables",
         "desc": "Classic wood, banquet, serpentine and classroom tables — the sturdy foundation for any seated event.",
-        "cover": "Tables/Banquet and Tuscan Tables.jpg",
-        "count": 4,
+        "cover": "Tables/7’ Serpentine Tables.jpg",
+        "count": 5,
         "items": [
           {
-            "src": "Tables/Banquet and Tuscan Tables.jpg",
-            "thumb": "Tables/Banquet and Tuscan Tables.jpg",
+            "src": "Tables/7’ Serpentine Tables.jpg",
+            "thumb": "Tables/7’ Serpentine Tables.jpg",
+            "title": "7’ Serpentine Tables",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Tables/Banquet and Tuscan Tables 6’x30”x30” 8’x30”x30” 6’x30”x42” high  8’x30”x42” high  8’x42”x30” 10’x42”x30.jpg",
+            "thumb": "Tables/Banquet and Tuscan Tables 6’x30”x30” 8’x30”x30” 6’x30”x42” high  8’x30”x42” high  8’x42”x30” 10’x42”x30.jpg",
             "title": "Banquet and Tuscan Tables",
-            "dims": "",
+            "dims": "6' x 30\" x 30\" · 8' x 30\" x 30\" · 6' x 30\" x 42\" high · 8' x 30\" x 42\" high · 8' x 42\" x 30\" · 10' x 42\" x 30",
             "note": ""
           },
           {
-            "src": "Tables/Classroom Tables.jpg",
-            "thumb": "Tables/Classroom Tables.jpg",
+            "src": "Tables/Classroom Tables Size 6’x18”x30”high Size 8’x18”x30”high  Size 8’x18’x42” high  Size 6’x18”x42” high.jpg",
+            "thumb": "Tables/Classroom Tables Size 6’x18”x30”high Size 8’x18”x30”high  Size 8’x18’x42” high  Size 6’x18”x42” high.jpg",
             "title": "Classroom Tables",
-            "dims": "",
+            "dims": "6' x 18\" x 30\" high · 8' x 18\" x 30\" high · 8' x 18' x 42\" high · 6' x 18\" x 42\" high",
             "note": ""
           },
           {
-            "src": "Tables/Country wood table. It has cast iron legs with a distressed wood top. This table measures W98_xD39_xH31.jpg",
-            "thumb": "Tables/Country wood table. It has cast iron legs with a distressed wood top. This table measures W98_xD39_xH31.jpg",
+            "src": "Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.jpg",
+            "thumb": "Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.jpg",
             "title": "Country Wood Table",
-            "dims": "",
-            "note": "It has cast iron legs with a distressed wood top. This table measures W98\"xD39\"xH31"
+            "dims": "W98 x D39 x H31",
+            "note": "It has cast iron legs with a distressed wood top"
           },
           {
-            "src": "Tables/Serpentine Tables.jpg",
-            "thumb": "Tables/Serpentine Tables.jpg",
-            "title": "Serpentine Tables",
-            "dims": "",
+            "src": "Tables/Farm tables Size 9’x39”wide x30” high  Size 8’x39”wide x30 high.jpg",
+            "thumb": "Tables/Farm tables Size 9’x39”wide x30” high  Size 8’x39”wide x30 high.jpg",
+            "title": "Farm Tables",
+            "dims": "9' x 39\" wide x 30\" high · 8' x 39\" wide x 30 high",
             "note": ""
           }
         ]
@@ -3753,21 +3760,21 @@
         "name": "Round Tables",
         "folder": "Tables",
         "desc": "Round and cocktail-round tables, perfect for guest seating and dining.",
-        "cover": "Tables/Cocktail and Round Tables 2.jpg",
+        "cover": "Tables/Cocktail and Round Tables.jpg",
         "count": 3,
         "items": [
-          {
-            "src": "Tables/Cocktail and Round Tables 2.jpg",
-            "thumb": "Tables/Cocktail and Round Tables 2.jpg",
-            "title": "Cocktail and Round Tables",
-            "dims": "",
-            "note": ""
-          },
           {
             "src": "Tables/Cocktail and Round Tables.jpg",
             "thumb": "Tables/Cocktail and Round Tables.jpg",
             "title": "Cocktail and Round Tables",
             "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Tables/Half moon tables 30”x30” low 36”x30” low  48” Round  60” Round  72” Round  84” Round  48”.jpg",
+            "thumb": "Tables/Half moon tables 30”x30” low 36”x30” low  48” Round  60” Round  72” Round  84” Round  48”.jpg",
+            "title": "Half Moon Tables",
+            "dims": "30\" x 30\" low · 36\" x 30\" low · 48\" Round · 60\" Round · 72\" Round · 84\" Round · 48\"",
             "note": ""
           },
           {
@@ -3784,14 +3791,14 @@
         "name": "Cocktail Tables",
         "folder": "Tables",
         "desc": "Low and high cocktail tables, including styles on wheels, for lounge and mingling areas.",
-        "cover": "Tables/High Cocktail Table.jpg",
-        "count": 6,
+        "cover": "Tables/High cocktail 30”x42” high  36”x42” high.jpg",
+        "count": 5,
         "items": [
           {
-            "src": "Tables/High Cocktail Table.jpg",
-            "thumb": "Tables/High Cocktail Table.jpg",
-            "title": "High Cocktail Table",
-            "dims": "",
+            "src": "Tables/High cocktail 30”x42” high  36”x42” high.jpg",
+            "thumb": "Tables/High cocktail 30”x42” high  36”x42” high.jpg",
+            "title": "High Cocktail",
+            "dims": "30\" x 42\" high · 36\" x 42\" high",
             "note": ""
           },
           {
@@ -3812,13 +3819,6 @@
             "src": "Tables/Low and High Cocktail Tables 2.png",
             "thumb": "Tables/Low and High Cocktail Tables 2.png",
             "title": "Low and High Cocktail Tables",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Tables/Low Tables on Wheels 2.jpg",
-            "thumb": "Tables/Low Tables on Wheels 2.jpg",
-            "title": "Low Tables on Wheels",
             "dims": "",
             "note": ""
           },
@@ -3868,17 +3868,17 @@
             "note": ""
           },
           {
-            "src": "Tables/Mirrored Cocktail Table.jpg",
-            "thumb": "Tables/Mirrored Cocktail Table.jpg",
+            "src": "Tables/Mirrored Cocktail Table 36'' x 36'' Square.jpg",
+            "thumb": "Tables/Mirrored Cocktail Table 36'' x 36'' Square.jpg",
             "title": "Mirrored Cocktail Table",
-            "dims": "",
+            "dims": "36\" x 36\" Square",
             "note": ""
           },
           {
-            "src": "Tables/White Acrylic Tables.png",
-            "thumb": "Tables/White Acrylic Tables.png",
+            "src": "Tables/White Acrylic Tables Size 10’x42”x30” high  Size 8’x42”x30” high.png",
+            "thumb": "Tables/White Acrylic Tables Size 10’x42”x30” high  Size 8’x42”x30” high.png",
             "title": "White Acrylic Tables",
-            "dims": "",
+            "dims": "10' x 42\" x 30\" high · 8' x 42\" x 30\" high",
             "note": ""
           }
         ]
@@ -3888,13 +3888,13 @@
         "name": "Specialty Tables",
         "folder": "Tables",
         "desc": "Statement pieces like our light-up tables to add a wow factor to your event.",
-        "cover": "Tables/Light-Up Tables and Chairs.png",
+        "cover": "Tables/High and low light tables and chairs.png",
         "count": 1,
         "items": [
           {
-            "src": "Tables/Light-Up Tables and Chairs.png",
-            "thumb": "Tables/Light-Up Tables and Chairs.png",
-            "title": "Light-Up Tables and Chairs",
+            "src": "Tables/High and low light tables and chairs.png",
+            "thumb": "Tables/High and low light tables and chairs.png",
+            "title": "High and Low Light Tables and Chairs",
             "dims": "",
             "note": ""
           }
