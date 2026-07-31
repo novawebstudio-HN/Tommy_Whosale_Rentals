@@ -58,6 +58,12 @@ DESC = {
     'Displays': 'Create stunning focal points with our large display pieces, perfect for showcasing floral arrangements or candles. They add height and drama, transforming any space.',
     'Furniture': 'Complete your event with our furniture rentals — day beds, ramps, napkins and event essentials designed for comfort and elegance.',
     'Tables': 'A full range of event tables — banquet, cocktail, round, serpentine, classroom and specialty tables in wood, glass and mirrored finishes.',
+    'Wood & Banquet Tables': 'Classic wood, banquet, serpentine and classroom tables — the sturdy foundation for any seated event.',
+    'Round Tables': 'Round and cocktail-round tables, perfect for guest seating and dining.',
+    'Cocktail Tables': 'Low and high cocktail tables, including styles on wheels, for lounge and mingling areas.',
+    'Acrylic, Crystal & Glass Tables': 'Modern acrylic, crystal, glass and mirrored tables for a sleek, elegant look.',
+    'Specialty Tables': 'Statement pieces like our light-up tables to add a wow factor to your event.',
+    'Other Tables': 'Additional table options for your event.',
     'Risers & Stages': 'Sturdy risers and staging to add height and create a focal point — perfect for cakes, head tables and performances.',
     'Lamps & Lighting': 'Brighten your event with our elegant lamps and lighting rentals, creating a warm, inviting atmosphere that enhances the ambiance of any occasion.',
     'Pedestals & Columns': 'Elevate your event decor with our elegant pedestals and columns. Ideal for floral displays or dramatic focal points, adding height and sophistication to any space.',
@@ -122,20 +128,33 @@ def dancefloor_key(f):
 def table_key(f):
     """Agrupa por material/tipo: madera/banquete, redondas, coctel,
     acrilico/cristal/vidrio/espejo, y especiales (light-up) al final."""
+    return (table_rank(f), parse_name(f)[0].lower())
+
+
+def table_rank(f):
     n = f.lower()
     if any(k in n for k in ('acrylic', 'crystal', 'glass', 'mirror')):
-        rank = 3
-    elif 'light-up' in n or 'light up' in n:
-        rank = 4
-    elif any(k in n for k in ('wood', 'tuscan', 'banquet', 'serpentine', 'classroom')):
-        rank = 0
-    elif 'round' in n:
-        rank = 1
-    elif 'cocktail' in n or 'wheels' in n:
-        rank = 2
-    else:
-        rank = 5
-    return (rank, parse_name(f)[0].lower())
+        return 3
+    if 'light-up' in n or 'light up' in n:
+        return 4
+    if any(k in n for k in ('wood', 'tuscan', 'banquet', 'serpentine', 'classroom')):
+        return 0
+    if 'round' in n:
+        return 1
+    if 'cocktail' in n or 'wheels' in n:
+        return 2
+    return 5
+
+
+# Nombre de subcategoria por rank (para dividir Tables en secciones)
+TABLE_SUBCATS = {
+    0: 'Wood & Banquet Tables',
+    1: 'Round Tables',
+    2: 'Cocktail Tables',
+    3: 'Acrylic, Crystal & Glass Tables',
+    4: 'Specialty Tables',
+    5: 'Other Tables',
+}
 
 MINOR = {'a', 'an', 'and', 'the', 'of', 'with', 'in', 'on', 'or', 'to', 'for', 'x'}
 KEEP_UPPER = {'LED', 'U', 'US', 'TV', 'DJ'}
@@ -352,6 +371,25 @@ def category_node(rel, items):
             'cover': pick_cover(rel, items), 'count': len(items), 'items': items}
 
 
+def build_table_group():
+    """Tables es una carpeta plana; la dividimos en subcategorias por material."""
+    items = images_in('Tables')          # ya vienen ordenados por rank y titulo
+    buckets = {}
+    for it in items:
+        buckets.setdefault(table_rank(it['file']), []).append(it)
+    children = []
+    for r in sorted(buckets):
+        bitems = buckets[r]
+        nm = TABLE_SUBCATS.get(r, 'Other Tables')
+        children.append({'type': 'category', 'name': nm, 'folder': 'Tables',
+                         'desc': DESC.get(nm, ''), 'cover': bitems[0]['thumb'],
+                         'count': len(bitems), 'items': bitems})
+    all_items = [it for c in children for it in c['items']]
+    return {'type': 'group', 'name': name_for('Tables'), 'folder': 'Tables',
+            'desc': DESC.get('Tables', ''), 'cover': pick_cover('Tables', all_items),
+            'count': sum(c['count'] for c in children), 'children': children}
+
+
 def strip_files(node):
     if node['type'] == 'group':
         for c in node['children']:
@@ -372,6 +410,9 @@ def main():
 
     tree = []
     for top in tops:
+        if top == 'Tables':
+            tree.append(build_table_group())
+            continue
         direct = images_in(top)
         sub_children = []
         for sub in subdirs(top):
