@@ -4,7 +4,7 @@
     "name": "Accessories",
     "folder": "Accessories",
     "desc": "The finishing touches — charger plates and beaded lampshades that complete a refined table.",
-    "cover": "Accessories/Charger Plates/Clear Glass Silver Rim.png",
+    "cover": "thumbs/Accessories/Charger Plates/Clear Glass Silver Rim.webp",
     "count": 23,
     "children": [
       {
@@ -12,89 +12,89 @@
         "name": "Charger Plates",
         "folder": "Accessories/Charger Plates",
         "desc": "Enhance your dining experience with our stylish chargers, designed to sit seamlessly beneath dinner plates. Crafted for both beauty and function, they protect your table while adding a sophisticated layer to any setting.",
-        "cover": "Accessories/Charger Plates/Clear Glass Silver Rim.png",
+        "cover": "thumbs/Accessories/Charger Plates/Clear Glass Silver Rim.webp",
         "count": 12,
         "items": [
           {
             "src": "Accessories/Charger Plates/Clear Glass Silver Rim.png",
-            "thumb": "Accessories/Charger Plates/Clear Glass Silver Rim.png",
+            "thumb": "thumbs/Accessories/Charger Plates/Clear Glass Silver Rim.webp",
             "title": "Clear Glass Silver Rim",
             "dims": "",
             "note": ""
           },
           {
             "src": "Accessories/Charger Plates/Clear Glass Sunburts Charger.png",
-            "thumb": "Accessories/Charger Plates/Clear Glass Sunburts Charger.png",
+            "thumb": "thumbs/Accessories/Charger Plates/Clear Glass Sunburts Charger.webp",
             "title": "Clear Glass Sunburts Charger",
             "dims": "",
             "note": ""
           },
           {
             "src": "Accessories/Charger Plates/Clear Glass With Gold Rim.png",
-            "thumb": "Accessories/Charger Plates/Clear Glass With Gold Rim.png",
+            "thumb": "thumbs/Accessories/Charger Plates/Clear Glass With Gold Rim.webp",
             "title": "Clear Glass with Gold Rim",
             "dims": "",
             "note": ""
           },
           {
             "src": "Accessories/Charger Plates/Frost Glass With Silver Beads.png",
-            "thumb": "Accessories/Charger Plates/Frost Glass With Silver Beads.png",
+            "thumb": "thumbs/Accessories/Charger Plates/Frost Glass With Silver Beads.webp",
             "title": "Frost Glass with Silver Beads",
             "dims": "",
             "note": ""
           },
           {
             "src": "Accessories/Charger Plates/Light Blue Glass Sunburst Charger.png",
-            "thumb": "Accessories/Charger Plates/Light Blue Glass Sunburst Charger.png",
+            "thumb": "thumbs/Accessories/Charger Plates/Light Blue Glass Sunburst Charger.webp",
             "title": "Light Blue Glass Sunburst Charger",
             "dims": "",
             "note": ""
           },
           {
             "src": "Accessories/Charger Plates/Light Green Glass Sunburst Charger.png",
-            "thumb": "Accessories/Charger Plates/Light Green Glass Sunburst Charger.png",
+            "thumb": "thumbs/Accessories/Charger Plates/Light Green Glass Sunburst Charger.webp",
             "title": "Light Green Glass Sunburst Charger",
             "dims": "",
             "note": ""
           },
           {
             "src": "Accessories/Charger Plates/13´´ Round Clear Glass Charger Plate With Gold Ball Trim.png",
-            "thumb": "Accessories/Charger Plates/13´´ Round Clear Glass Charger Plate With Gold Ball Trim.png",
+            "thumb": "thumbs/Accessories/Charger Plates/13´´ Round Clear Glass Charger Plate With Gold Ball Trim.webp",
             "title": "Round Clear Glass Charger Plate with Gold Ball Trim",
             "dims": "13\"",
             "note": ""
           },
           {
             "src": "Accessories/Charger Plates/11´´ Round Clear Glass Charger Plate With Silver Ball Trim(1).png",
-            "thumb": "Accessories/Charger Plates/11´´ Round Clear Glass Charger Plate With Silver Ball Trim(1).png",
+            "thumb": "thumbs/Accessories/Charger Plates/11´´ Round Clear Glass Charger Plate With Silver Ball Trim(1).webp",
             "title": "Round Clear Glass Charger Plate with Silver Ball Trim",
             "dims": "11\"",
             "note": ""
           },
           {
             "src": "Accessories/Charger Plates/11´´ Round Clear Glass Charger Plate With Silver Ball Trim.png",
-            "thumb": "Accessories/Charger Plates/11´´ Round Clear Glass Charger Plate With Silver Ball Trim.png",
+            "thumb": "thumbs/Accessories/Charger Plates/11´´ Round Clear Glass Charger Plate With Silver Ball Trim.webp",
             "title": "Round Clear Glass Charger Plate with Silver Ball Trim",
             "dims": "11\"",
             "note": ""
           },
           {
             "src": "Accessories/Charger Plates/13´´ Round White Frosted Glass Charger Plate With Silver Ball Trim.png",
-            "thumb": "Accessories/Charger Plates/13´´ Round White Frosted Glass Charger Plate With Silver Ball Trim.png",
+            "thumb": "thumbs/Accessories/Charger Plates/13´´ Round White Frosted Glass Charger Plate With Silver Ball Trim.webp",
             "title": "Round White Frosted Glass Charger Plate with Silver Ball Trim",
             "dims": "13\"",
             "note": ""
           },
           {
             "src": "Accessories/Charger Plates/13´´ Square Black High Glass Ceramic Charger Plate.png",
-            "thumb": "Accessories/Charger Plates/13´´ Square Black High Glass Ceramic Charger Plate.png",
+            "thumb": "thumbs/Accessories/Charger Plates/13´´ Square Black High Glass Ceramic Charger Plate.webp",
             "title": "Square Black High Glass Ceramic Charger Plate",
             "dims": "13\"",
             "note": ""
           },
           {
             "src": "Accessories/Charger Plates/Sultry Glass Sunburst Charger .png",
-            "thumb": "Accessories/Charger Plates/Sultry Glass Sunburst Charger .png",
+            "thumb": "thumbs/Accessories/Charger Plates/Sultry Glass Sunburst Charger .webp",
             "title": "Sultry Glass Sunburst Charger",
             "dims": "",
             "note": ""
@@ -106,82 +106,82 @@
         "name": "Shades",
         "folder": "Accessories/Shades",
         "desc": "Create an intimate, romantic ambiance with our elegant table lampshades, perfect for weddings and special events. These charming accents add a soft, warm glow to your decor.",
-        "cover": "Accessories/Shades/Beaded shade with hanging beads. Available in sand, gold, and silver..png",
+        "cover": "thumbs/Accessories/Shades/Beaded shade with hanging beads. Available in sand, gold, and silver..webp",
         "count": 11,
         "items": [
           {
             "src": "Accessories/Shades/Beaded shade with hanging beads. Available in sand, gold, and silver..png",
-            "thumb": "Accessories/Shades/Beaded shade with hanging beads. Available in sand, gold, and silver..png",
+            "thumb": "thumbs/Accessories/Shades/Beaded shade with hanging beads. Available in sand, gold, and silver..webp",
             "title": "Beaded Shade with Hanging Beads",
             "dims": "",
             "note": "Available in sand, gold, and silver"
           },
           {
             "src": "Accessories/Shades/Black cylinder beaded shade.png",
-            "thumb": "Accessories/Shades/Black cylinder beaded shade.png",
+            "thumb": "thumbs/Accessories/Shades/Black cylinder beaded shade.webp",
             "title": "Black Cylinder Beaded Shade",
             "dims": "",
             "note": ""
           },
           {
             "src": "Accessories/Shades/Brown Beaded Shade.png",
-            "thumb": "Accessories/Shades/Brown Beaded Shade.png",
+            "thumb": "thumbs/Accessories/Shades/Brown Beaded Shade.webp",
             "title": "Brown Beaded Shade",
             "dims": "",
             "note": ""
           },
           {
             "src": "Accessories/Shades/Gold cylinder beaded shade.png",
-            "thumb": "Accessories/Shades/Gold cylinder beaded shade.png",
+            "thumb": "thumbs/Accessories/Shades/Gold cylinder beaded shade.webp",
             "title": "Gold Cylinder Beaded Shade",
             "dims": "",
             "note": ""
           },
           {
             "src": "Accessories/Shades/Gold pierced shade.png",
-            "thumb": "Accessories/Shades/Gold pierced shade.png",
+            "thumb": "thumbs/Accessories/Shades/Gold pierced shade.webp",
             "title": "Gold Pierced Shade",
             "dims": "",
             "note": ""
           },
           {
             "src": "Accessories/Shades/Gold, clear, brown, and amber beads complete this shade and fringe.png",
-            "thumb": "Accessories/Shades/Gold, clear, brown, and amber beads complete this shade and fringe.png",
+            "thumb": "thumbs/Accessories/Shades/Gold, clear, brown, and amber beads complete this shade and fringe.webp",
             "title": "Gold, Clear, Brown, and Amber Beads",
             "dims": "",
             "note": "Complete this shade and fringe"
           },
           {
             "src": "Accessories/Shades/Ivory pleated fabric shade.png",
-            "thumb": "Accessories/Shades/Ivory pleated fabric shade.png",
+            "thumb": "thumbs/Accessories/Shades/Ivory pleated fabric shade.webp",
             "title": "Ivory Pleated Fabric Shade",
             "dims": "",
             "note": ""
           },
           {
             "src": "Accessories/Shades/Silver cylinder beaded shade.png",
-            "thumb": "Accessories/Shades/Silver cylinder beaded shade.png",
+            "thumb": "thumbs/Accessories/Shades/Silver cylinder beaded shade.webp",
             "title": "Silver Cylinder Beaded Shade",
             "dims": "",
             "note": ""
           },
           {
             "src": "Accessories/Shades/13´´ Square Black High Glass Ceramic Charger Plate(1).png",
-            "thumb": "Accessories/Shades/13´´ Square Black High Glass Ceramic Charger Plate(1).png",
+            "thumb": "thumbs/Accessories/Shades/13´´ Square Black High Glass Ceramic Charger Plate(1).webp",
             "title": "Square Black High Glass Ceramic Charger Plate",
             "dims": "13\"",
             "note": ""
           },
           {
             "src": "Accessories/Shades/13´´ Square Black High Glass Ceramic Charger Plate.png",
-            "thumb": "Accessories/Shades/13´´ Square Black High Glass Ceramic Charger Plate.png",
+            "thumb": "thumbs/Accessories/Shades/13´´ Square Black High Glass Ceramic Charger Plate.webp",
             "title": "Square Black High Glass Ceramic Charger Plate",
             "dims": "13\"",
             "note": ""
           },
           {
             "src": "Accessories/Shades/White Pleated Fabric Shade.png",
-            "thumb": "Accessories/Shades/White Pleated Fabric Shade.png",
+            "thumb": "thumbs/Accessories/Shades/White Pleated Fabric Shade.webp",
             "title": "White Pleated Fabric Shade",
             "dims": "",
             "note": ""
@@ -195,117 +195,117 @@
     "name": "Arches & Chuppahs",
     "folder": "Arches & Chuppahs",
     "desc": "Frame your perfect moment with our elegant arches and chuppahs. Whether you prefer classic or modern styles, our rentals provide the perfect backdrop for your vows, creating a stunning focal point for your special day.",
-    "cover": "Arches & Chuppahs/Butterfly arch. Available in white and natural wrought iron.png",
+    "cover": "thumbs/Arches & Chuppahs/Butterfly arch. Available in white and natural wrought iron.webp",
     "count": 16,
     "items": [
       {
         "src": "Arches & Chuppahs/Butterfly arch. Available in white and natural wrought iron.png",
-        "thumb": "Arches & Chuppahs/Butterfly arch. Available in white and natural wrought iron.png",
+        "thumb": "thumbs/Arches & Chuppahs/Butterfly arch. Available in white and natural wrought iron.webp",
         "title": "Butterfly Arch",
         "dims": "",
         "note": "Available in white and natural wrought iron"
       },
       {
         "src": "Arches & Chuppahs/Chuppa poles are 7 feet tall, and available in either gold or silver.png",
-        "thumb": "Arches & Chuppahs/Chuppa poles are 7 feet tall, and available in either gold or silver.png",
+        "thumb": "thumbs/Arches & Chuppahs/Chuppa poles are 7 feet tall, and available in either gold or silver.webp",
         "title": "Chuppa Poles Are 7 Feet Tall",
         "dims": "",
         "note": "Available in either gold or silver"
       },
       {
         "src": "Arches & Chuppahs/Chuppa with 7 foot iron columns and 4_x8_ top.png",
-        "thumb": "Arches & Chuppahs/Chuppa with 7 foot iron columns and 4_x8_ top.png",
+        "thumb": "thumbs/Arches & Chuppahs/Chuppa with 7 foot iron columns and 4_x8_ top.webp",
         "title": "Chuppa with 7 Foot Iron Columns and Top",
         "dims": "4\" × 8\"",
         "note": ""
       },
       {
         "src": "Arches & Chuppahs/Clear Acrylic Floral Arch.png",
-        "thumb": "Arches & Chuppahs/Clear Acrylic Floral Arch.png",
+        "thumb": "thumbs/Arches & Chuppahs/Clear Acrylic Floral Arch.webp",
         "title": "Clear Acrylic Floral Arch",
         "dims": "",
         "note": ""
       },
       {
         "src": "Arches & Chuppahs/Clear Chuppah with Floral Top.png",
-        "thumb": "Arches & Chuppahs/Clear Chuppah with Floral Top.png",
+        "thumb": "thumbs/Arches & Chuppahs/Clear Chuppah with Floral Top.webp",
         "title": "Clear Chuppah with Floral Top",
         "dims": "",
         "note": ""
       },
       {
         "src": "Arches & Chuppahs/Clear Column white top chuppah  7x7x7.png",
-        "thumb": "Arches & Chuppahs/Clear Column white top chuppah  7x7x7.png",
+        "thumb": "thumbs/Arches & Chuppahs/Clear Column white top chuppah  7x7x7.webp",
         "title": "Clear Column White Top Chuppah 7x7x7",
         "dims": "",
         "note": ""
       },
       {
         "src": "Arches & Chuppahs/Draped Floral Chuppah.png",
-        "thumb": "Arches & Chuppahs/Draped Floral Chuppah.png",
+        "thumb": "thumbs/Arches & Chuppahs/Draped Floral Chuppah.webp",
         "title": "Draped Floral Chuppah",
         "dims": "",
         "note": ""
       },
       {
         "src": "Arches & Chuppahs/8_ Greek 4 column chuppa with 4_x8_ top. Available in Ivory and Gray.png",
-        "thumb": "Arches & Chuppahs/8_ Greek 4 column chuppa with 4_x8_ top. Available in Ivory and Gray.png",
+        "thumb": "thumbs/Arches & Chuppahs/8_ Greek 4 column chuppa with 4_x8_ top. Available in Ivory and Gray.webp",
         "title": "Greek 4 Column Chuppa with Top",
         "dims": "8\" / 4\" × 8\"",
         "note": "Available in Ivory and Gray"
       },
       {
         "src": "Arches & Chuppahs/Suspended Floral Canopy.png",
-        "thumb": "Arches & Chuppahs/Suspended Floral Canopy.png",
+        "thumb": "thumbs/Arches & Chuppahs/Suspended Floral Canopy.webp",
         "title": "Suspended Floral Canopy",
         "dims": "",
         "note": ""
       },
       {
         "src": "Arches & Chuppahs/Veranda arbor, 48_Wx12_Dx88_H.png",
-        "thumb": "Arches & Chuppahs/Veranda arbor, 48_Wx12_Dx88_H.png",
+        "thumb": "thumbs/Arches & Chuppahs/Veranda arbor, 48_Wx12_Dx88_H.webp",
         "title": "Veranda Arbor",
         "dims": "48\"W × 12\"D × 88\"H",
         "note": ""
       },
       {
         "src": "Arches & Chuppahs/White Floral Chuppah.png",
-        "thumb": "Arches & Chuppahs/White Floral Chuppah.png",
+        "thumb": "thumbs/Arches & Chuppahs/White Floral Chuppah.webp",
         "title": "White Floral Chuppah",
         "dims": "",
         "note": ""
       },
       {
         "src": "Arches & Chuppahs/Wrought iron archway with point_.png",
-        "thumb": "Arches & Chuppahs/Wrought iron archway with point_.png",
+        "thumb": "thumbs/Arches & Chuppahs/Wrought iron archway with point_.webp",
         "title": "Wrought Iron Archway with Point",
         "dims": "",
         "note": ""
       },
       {
         "src": "Arches & Chuppahs/Wrought iron classic round arch. 85_H x 50_W.png",
-        "thumb": "Arches & Chuppahs/Wrought iron classic round arch. 85_H x 50_W.png",
+        "thumb": "thumbs/Arches & Chuppahs/Wrought iron classic round arch. 85_H x 50_W.webp",
         "title": "Wrought Iron Classic Round Arch",
         "dims": "85\"H × 50\"W",
         "note": ""
       },
       {
         "src": "Arches & Chuppahs/Wrought iron gaelic gazebo.Available in white. 120_H x 99_W x 99_D.png",
-        "thumb": "Arches & Chuppahs/Wrought iron gaelic gazebo.Available in white. 120_H x 99_W x 99_D.png",
+        "thumb": "thumbs/Arches & Chuppahs/Wrought iron gaelic gazebo.Available in white. 120_H x 99_W x 99_D.webp",
         "title": "Wrought Iron Gaelic Gazebo",
         "dims": "",
         "note": "Available in white. 120\"H x 99\"W x 99\"D"
       },
       {
         "src": "Arches & Chuppahs/Wrought iron grecian arbor. Available in white. 80_Wx18_Dx1O2_H.png",
-        "thumb": "Arches & Chuppahs/Wrought iron grecian arbor. Available in white. 80_Wx18_Dx1O2_H.png",
+        "thumb": "thumbs/Arches & Chuppahs/Wrought iron grecian arbor. Available in white. 80_Wx18_Dx1O2_H.webp",
         "title": "Wrought Iron Grecian Arbor",
         "dims": "",
         "note": "Available in white. 80\"Wx18\"Dx1O2\"H"
       },
       {
         "src": "Arches & Chuppahs/Wrought iron with point, 55_Wx12_Dx101_H.png",
-        "thumb": "Arches & Chuppahs/Wrought iron with point, 55_Wx12_Dx101_H.png",
+        "thumb": "thumbs/Arches & Chuppahs/Wrought iron with point, 55_Wx12_Dx101_H.webp",
         "title": "Wrought Iron with Point",
         "dims": "55\"W × 12\"D × 101\"H",
         "note": ""
@@ -317,96 +317,96 @@
     "name": "Bar",
     "folder": "Bar",
     "desc": "Statement bars for any event — from classic white and black designs to rustic and modern LED-lit styles.",
-    "cover": "Bar/Black Bar  Size 7’ wide x 24” deep.jpg",
+    "cover": "thumbs/Bar/Black Bar  Size 7’ wide x 24” deep.webp",
     "count": 13,
     "items": [
       {
         "src": "Bar/Black Bar  Size 7’ wide x 24” deep.jpg",
-        "thumb": "Bar/Black Bar  Size 7’ wide x 24” deep.jpg",
+        "thumb": "thumbs/Bar/Black Bar  Size 7’ wide x 24” deep.webp",
         "title": "Black Bar Size 7' Wide x Deep",
         "dims": "24\"",
         "note": ""
       },
       {
         "src": "Bar/Black Bar Size 5_ Wide X 3_ Deep.png",
-        "thumb": "Bar/Black Bar Size 5_ Wide X 3_ Deep.png",
+        "thumb": "thumbs/Bar/Black Bar Size 5_ Wide X 3_ Deep.webp",
         "title": "Black Bar Size Ide x Eep",
         "dims": "5\" W / 3\" D",
         "note": ""
       },
       {
         "src": "Bar/Boom Box DJ Booth  Size 6’ wide x 20” deep.png",
-        "thumb": "Bar/Boom Box DJ Booth  Size 6’ wide x 20” deep.png",
+        "thumb": "thumbs/Bar/Boom Box DJ Booth  Size 6’ wide x 20” deep.webp",
         "title": "Boom Box DJ Booth Size 6' Wide x Deep",
         "dims": "20\"",
         "note": ""
       },
       {
         "src": "Bar/Corrugated Metal Led Bar Size 5_ Wide X 20_ Deep.png",
-        "thumb": "Bar/Corrugated Metal Led Bar Size 5_ Wide X 20_ Deep.png",
+        "thumb": "thumbs/Bar/Corrugated Metal Led Bar Size 5_ Wide X 20_ Deep.webp",
         "title": "Corrugated Metal LED Bar Size Ide x Eep",
         "dims": "5\" W / 20\" D",
         "note": ""
       },
       {
         "src": "Bar/Natural wood Bar  Size 6’ wide x 24” deep.png",
-        "thumb": "Bar/Natural wood Bar  Size 6’ wide x 24” deep.png",
+        "thumb": "thumbs/Bar/Natural wood Bar  Size 6’ wide x 24” deep.webp",
         "title": "Natural Wood Bar Size 6' Wide x Deep",
         "dims": "24\"",
         "note": ""
       },
       {
         "src": "Bar/Rustic Wood And Concrete Bar Size 8_ Wide X 30_ Deep.png",
-        "thumb": "Bar/Rustic Wood And Concrete Bar Size 8_ Wide X 30_ Deep.png",
+        "thumb": "thumbs/Bar/Rustic Wood And Concrete Bar Size 8_ Wide X 30_ Deep.webp",
         "title": "Rustic Wood and Concrete Bar Size Ide x Eep",
         "dims": "8\" W / 30\" D",
         "note": ""
       },
       {
         "src": "Bar/Versa Bar.png",
-        "thumb": "Bar/Versa Bar.png",
+        "thumb": "thumbs/Bar/Versa Bar.webp",
         "title": "Versa Bar",
         "dims": "",
         "note": ""
       },
       {
         "src": "Bar/White and black back bars.png",
-        "thumb": "Bar/White and black back bars.png",
+        "thumb": "thumbs/Bar/White and black back bars.webp",
         "title": "White and Black Back Bars",
         "dims": "",
         "note": ""
       },
       {
         "src": "Bar/White and Black Versa Bar  Custom  Size 6’ wide x 24” deep.png",
-        "thumb": "Bar/White and Black Versa Bar  Custom  Size 6’ wide x 24” deep.png",
+        "thumb": "thumbs/Bar/White and Black Versa Bar  Custom  Size 6’ wide x 24” deep.webp",
         "title": "White and Black Versa Bar Custom Size 6' Wide x Deep",
         "dims": "24\"",
         "note": ""
       },
       {
         "src": "Bar/White Bar Size 5´ Wide X 3´ Deep.png",
-        "thumb": "Bar/White Bar Size 5´ Wide X 3´ Deep.png",
+        "thumb": "thumbs/Bar/White Bar Size 5´ Wide X 3´ Deep.webp",
         "title": "White Bar Size 5' Wide x 3' Deep",
         "dims": "",
         "note": ""
       },
       {
         "src": "Bar/White Bar with Mirror  Size 6’ wide x 24” deep.png",
-        "thumb": "Bar/White Bar with Mirror  Size 6’ wide x 24” deep.png",
+        "thumb": "thumbs/Bar/White Bar with Mirror  Size 6’ wide x 24” deep.webp",
         "title": "White Bar with Mirror Size 6' Wide x Deep",
         "dims": "24\"",
         "note": ""
       },
       {
         "src": "Bar/White Beaded Front Bar Size 8_ Wide X 18_ Deep.png",
-        "thumb": "Bar/White Beaded Front Bar Size 8_ Wide X 18_ Deep.png",
+        "thumb": "thumbs/Bar/White Beaded Front Bar Size 8_ Wide X 18_ Deep.webp",
         "title": "White Beaded Front Bar Size Ide x Eep",
         "dims": "8\" W / 18\" D",
         "note": ""
       },
       {
         "src": "Bar/White Honeycomb Led Bar Size 6_ Wide X 12_ Deep.png",
-        "thumb": "Bar/White Honeycomb Led Bar Size 6_ Wide X 12_ Deep.png",
+        "thumb": "thumbs/Bar/White Honeycomb Led Bar Size 6_ Wide X 12_ Deep.webp",
         "title": "White Honeycomb LED Bar Size Ide x Eep",
         "dims": "6\" W / 12\" D",
         "note": ""
@@ -418,145 +418,145 @@
     "name": "Candelabras",
     "folder": "Candelabras",
     "desc": "Add timeless elegance to your event with our exquisite candelabras. These striking centerpieces bring sophistication and warmth, creating a captivating ambiance with their classic design and soft candlelight.",
-    "cover": "Candelabras/10 arm all crystal contemporary candelabra with candle hurricanes.png",
+    "cover": "thumbs/Candelabras/10 arm all crystal contemporary candelabra with candle hurricanes.webp",
     "count": 20,
     "items": [
       {
         "src": "Candelabras/10 arm all crystal contemporary candelabra with candle hurricanes.png",
-        "thumb": "Candelabras/10 arm all crystal contemporary candelabra with candle hurricanes.png",
+        "thumb": "thumbs/Candelabras/10 arm all crystal contemporary candelabra with candle hurricanes.webp",
         "title": "10 Arm All Crystal Contemporary Candelabra with Candle Hurricanes",
         "dims": "",
         "note": ""
       },
       {
         "src": "Candelabras/64_ 13 arm wrought iron candelabra.png",
-        "thumb": "Candelabras/64_ 13 arm wrought iron candelabra.png",
+        "thumb": "thumbs/Candelabras/64_ 13 arm wrought iron candelabra.webp",
         "title": "13 Arm Wrought Iron Candelabra",
         "dims": "64\"",
         "note": ""
       },
       {
         "src": "Candelabras/64_ 13 arm wrought iron candelabra in gold.png",
-        "thumb": "Candelabras/64_ 13 arm wrought iron candelabra in gold.png",
+        "thumb": "thumbs/Candelabras/64_ 13 arm wrought iron candelabra in gold.webp",
         "title": "13 Arm Wrought Iron Candelabra in Gold",
         "dims": "64\"",
         "note": ""
       },
       {
         "src": "Candelabras/5_ 4 arm candelabra with center.png",
-        "thumb": "Candelabras/5_ 4 arm candelabra with center.png",
+        "thumb": "thumbs/Candelabras/5_ 4 arm candelabra with center.webp",
         "title": "4 Arm Candelabra with Center",
         "dims": "5\"",
         "note": ""
       },
       {
         "src": "Candelabras/8 arm gold contemporary candelabra with glass hurricanes.png",
-        "thumb": "Candelabras/8 arm gold contemporary candelabra with glass hurricanes.png",
+        "thumb": "thumbs/Candelabras/8 arm gold contemporary candelabra with glass hurricanes.webp",
         "title": "8 Arm Gold Contemporary Candelabra with Glass Hurricanes",
         "dims": "",
         "note": ""
       },
       {
         "src": "Candelabras/9 arm all crystal candelabra with hanging prism.png",
-        "thumb": "Candelabras/9 arm all crystal candelabra with hanging prism.png",
+        "thumb": "thumbs/Candelabras/9 arm all crystal candelabra with hanging prism.webp",
         "title": "9 Arm All Crystal Candelabra with Hanging Prism",
         "dims": "",
         "note": ""
       },
       {
         "src": "Candelabras/30_ crystal and gold 4 arm candelabra with dish.png",
-        "thumb": "Candelabras/30_ crystal and gold 4 arm candelabra with dish.png",
+        "thumb": "thumbs/Candelabras/30_ crystal and gold 4 arm candelabra with dish.webp",
         "title": "Crystal and Gold 4 Arm Candelabra with Dish",
         "dims": "30\"",
         "note": ""
       },
       {
         "src": "Candelabras/30_ crystal and silver 5 arm candelabra.png",
-        "thumb": "Candelabras/30_ crystal and silver 5 arm candelabra.png",
+        "thumb": "thumbs/Candelabras/30_ crystal and silver 5 arm candelabra.webp",
         "title": "Crystal and Silver 5 Arm Candelabra",
         "dims": "30\"",
         "note": ""
       },
       {
         "src": "Candelabras/30_ crystal and silver 5 arm candelabra(1).png",
-        "thumb": "Candelabras/30_ crystal and silver 5 arm candelabra(1).png",
+        "thumb": "thumbs/Candelabras/30_ crystal and silver 5 arm candelabra(1).webp",
         "title": "Crystal and Silver 5 Arm Candelabra",
         "dims": "30\"",
         "note": ""
       },
       {
         "src": "Candelabras/39_ four arm silver candelabra.png",
-        "thumb": "Candelabras/39_ four arm silver candelabra.png",
+        "thumb": "thumbs/Candelabras/39_ four arm silver candelabra.webp",
         "title": "Four Arm Silver Candelabra",
         "dims": "39\"",
         "note": ""
       },
       {
         "src": "Candelabras/24_ gold 4 arm candelabra.png",
-        "thumb": "Candelabras/24_ gold 4 arm candelabra.png",
+        "thumb": "thumbs/Candelabras/24_ gold 4 arm candelabra.webp",
         "title": "Gold 4 Arm Candelabra",
         "dims": "24\"",
         "note": ""
       },
       {
         "src": "Candelabras/24_ gold 4 arm candelabra(1).png",
-        "thumb": "Candelabras/24_ gold 4 arm candelabra(1).png",
+        "thumb": "thumbs/Candelabras/24_ gold 4 arm candelabra(1).webp",
         "title": "Gold 4 Arm Candelabra",
         "dims": "24\"",
         "note": ""
       },
       {
         "src": "Candelabras/24_ gold 4 or 5 arm candelabra.png",
-        "thumb": "Candelabras/24_ gold 4 or 5 arm candelabra.png",
+        "thumb": "thumbs/Candelabras/24_ gold 4 or 5 arm candelabra.webp",
         "title": "Gold 4 or 5 Arm Candelabra",
         "dims": "24\"",
         "note": ""
       },
       {
         "src": "Candelabras/Large gold 5 arm candelabra.png",
-        "thumb": "Candelabras/Large gold 5 arm candelabra.png",
+        "thumb": "thumbs/Candelabras/Large gold 5 arm candelabra.webp",
         "title": "Large Gold 5 Arm Candelabra",
         "dims": "",
         "note": ""
       },
       {
         "src": "Candelabras/Large gold 5 arm candelabra(1).png",
-        "thumb": "Candelabras/Large gold 5 arm candelabra(1).png",
+        "thumb": "thumbs/Candelabras/Large gold 5 arm candelabra(1).webp",
         "title": "Large Gold 5 Arm Candelabra",
         "dims": "",
         "note": ""
       },
       {
         "src": "Candelabras/Round footed 5 arm crystal candelabra.png",
-        "thumb": "Candelabras/Round footed 5 arm crystal candelabra.png",
+        "thumb": "thumbs/Candelabras/Round footed 5 arm crystal candelabra.webp",
         "title": "Round Footed 5 Arm Crystal Candelabra",
         "dims": "",
         "note": ""
       },
       {
         "src": "Candelabras/39_ silver 5 arm candelabra.png",
-        "thumb": "Candelabras/39_ silver 5 arm candelabra.png",
+        "thumb": "thumbs/Candelabras/39_ silver 5 arm candelabra.webp",
         "title": "Silver 5 Arm Candelabra",
         "dims": "39\"",
         "note": ""
       },
       {
         "src": "Candelabras/24_ silver 5 arm candelabra.png",
-        "thumb": "Candelabras/24_ silver 5 arm candelabra.png",
+        "thumb": "thumbs/Candelabras/24_ silver 5 arm candelabra.webp",
         "title": "Silver 5 Arm Candelabra",
         "dims": "24\"",
         "note": ""
       },
       {
         "src": "Candelabras/30_ silver candelabra. Available as 5 candle or 4 arm with a center bowl.png",
-        "thumb": "Candelabras/30_ silver candelabra. Available as 5 candle or 4 arm with a center bowl.png",
+        "thumb": "thumbs/Candelabras/30_ silver candelabra. Available as 5 candle or 4 arm with a center bowl.webp",
         "title": "Silver Candelabra",
         "dims": "30\"",
         "note": "Available as 5 candle or 4 arm with a center bowl"
       },
       {
         "src": "Candelabras/U-Shape crystal candelabra.png",
-        "thumb": "Candelabras/U-Shape crystal candelabra.png",
+        "thumb": "thumbs/Candelabras/U-Shape crystal candelabra.webp",
         "title": "U-Shape Crystal Candelabra",
         "dims": "",
         "note": ""
@@ -568,7 +568,7 @@
     "name": "Candle Holders",
     "folder": "Candle Holders",
     "desc": "Candlelight for every setting — displays, candlesticks, votive holders and votive pegs.",
-    "cover": "Candle Holders/Candle Displays/5´ pedestal candle holder.png",
+    "cover": "thumbs/Candle Holders/Candle Displays/5´ pedestal candle holder.webp",
     "count": 34,
     "children": [
       {
@@ -576,54 +576,54 @@
         "name": "Candle Displays",
         "folder": "Candle Holders/Candle Displays",
         "desc": "Showcase your candles with our elegant display rentals, featuring aisle stands, wrought iron, and glass pillar holders. They add height, style, and a warm glow to your decor.",
-        "cover": "Candle Holders/Candle Displays/5´ pedestal candle holder.png",
+        "cover": "thumbs/Candle Holders/Candle Displays/5´ pedestal candle holder.webp",
         "count": 7,
         "items": [
           {
             "src": "Candle Holders/Candle Displays/5´ pedestal candle holder.png",
-            "thumb": "Candle Holders/Candle Displays/5´ pedestal candle holder.png",
+            "thumb": "thumbs/Candle Holders/Candle Displays/5´ pedestal candle holder.webp",
             "title": "5' Pedestal Candle Holder",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Candle Displays/36_ iron stand with glass vase.png",
-            "thumb": "Candle Holders/Candle Displays/36_ iron stand with glass vase.png",
+            "thumb": "thumbs/Candle Holders/Candle Displays/36_ iron stand with glass vase.webp",
             "title": "Iron Stand with Glass Vase",
             "dims": "36\"",
             "note": ""
           },
           {
             "src": "Candle Holders/Candle Displays/72_ iron stand with glass vase.png",
-            "thumb": "Candle Holders/Candle Displays/72_ iron stand with glass vase.png",
+            "thumb": "thumbs/Candle Holders/Candle Displays/72_ iron stand with glass vase.webp",
             "title": "Iron Stand with Glass Vase",
             "dims": "72\"",
             "note": ""
           },
           {
             "src": "Candle Holders/Candle Displays/84_ iron stand with glass vase.png",
-            "thumb": "Candle Holders/Candle Displays/84_ iron stand with glass vase.png",
+            "thumb": "thumbs/Candle Holders/Candle Displays/84_ iron stand with glass vase.webp",
             "title": "Iron Stand with Glass Vase",
             "dims": "84\"",
             "note": ""
           },
           {
             "src": "Candle Holders/Candle Displays/48_ iron stand with glass vase.png",
-            "thumb": "Candle Holders/Candle Displays/48_ iron stand with glass vase.png",
+            "thumb": "thumbs/Candle Holders/Candle Displays/48_ iron stand with glass vase.webp",
             "title": "Iron Stand with Glass Vase",
             "dims": "48\"",
             "note": ""
           },
           {
             "src": "Candle Holders/Candle Displays/46_ rust iron stand with glass vase.png",
-            "thumb": "Candle Holders/Candle Displays/46_ rust iron stand with glass vase.png",
+            "thumb": "thumbs/Candle Holders/Candle Displays/46_ rust iron stand with glass vase.webp",
             "title": "Rust Iron Stand with Glass Vase",
             "dims": "46\"",
             "note": ""
           },
           {
             "src": "Candle Holders/Candle Displays/70_ rust iron stand with glass vase.png",
-            "thumb": "Candle Holders/Candle Displays/70_ rust iron stand with glass vase.png",
+            "thumb": "thumbs/Candle Holders/Candle Displays/70_ rust iron stand with glass vase.webp",
             "title": "Rust Iron Stand with Glass Vase",
             "dims": "70\"",
             "note": ""
@@ -635,54 +635,54 @@
         "name": "Candlesticks",
         "folder": "Candle Holders/Candlesticks",
         "desc": "Elevate your event decor with our classic candlestick rentals — a touch of timeless elegance that creates a warm, inviting atmosphere with their graceful design and soft candlelight.",
-        "cover": "Candle Holders/Candlesticks/11 1_2_ antique gold candlestick.png",
+        "cover": "thumbs/Candle Holders/Candlesticks/11 1_2_ antique gold candlestick.webp",
         "count": 7,
         "items": [
           {
             "src": "Candle Holders/Candlesticks/11 1_2_ antique gold candlestick.png",
-            "thumb": "Candle Holders/Candlesticks/11 1_2_ antique gold candlestick.png",
+            "thumb": "thumbs/Candle Holders/Candlesticks/11 1_2_ antique gold candlestick.webp",
             "title": "Antique Gold Candlestick",
             "dims": "11 1/2\"",
             "note": ""
           },
           {
             "src": "Candle Holders/Candlesticks/6_ brown candlestick_.png",
-            "thumb": "Candle Holders/Candlesticks/6_ brown candlestick_.png",
+            "thumb": "thumbs/Candle Holders/Candlesticks/6_ brown candlestick_.webp",
             "title": "Brown Candlestick",
             "dims": "6\"",
             "note": ""
           },
           {
             "src": "Candle Holders/Candlesticks/Crystal candlesticks. Available in 7_, 8 1_2_, and 10_ heights.png",
-            "thumb": "Candle Holders/Candlesticks/Crystal candlesticks. Available in 7_, 8 1_2_, and 10_ heights.png",
+            "thumb": "thumbs/Candle Holders/Candlesticks/Crystal candlesticks. Available in 7_, 8 1_2_, and 10_ heights.webp",
             "title": "Crystal Candlesticks",
             "dims": "",
             "note": "Available in 7\", 8 1/2\", and 10\" heights"
           },
           {
             "src": "Candle Holders/Candlesticks/10_ glass heavy square base column candlestick.png",
-            "thumb": "Candle Holders/Candlesticks/10_ glass heavy square base column candlestick.png",
+            "thumb": "thumbs/Candle Holders/Candlesticks/10_ glass heavy square base column candlestick.webp",
             "title": "Glass Heavy Square Base Column Candlestick",
             "dims": "10\"",
             "note": ""
           },
           {
             "src": "Candle Holders/Candlesticks/10_ gold candlestick_.png",
-            "thumb": "Candle Holders/Candlesticks/10_ gold candlestick_.png",
+            "thumb": "thumbs/Candle Holders/Candlesticks/10_ gold candlestick_.webp",
             "title": "Gold Candlestick",
             "dims": "10\"",
             "note": ""
           },
           {
             "src": "Candle Holders/Candlesticks/12_ gold candlestick.png",
-            "thumb": "Candle Holders/Candlesticks/12_ gold candlestick.png",
+            "thumb": "thumbs/Candle Holders/Candlesticks/12_ gold candlestick.webp",
             "title": "Gold Candlestick",
             "dims": "12\"",
             "note": ""
           },
           {
             "src": "Candle Holders/Candlesticks/10 1_2_ silver candlestick.png",
-            "thumb": "Candle Holders/Candlesticks/10 1_2_ silver candlestick.png",
+            "thumb": "thumbs/Candle Holders/Candlesticks/10 1_2_ silver candlestick.webp",
             "title": "Silver Candlestick",
             "dims": "10 1/2\"",
             "note": ""
@@ -694,75 +694,75 @@
         "name": "Votive Holders",
         "folder": "Candle Holders/Votive Holders",
         "desc": "Enhance your event decor with our elegant votive holders, designed to cast a warm, ambient glow and add a touch of charm and intimacy to any table setting.",
-        "cover": "Candle Holders/Votive Holders/Crystal flared top votive holder.png",
+        "cover": "thumbs/Candle Holders/Votive Holders/Crystal flared top votive holder.webp",
         "count": 10,
         "items": [
           {
             "src": "Candle Holders/Votive Holders/Crystal flared top votive holder.png",
-            "thumb": "Candle Holders/Votive Holders/Crystal flared top votive holder.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/Crystal flared top votive holder.webp",
             "title": "Crystal Flared Top Votive Holder",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Holders/Crystal shotglass votive holder(1).png",
-            "thumb": "Candle Holders/Votive Holders/Crystal shotglass votive holder(1).png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/Crystal shotglass votive holder(1).webp",
             "title": "Crystal Shotglass Votive Holder",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Holders/Crystal shotglass votive holder.png",
-            "thumb": "Candle Holders/Votive Holders/Crystal shotglass votive holder.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/Crystal shotglass votive holder.webp",
             "title": "Crystal Shotglass Votive Holder",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Holders/7´´x3´´ Cut crystal votive holder.png",
-            "thumb": "Candle Holders/Votive Holders/7´´x3´´ Cut crystal votive holder.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/7´´x3´´ Cut crystal votive holder.webp",
             "title": "Cut Crystal Votive Holder",
             "dims": "7\" × 3\"",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Holders/8´´ Cut crystal votive holder with silver pedestal.png",
-            "thumb": "Candle Holders/Votive Holders/8´´ Cut crystal votive holder with silver pedestal.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/8´´ Cut crystal votive holder with silver pedestal.webp",
             "title": "Cut Crystal Votive Holder with Silver Pedestal",
             "dims": "8\"",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Holders/8´´ Cut crystal votive holder with stand.png",
-            "thumb": "Candle Holders/Votive Holders/8´´ Cut crystal votive holder with stand.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/8´´ Cut crystal votive holder with stand.webp",
             "title": "Cut Crystal Votive Holder with Stand",
             "dims": "8\"",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Holders/Glass table lamp with white frosted shade.png",
-            "thumb": "Candle Holders/Votive Holders/Glass table lamp with white frosted shade.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/Glass table lamp with white frosted shade.webp",
             "title": "Glass Table Lamp with White Frosted Shade",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Holders/Rounded Crystal Votive Holder.png",
-            "thumb": "Candle Holders/Votive Holders/Rounded Crystal Votive Holder.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/Rounded Crystal Votive Holder.webp",
             "title": "Rounded Crystal Votive Holder",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Holders/Silver beaded votive holder.png",
-            "thumb": "Candle Holders/Votive Holders/Silver beaded votive holder.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/Silver beaded votive holder.webp",
             "title": "Silver Beaded Votive Holder",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Holders/11´´ Silver satin table lamp.png",
-            "thumb": "Candle Holders/Votive Holders/11´´ Silver satin table lamp.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/11´´ Silver satin table lamp.webp",
             "title": "Silver Satin Table Lamp",
             "dims": "11\"",
             "note": ""
@@ -774,75 +774,75 @@
         "name": "Votive Pegs",
         "folder": "Candle Holders/Votive Pegs",
         "desc": "Illuminate your event with our stylish votive pegs, perfect for adding a warm, intimate glow to any setting and creating a cozy, inviting atmosphere.",
-        "cover": "Candle Holders/Votive Pegs/Blue crackle votive party light_.png",
+        "cover": "thumbs/Candle Holders/Votive Pegs/Blue crackle votive party light_.webp",
         "count": 10,
         "items": [
           {
             "src": "Candle Holders/Votive Pegs/Blue crackle votive party light_.png",
-            "thumb": "Candle Holders/Votive Pegs/Blue crackle votive party light_.png",
+            "thumb": "thumbs/Candle Holders/Votive Pegs/Blue crackle votive party light_.webp",
             "title": "Blue Crackle Votive Party Light",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Pegs/Clear glass votive holder with cut star pattern and nipple.png",
-            "thumb": "Candle Holders/Votive Pegs/Clear glass votive holder with cut star pattern and nipple.png",
+            "thumb": "thumbs/Candle Holders/Votive Pegs/Clear glass votive holder with cut star pattern and nipple.webp",
             "title": "Clear Glass Votive Holder with Cut Star Pattern and Nipple",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Pegs/Clear shot glass votive holder with nipple.png",
-            "thumb": "Candle Holders/Votive Pegs/Clear shot glass votive holder with nipple.png",
+            "thumb": "thumbs/Candle Holders/Votive Pegs/Clear shot glass votive holder with nipple.webp",
             "title": "Clear Shot Glass Votive Holder with Nipple",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Pegs/Gold mosiac votive holder.png",
-            "thumb": "Candle Holders/Votive Pegs/Gold mosiac votive holder.png",
+            "thumb": "thumbs/Candle Holders/Votive Pegs/Gold mosiac votive holder.webp",
             "title": "Gold Mosiac Votive Holder",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Pegs/Green crackle votive party light_.png",
-            "thumb": "Candle Holders/Votive Pegs/Green crackle votive party light_.png",
+            "thumb": "thumbs/Candle Holders/Votive Pegs/Green crackle votive party light_.webp",
             "title": "Green Crackle Votive Party Light",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Pegs/Large clear glass flaired tulip votive holder with nipple.png",
-            "thumb": "Candle Holders/Votive Pegs/Large clear glass flaired tulip votive holder with nipple.png",
+            "thumb": "thumbs/Candle Holders/Votive Pegs/Large clear glass flaired tulip votive holder with nipple.webp",
             "title": "Large Clear Glass Flaired Tulip Votive Holder with Nipple",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Pegs/Large cut glass votive holder with nipple.png",
-            "thumb": "Candle Holders/Votive Pegs/Large cut glass votive holder with nipple.png",
+            "thumb": "thumbs/Candle Holders/Votive Pegs/Large cut glass votive holder with nipple.webp",
             "title": "Large Cut Glass Votive Holder with Nipple",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Pegs/Mirrored mosiac votive holder.png",
-            "thumb": "Candle Holders/Votive Pegs/Mirrored mosiac votive holder.png",
+            "thumb": "thumbs/Candle Holders/Votive Pegs/Mirrored mosiac votive holder.webp",
             "title": "Mirrored Mosiac Votive Holder",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Pegs/Red crackle votive party light.png",
-            "thumb": "Candle Holders/Votive Pegs/Red crackle votive party light.png",
+            "thumb": "thumbs/Candle Holders/Votive Pegs/Red crackle votive party light.webp",
             "title": "Red Crackle Votive Party Light",
             "dims": "",
             "note": ""
           },
           {
             "src": "Candle Holders/Votive Pegs/Swirl glass votive holder with nipple.png",
-            "thumb": "Candle Holders/Votive Pegs/Swirl glass votive holder with nipple.png",
+            "thumb": "thumbs/Candle Holders/Votive Pegs/Swirl glass votive holder with nipple.webp",
             "title": "Swirl Glass Votive Holder with Nipple",
             "dims": "",
             "note": ""
@@ -856,7 +856,7 @@
     "name": "Centerpieces",
     "folder": "Centerpieces",
     "desc": "Bowls and pedestals to build stunning floral centerpieces with height and drama.",
-    "cover": "Centerpieces/Centerpiece Bowls/ 8 1_2_ silver footed bowl with handles.png",
+    "cover": "thumbs/Centerpieces/Centerpiece Bowls/ 8 1_2_ silver footed bowl with handles.webp",
     "count": 32,
     "children": [
       {
@@ -864,61 +864,61 @@
         "name": "Centerpiece Bowls",
         "folder": "Centerpieces/Centerpiece Bowls",
         "desc": "Complete your table setting with our elegant centerpiece bowls, perfect for florists and decorators to create stunning floral arrangements with timeless sophistication.",
-        "cover": "Centerpieces/Centerpiece Bowls/10_ cut crystal bowl with silver pedestal.png",
+        "cover": "thumbs/Centerpieces/Centerpiece Bowls/10_ cut crystal bowl with silver pedestal.webp",
         "count": 8,
         "items": [
           {
             "src": "Centerpieces/Centerpiece Bowls/10_ cut crystal bowl with silver pedestal.png",
-            "thumb": "Centerpieces/Centerpiece Bowls/10_ cut crystal bowl with silver pedestal.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Bowls/10_ cut crystal bowl with silver pedestal.webp",
             "title": "Cut Crystal Bowl with Silver Pedestal",
             "dims": "10\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Bowls/10_ footed cut crystal bowl.png",
-            "thumb": "Centerpieces/Centerpiece Bowls/10_ footed cut crystal bowl.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Bowls/10_ footed cut crystal bowl.webp",
             "title": "Footed Cut Crystal Bowl",
             "dims": "10\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Bowls/  8 1_2_ gold footed bowl with handles_.png",
-            "thumb": "Centerpieces/Centerpiece Bowls/  8 1_2_ gold footed bowl with handles_.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Bowls/  8 1_2_ gold footed bowl with handles_.webp",
             "title": "Gold Footed Bowl with Handles",
             "dims": "8 1/2\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Bowls/  10 1_2_ gold footed bowl with handles_.png",
-            "thumb": "Centerpieces/Centerpiece Bowls/  10 1_2_ gold footed bowl with handles_.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Bowls/  10 1_2_ gold footed bowl with handles_.webp",
             "title": "Gold Footed Bowl with Handles",
             "dims": "10 1/2\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Bowls/7_ gold pedestal with glass vase. Vase is 7_ high 5 3_4_ wide.png",
-            "thumb": "Centerpieces/Centerpiece Bowls/7_ gold pedestal with glass vase. Vase is 7_ high 5 3_4_ wide.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Bowls/7_ gold pedestal with glass vase. Vase is 7_ high 5 3_4_ wide.webp",
             "title": "Gold Pedestal with Glass Vase",
             "dims": "7\"",
             "note": "Vase is 7\" high 5 3/4\" wide"
           },
           {
             "src": "Centerpieces/Centerpiece Bowls/Heavy cut crystal bowl. 10_ high 9_ square _.png",
-            "thumb": "Centerpieces/Centerpiece Bowls/Heavy cut crystal bowl. 10_ high 9_ square _.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Bowls/Heavy cut crystal bowl. 10_ high 9_ square _.webp",
             "title": "Heavy Cut Crystal Bowl",
             "dims": "",
             "note": "10\" high 9\" square"
           },
           {
             "src": "Centerpieces/Centerpiece Bowls/ 8 1_2_ silver footed bowl with handles.png",
-            "thumb": "Centerpieces/Centerpiece Bowls/ 8 1_2_ silver footed bowl with handles.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Bowls/ 8 1_2_ silver footed bowl with handles.webp",
             "title": "Silver Footed Bowl with Handles",
             "dims": "8 1/2\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Bowls/ 10 1_2_ silver footed bowl with handles.png",
-            "thumb": "Centerpieces/Centerpiece Bowls/ 10 1_2_ silver footed bowl with handles.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Bowls/ 10 1_2_ silver footed bowl with handles.webp",
             "title": "Silver Footed Bowl with Handles",
             "dims": "10 1/2\"",
             "note": ""
@@ -930,173 +930,173 @@
         "name": "Centerpiece Pedestals",
         "folder": "Centerpieces/Centerpiece Pedestals",
         "desc": "Make a bold statement with our versatile centerpiece pedestals. Perfect for elevating floral arrangements on tables or creating striking displays on the floor.",
-        "cover": "Centerpieces/Centerpiece Pedestals/27.5_x7.8_ cast iron pillar candle holder.This item can be custom painted.png",
+        "cover": "thumbs/Centerpieces/Centerpiece Pedestals/27.5_x7.8_ cast iron pillar candle holder.This item can be custom painted.webp",
         "count": 24,
         "items": [
           {
             "src": "Centerpieces/Centerpiece Pedestals/27.5_x7.8_ cast iron pillar candle holder.This item can be custom painted.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/27.5_x7.8_ cast iron pillar candle holder.This item can be custom painted.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/27.5_x7.8_ cast iron pillar candle holder.This item can be custom painted.webp",
             "title": "Cast Iron Pillar Candle Holder",
             "dims": "27.5\" × 7.8\"",
             "note": "This item can be custom painted"
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/40_x 11_ cast iron pillar candle holder. This item can be custom painted.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/40_x 11_ cast iron pillar candle holder. This item can be custom painted.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/40_x 11_ cast iron pillar candle holder. This item can be custom painted.webp",
             "title": "Cast Iron Pillar Candle Holder",
             "dims": "40\" × 11\"",
             "note": "This item can be custom painted"
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/32_ cut crystal pedestal with square base.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/32_ cut crystal pedestal with square base.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/32_ cut crystal pedestal with square base.webp",
             "title": "Cut Crystal Pedestal with Square Base",
             "dims": "32\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/Floor vase. Available in 27 1_2_, 311_2_, and 35 1_2_ heights.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/Floor vase. Available in 27 1_2_, 311_2_, and 35 1_2_ heights.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/Floor vase. Available in 27 1_2_, 311_2_, and 35 1_2_ heights.webp",
             "title": "Floor Vase",
             "dims": "",
             "note": "Available in 27 1/2\", 311/2\", and 35 1/2\" heights"
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/36_ glass stand with iron vase.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/36_ glass stand with iron vase.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/36_ glass stand with iron vase.webp",
             "title": "Glass Stand with Iron Vase",
             "dims": "36\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/32_ gold and crystal pedestal with cap and dish.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/32_ gold and crystal pedestal with cap and dish.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/32_ gold and crystal pedestal with cap and dish.webp",
             "title": "Gold and Crystal Pedestal with Cap and Dish",
             "dims": "32\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/32_ gold ornate footed centerpice pedestal_.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/32_ gold ornate footed centerpice pedestal_.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/32_ gold ornate footed centerpice pedestal_.webp",
             "title": "Gold Ornate Footed Centerpice Pedestal",
             "dims": "32\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/24_ gold pedestal. Available with center dish or with center bowl.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/24_ gold pedestal. Available with center dish or with center bowl.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/24_ gold pedestal. Available with center dish or with center bowl.webp",
             "title": "Gold Pedestal",
             "dims": "24\"",
             "note": "Available with center dish or with center bowl"
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/30_ gold pedestal.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/30_ gold pedestal.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/30_ gold pedestal.webp",
             "title": "Gold Pedestal",
             "dims": "30\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/30_ hexagonal vase. This item can be custom painted any color_.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/30_ hexagonal vase. This item can be custom painted any color_.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/30_ hexagonal vase. This item can be custom painted any color_.webp",
             "title": "Hexagonal Vase",
             "dims": "30\"",
             "note": "This item can be custom painted any color"
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/72_ iron stand with glass vase.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/72_ iron stand with glass vase.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/72_ iron stand with glass vase.webp",
             "title": "Iron Stand with Glass Vase",
             "dims": "72\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/84_ iron stand with glass vase.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/84_ iron stand with glass vase.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/84_ iron stand with glass vase.webp",
             "title": "Iron Stand with Glass Vase",
             "dims": "84\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/48_ iron stand with glass vase.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/48_ iron stand with glass vase.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/48_ iron stand with glass vase.webp",
             "title": "Iron Stand with Glass Vase",
             "dims": "48\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/70_ rust iron stand with glass vase. This item can be custom painted_.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/70_ rust iron stand with glass vase. This item can be custom painted_.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/70_ rust iron stand with glass vase. This item can be custom painted_.webp",
             "title": "Rust Iron Stand with Glass Vase",
             "dims": "70\"",
             "note": "This item can be custom painted"
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/46_ rust iron stand with glass vase. This item can be custom painted_.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/46_ rust iron stand with glass vase. This item can be custom painted_.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/46_ rust iron stand with glass vase. This item can be custom painted_.webp",
             "title": "Rust Iron Stand with Glass Vase",
             "dims": "46\"",
             "note": "This item can be custom painted"
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/32_ silver and crystal pedestal with cap and dish.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/32_ silver and crystal pedestal with cap and dish.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/32_ silver and crystal pedestal with cap and dish.webp",
             "title": "Silver and Crystal Pedestal with Cap and Dish",
             "dims": "32\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/24_ silver pedestal. Available with cap and center dish or center bowl_.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/24_ silver pedestal. Available with cap and center dish or center bowl_.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/24_ silver pedestal. Available with cap and center dish or center bowl_.webp",
             "title": "Silver Pedestal",
             "dims": "24\"",
             "note": "Available with cap and center dish or center bowl"
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/30_ silver pedestal with bowl_.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/30_ silver pedestal with bowl_.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/30_ silver pedestal with bowl_.webp",
             "title": "Silver Pedestal with Bowl",
             "dims": "30\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/26_ silver square footed pedestal.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/26_ silver square footed pedestal.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/26_ silver square footed pedestal.webp",
             "title": "Silver Square Footed Pedestal",
             "dims": "26\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/36_ stand with glass bell jar.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/36_ stand with glass bell jar.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/36_ stand with glass bell jar.webp",
             "title": "Stand with Glass Bell Jar",
             "dims": "36\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/24_ stand with glass bell jar.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/24_ stand with glass bell jar.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/24_ stand with glass bell jar.webp",
             "title": "Stand with Glass Bell Jar",
             "dims": "24\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/48_ stand with glass bell jar.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/48_ stand with glass bell jar.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/48_ stand with glass bell jar.webp",
             "title": "Stand with Glass Bell Jar",
             "dims": "48\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/26_ trumpet vase.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/26_ trumpet vase.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/26_ trumpet vase.webp",
             "title": "Trumpet Vase",
             "dims": "26\"",
             "note": ""
           },
           {
             "src": "Centerpieces/Centerpiece Pedestals/33 1_4_ trumpet vase.png",
-            "thumb": "Centerpieces/Centerpiece Pedestals/33 1_4_ trumpet vase.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/33 1_4_ trumpet vase.webp",
             "title": "Trumpet Vase",
             "dims": "33 1/4\"",
             "note": ""
@@ -1110,7 +1110,7 @@
     "name": "Chairs",
     "folder": "Chairs",
     "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
-    "cover": "Chairs/Black Ballroom Chair_.png",
+    "cover": "thumbs/Chairs/Chiavari Ballroom Gold Chair.webp",
     "count": 36,
     "children": [
       {
@@ -1118,208 +1118,208 @@
         "name": "Chairs",
         "folder": "Chairs",
         "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
-        "cover": "Chairs/Black Ballroom Chair_.png",
+        "cover": "thumbs/Chairs/Chiavari Ballroom Gold Chair.webp",
         "count": 29,
         "items": [
           {
-            "src": "Chairs/Black Ballroom Chair_.png",
-            "thumb": "Chairs/Black Ballroom Chair_.png",
-            "title": "Black Ballroom Chair",
-            "dims": "",
-            "note": ""
-          },
-          {
             "src": "Chairs/Chiavari Ballroom Gold Chair.png",
-            "thumb": "Chairs/Chiavari Ballroom Gold Chair.png",
+            "thumb": "thumbs/Chairs/Chiavari Ballroom Gold Chair.webp",
             "title": "Chiavari Ballroom Gold Chair",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Chivari bar stools. Available in gold, white, black, silver, fruitwood.png",
-            "thumb": "Chairs/Chivari bar stools. Available in gold, white, black, silver, fruitwood.png",
+            "thumb": "thumbs/Chairs/Chivari bar stools. Available in gold, white, black, silver, fruitwood.webp",
             "title": "Chivari Bar Stools",
             "dims": "",
             "note": "Available in gold, white, black, silver, fruitwood"
           },
           {
             "src": "Chairs/Fruitwood ballroom chair.png",
-            "thumb": "Chairs/Fruitwood ballroom chair.png",
+            "thumb": "thumbs/Chairs/Fruitwood ballroom chair.webp",
             "title": "Fruitwood Ballroom Chair",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Gold Ballroom Chair.png",
-            "thumb": "Chairs/Gold Ballroom Chair.png",
+            "thumb": "thumbs/Chairs/Gold Ballroom Chair.webp",
             "title": "Gold Ballroom Chair",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Natural Ballroom Chairs.png",
-            "thumb": "Chairs/Natural Ballroom Chairs.png",
+            "thumb": "thumbs/Chairs/Natural Ballroom Chairs.webp",
             "title": "Natural Ballroom Chairs",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Pearl Essence Ballroom Chairs.png",
-            "thumb": "Chairs/Pearl Essence Ballroom Chairs.png",
+            "thumb": "thumbs/Chairs/Pearl Essence Ballroom Chairs.webp",
             "title": "Pearl Essence Ballroom Chairs",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Pearl Essence Chivari Ballroom Chair.png",
-            "thumb": "Chairs/Pearl Essence Chivari Ballroom Chair.png",
+            "thumb": "thumbs/Chairs/Pearl Essence Chivari Ballroom Chair.webp",
             "title": "Pearl Essence Chivari Ballroom Chair",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Silver Ballroom Chair.png",
-            "thumb": "Chairs/Silver Ballroom Chair.png",
+            "thumb": "thumbs/Chairs/Silver Ballroom Chair.webp",
             "title": "Silver Ballroom Chair",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Sultry Beige Ballroom chairs.png",
-            "thumb": "Chairs/Sultry Beige Ballroom chairs.png",
+            "thumb": "thumbs/Chairs/Sultry Beige Ballroom chairs.webp",
             "title": "Sultry Beige Ballroom Chairs",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/White Ballroom Chairs.png",
-            "thumb": "Chairs/White Ballroom Chairs.png",
+            "thumb": "thumbs/Chairs/White Ballroom Chairs.webp",
             "title": "White Ballroom Chairs",
             "dims": "",
             "note": ""
           },
           {
+            "src": "Chairs/Black Ballroom Chair_.png",
+            "thumb": "thumbs/Chairs/Black Ballroom Chair_.webp",
+            "title": "Black Ballroom Chair",
+            "dims": "",
+            "note": ""
+          },
+          {
             "src": "Chairs/Cross Back Fruitwood Chairs.png",
-            "thumb": "Chairs/Cross Back Fruitwood Chairs.png",
+            "thumb": "thumbs/Chairs/Cross Back Fruitwood Chairs.webp",
             "title": "Cross Back Fruitwood Chairs",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Cross Back Natural Chair.png",
-            "thumb": "Chairs/Cross Back Natural Chair.png",
+            "thumb": "thumbs/Chairs/Cross Back Natural Chair.webp",
             "title": "Cross Back Natural Chair",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Clear acrylic chair.png",
-            "thumb": "Chairs/Clear acrylic chair.png",
+            "thumb": "thumbs/Chairs/Clear acrylic chair.webp",
             "title": "Clear Acrylic Chair",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Clear Chavarría Chairs.png",
-            "thumb": "Chairs/Clear Chavarría Chairs.png",
+            "thumb": "thumbs/Chairs/Clear Chavarría Chairs.webp",
             "title": "Clear Chavarría Chairs",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Clear grooved pattern chair.png",
-            "thumb": "Chairs/Clear grooved pattern chair.png",
+            "thumb": "thumbs/Chairs/Clear grooved pattern chair.webp",
             "title": "Clear Grooved Pattern Chair",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Clear Infinity Chairs.png",
-            "thumb": "Chairs/Clear Infinity Chairs.png",
+            "thumb": "thumbs/Chairs/Clear Infinity Chairs.webp",
             "title": "Clear Infinity Chairs",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Smoked transparent chair.png",
-            "thumb": "Chairs/Smoked transparent chair.png",
+            "thumb": "thumbs/Chairs/Smoked transparent chair.webp",
             "title": "Smoked Transparent Chair",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Leatherette bar chair. Available in black or white.png",
-            "thumb": "Chairs/Leatherette bar chair. Available in black or white.png",
+            "thumb": "thumbs/Chairs/Leatherette bar chair. Available in black or white.webp",
             "title": "Leatherette Bar Chair",
             "dims": "",
             "note": "Available in black or white"
           },
           {
             "src": "Chairs/Leatherette dining chair. Available in black or white.png",
-            "thumb": "Chairs/Leatherette dining chair. Available in black or white.png",
+            "thumb": "thumbs/Chairs/Leatherette dining chair. Available in black or white.webp",
             "title": "Leatherette Dining Chair",
             "dims": "",
             "note": "Available in black or white"
           },
           {
             "src": "Chairs/Soft leatherette dining chair.png",
-            "thumb": "Chairs/Soft leatherette dining chair.png",
+            "thumb": "thumbs/Chairs/Soft leatherette dining chair.webp",
             "title": "Soft Leatherette Dining Chair",
             "dims": "",
             "note": ""
           },
           {
-            "src": "Chairs/Black Garden Chairs.png",
-            "thumb": "Chairs/Black Garden Chairs.png",
-            "title": "Black Garden Chairs",
-            "dims": "",
-            "note": ""
-          },
-          {
             "src": "Chairs/White Garden Chairs.png",
-            "thumb": "Chairs/White Garden Chairs.png",
+            "thumb": "thumbs/Chairs/White Garden Chairs.webp",
             "title": "White Garden Chairs",
             "dims": "",
             "note": ""
           },
           {
-            "src": "Chairs/Black Barstool.png",
-            "thumb": "Chairs/Black Barstool.png",
-            "title": "Black Barstool",
+            "src": "Chairs/Black Garden Chairs.png",
+            "thumb": "thumbs/Chairs/Black Garden Chairs.webp",
+            "title": "Black Garden Chairs",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Gold Barstool.png",
-            "thumb": "Chairs/Gold Barstool.png",
+            "thumb": "thumbs/Chairs/Gold Barstool.webp",
             "title": "Gold Barstool",
             "dims": "",
             "note": ""
           },
           {
-            "src": "Chairs/Mahogany Barstool.jpg",
-            "thumb": "Chairs/Mahogany Barstool.jpg",
-            "title": "Mahogany Barstool",
-            "dims": "",
-            "note": ""
-          },
-          {
             "src": "Chairs/Silver Barstool a.png",
-            "thumb": "Chairs/Silver Barstool a.png",
+            "thumb": "thumbs/Chairs/Silver Barstool a.webp",
             "title": "Silver Barstool",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/White Barstool.png",
-            "thumb": "Chairs/White Barstool.png",
+            "thumb": "thumbs/Chairs/White Barstool.webp",
             "title": "White Barstool",
             "dims": "",
             "note": ""
           },
           {
+            "src": "Chairs/Black Barstool.png",
+            "thumb": "thumbs/Chairs/Black Barstool.webp",
+            "title": "Black Barstool",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Chairs/Mahogany Barstool.jpg",
+            "thumb": "thumbs/Chairs/Mahogany Barstool.webp",
+            "title": "Mahogany Barstool",
+            "dims": "",
+            "note": ""
+          },
+          {
             "src": "Chairs/Hora Chair.png",
-            "thumb": "Chairs/Hora Chair.png",
+            "thumb": "thumbs/Chairs/Hora Chair.webp",
             "title": "Hora Chair",
             "dims": "",
             "note": ""
@@ -1331,54 +1331,54 @@
         "name": "Cushions",
         "folder": "Chairs/Cushions",
         "desc": "Soft seat cushions in a range of colors to complete and add comfort to your chairs.",
-        "cover": "Chairs/Cushions/Black Lamour Cushions.png",
+        "cover": "thumbs/Chairs/Cushions/Black Lamour Cushions.webp",
         "count": 7,
         "items": [
           {
             "src": "Chairs/Cushions/Black Lamour Cushions.png",
-            "thumb": "Chairs/Cushions/Black Lamour Cushions.png",
+            "thumb": "thumbs/Chairs/Cushions/Black Lamour Cushions.webp",
             "title": "Black Lamour Cushions",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Cushions/Brown Bengaline Cushions.png",
-            "thumb": "Chairs/Cushions/Brown Bengaline Cushions.png",
+            "thumb": "thumbs/Chairs/Cushions/Brown Bengaline Cushions.webp",
             "title": "Brown Bengaline Cushions",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Cushions/Gold Lamour Cushions.jpg",
-            "thumb": "Chairs/Cushions/Gold Lamour Cushions.jpg",
+            "thumb": "thumbs/Chairs/Cushions/Gold Lamour Cushions.webp",
             "title": "Gold Lamour Cushions",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Cushions/Olive Green Bengaline Cushions.png",
-            "thumb": "Chairs/Cushions/Olive Green Bengaline Cushions.png",
+            "thumb": "thumbs/Chairs/Cushions/Olive Green Bengaline Cushions.webp",
             "title": "Olive Green Bengaline Cushions",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Cushions/Pearl Bengaline Cushions.png",
-            "thumb": "Chairs/Cushions/Pearl Bengaline Cushions.png",
+            "thumb": "thumbs/Chairs/Cushions/Pearl Bengaline Cushions.webp",
             "title": "Pearl Bengaline Cushions",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Cushions/Pearl Bengaline Cushions(1).png",
-            "thumb": "Chairs/Cushions/Pearl Bengaline Cushions(1).png",
+            "thumb": "thumbs/Chairs/Cushions/Pearl Bengaline Cushions(1).webp",
             "title": "Pearl Bengaline Cushions",
             "dims": "",
             "note": ""
           },
           {
             "src": "Chairs/Cushions/Silver Bengaline Cushions.png",
-            "thumb": "Chairs/Cushions/Silver Bengaline Cushions.png",
+            "thumb": "thumbs/Chairs/Cushions/Silver Bengaline Cushions.webp",
             "title": "Silver Bengaline Cushions",
             "dims": "",
             "note": ""
@@ -1392,257 +1392,257 @@
     "name": "Dance Floors",
     "folder": "Dance Floors",
     "desc": "Available in red, black, and white — all with a high-shine finish. Your dance floor can be made in almost any even size (note: every floor has a 5\" edging).",
-    "cover": "Dance Floors/Par 1.png",
+    "cover": "thumbs/Dance Floors/Par 1.webp",
     "count": 36,
     "items": [
       {
         "src": "Dance Floors/Par 1.png",
-        "thumb": "Dance Floors/Par 1.png",
+        "thumb": "thumbs/Dance Floors/Par 1.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 1.1.png",
-        "thumb": "Dance Floors/Par 1.1.png",
+        "thumb": "thumbs/Dance Floors/Par 1.1.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 2.png",
-        "thumb": "Dance Floors/Par 2.png",
+        "thumb": "thumbs/Dance Floors/Par 2.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 2.2.png",
-        "thumb": "Dance Floors/Par 2.2.png",
+        "thumb": "thumbs/Dance Floors/Par 2.2.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 3.jpg",
-        "thumb": "Dance Floors/Par 3.jpg",
+        "thumb": "thumbs/Dance Floors/Par 3.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 3.1.jpg",
-        "thumb": "Dance Floors/Par 3.1.jpg",
+        "thumb": "thumbs/Dance Floors/Par 3.1.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 4.png",
-        "thumb": "Dance Floors/Par 4.png",
+        "thumb": "thumbs/Dance Floors/Par 4.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/par 4.1.png",
-        "thumb": "Dance Floors/par 4.1.png",
+        "thumb": "thumbs/Dance Floors/par 4.1.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 5.png",
-        "thumb": "Dance Floors/Par 5.png",
+        "thumb": "thumbs/Dance Floors/Par 5.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 5.1.png",
-        "thumb": "Dance Floors/Par 5.1.png",
+        "thumb": "thumbs/Dance Floors/Par 5.1.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 6.png",
-        "thumb": "Dance Floors/Par 6.png",
+        "thumb": "thumbs/Dance Floors/Par 6.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 6.1.png",
-        "thumb": "Dance Floors/Par 6.1.png",
+        "thumb": "thumbs/Dance Floors/Par 6.1.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 7.png",
-        "thumb": "Dance Floors/Par 7.png",
+        "thumb": "thumbs/Dance Floors/Par 7.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 7.1.png",
-        "thumb": "Dance Floors/Par 7.1.png",
+        "thumb": "thumbs/Dance Floors/Par 7.1.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 8.png",
-        "thumb": "Dance Floors/Par 8.png",
+        "thumb": "thumbs/Dance Floors/Par 8.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 8.1.png",
-        "thumb": "Dance Floors/Par 8.1.png",
+        "thumb": "thumbs/Dance Floors/Par 8.1.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 9.png",
-        "thumb": "Dance Floors/Par 9.png",
+        "thumb": "thumbs/Dance Floors/Par 9.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 9.1.png",
-        "thumb": "Dance Floors/Par 9.1.png",
+        "thumb": "thumbs/Dance Floors/Par 9.1.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 10.png",
-        "thumb": "Dance Floors/Par 10.png",
+        "thumb": "thumbs/Dance Floors/Par 10.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 10.1.png",
-        "thumb": "Dance Floors/Par 10.1.png",
+        "thumb": "thumbs/Dance Floors/Par 10.1.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 11.png",
-        "thumb": "Dance Floors/Par 11.png",
+        "thumb": "thumbs/Dance Floors/Par 11.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 11.1.png",
-        "thumb": "Dance Floors/Par 11.1.png",
+        "thumb": "thumbs/Dance Floors/Par 11.1.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 12.png",
-        "thumb": "Dance Floors/Par 12.png",
+        "thumb": "thumbs/Dance Floors/Par 12.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/Par 12.1.png",
-        "thumb": "Dance Floors/Par 12.1.png",
+        "thumb": "thumbs/Dance Floors/Par 12.1.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/3.png",
-        "thumb": "Dance Floors/3.png",
+        "thumb": "thumbs/Dance Floors/3.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/4.png",
-        "thumb": "Dance Floors/4.png",
+        "thumb": "thumbs/Dance Floors/4.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/5.png",
-        "thumb": "Dance Floors/5.png",
+        "thumb": "thumbs/Dance Floors/5.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/6.png",
-        "thumb": "Dance Floors/6.png",
+        "thumb": "thumbs/Dance Floors/6.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/7.png",
-        "thumb": "Dance Floors/7.png",
+        "thumb": "thumbs/Dance Floors/7.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/9.png",
-        "thumb": "Dance Floors/9.png",
+        "thumb": "thumbs/Dance Floors/9.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/13.png",
-        "thumb": "Dance Floors/13.png",
+        "thumb": "thumbs/Dance Floors/13.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/14.png",
-        "thumb": "Dance Floors/14.png",
+        "thumb": "thumbs/Dance Floors/14.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/15.png",
-        "thumb": "Dance Floors/15.png",
+        "thumb": "thumbs/Dance Floors/15.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/16.png",
-        "thumb": "Dance Floors/16.png",
+        "thumb": "thumbs/Dance Floors/16.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/18.png",
-        "thumb": "Dance Floors/18.png",
+        "thumb": "thumbs/Dance Floors/18.webp",
         "title": "",
         "dims": "",
         "note": ""
       },
       {
         "src": "Dance Floors/black floor.png",
-        "thumb": "Dance Floors/black floor.png",
+        "thumb": "thumbs/Dance Floors/black floor.webp",
         "title": "",
         "dims": "",
         "note": ""
@@ -1654,33 +1654,33 @@
     "name": "Displays",
     "folder": "Displays",
     "desc": "Create stunning focal points with our large display pieces, perfect for showcasing floral arrangements or candles. They add height and drama, transforming any space.",
-    "cover": "Displays/5_x4_ Extra large urn with large handles. This item can be custom painted any color_.png",
+    "cover": "thumbs/Displays/5_x4_ Extra large urn with large handles. This item can be custom painted any color_.webp",
     "count": 4,
     "items": [
       {
         "src": "Displays/5_x4_ Extra large urn with large handles. This item can be custom painted any color_.png",
-        "thumb": "Displays/5_x4_ Extra large urn with large handles. This item can be custom painted any color_.png",
+        "thumb": "thumbs/Displays/5_x4_ Extra large urn with large handles. This item can be custom painted any color_.webp",
         "title": "Extra Large Urn with Large Handles",
         "dims": "5\" × 4\"",
         "note": "This item can be custom painted any color"
       },
       {
         "src": "Displays/Shiny white urns. The large urn stands 60_ tall with a 33_ opening and a 17_ base. The smaller urn stands 35_ tall with a 18_ opening and a 10_ base.png",
-        "thumb": "Displays/Shiny white urns. The large urn stands 60_ tall with a 33_ opening and a 17_ base. The smaller urn stands 35_ tall with a 18_ opening and a 10_ base.png",
+        "thumb": "thumbs/Displays/Shiny white urns. The large urn stands 60_ tall with a 33_ opening and a 17_ base. The smaller urn stands 35_ tall with a 18_ opening and a 10_ base.webp",
         "title": "Shiny White Urns",
         "dims": "",
         "note": "The large urn stands 60\" tall with a 33\" opening and a 17\" base. The smaller urn stands 35\" tall with a 18\" opening and a 10\" base"
       },
       {
         "src": "Displays/Shiny white vase stands 40_ all with a 9_ base, and a 4 3_4_ opening.png",
-        "thumb": "Displays/Shiny white vase stands 40_ all with a 9_ base, and a 4 3_4_ opening.png",
+        "thumb": "thumbs/Displays/Shiny white vase stands 40_ all with a 9_ base, and a 4 3_4_ opening.webp",
         "title": "Shiny White Vase Stands All with a Base, and a Opening",
         "dims": "40\" / 9\" / 4 3/4\"",
         "note": ""
       },
       {
         "src": "Displays/Shiny white vase stands 76_ tall with a 17_ opening and a 10_ base.png",
-        "thumb": "Displays/Shiny white vase stands 76_ tall with a 17_ opening and a 10_ base.png",
+        "thumb": "thumbs/Displays/Shiny white vase stands 76_ tall with a 17_ opening and a 10_ base.webp",
         "title": "Shiny White Vase Stands Tall with a Opening and a Base",
         "dims": "76\" / 17\" / 10\"",
         "note": ""
@@ -1692,7 +1692,7 @@
     "name": "Fabrics",
     "folder": "Fabrics",
     "desc": "Premium linens and fabrics in a wide range of colors and textures — from Lamour matte satin and velvet to shantung, prints and more — to dress your tables, chairs and backdrops.",
-    "cover": "Fabrics/Belize/Cactus 395.jpg",
+    "cover": "thumbs/Fabrics/Belize/Cactus 395.webp",
     "count": 239,
     "children": [
       {
@@ -1700,89 +1700,89 @@
         "name": "Belize",
         "folder": "Fabrics/Belize",
         "desc": "",
-        "cover": "Fabrics/Belize/Cactus 395.jpg",
+        "cover": "thumbs/Fabrics/Belize/Cactus 395.webp",
         "count": 12,
         "items": [
           {
             "src": "Fabrics/Belize/Cactus 395.jpg",
-            "thumb": "Fabrics/Belize/Cactus 395.jpg",
+            "thumb": "thumbs/Fabrics/Belize/Cactus 395.webp",
             "title": "Cactus",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Belize/Charcoal 396.jpg",
-            "thumb": "Fabrics/Belize/Charcoal 396.jpg",
+            "thumb": "thumbs/Fabrics/Belize/Charcoal 396.webp",
             "title": "Charcoal",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Belize/Indigo 392.jpg",
-            "thumb": "Fabrics/Belize/Indigo 392.jpg",
+            "thumb": "thumbs/Fabrics/Belize/Indigo 392.webp",
             "title": "Indigo",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Belize/Ivory 391.jpg",
-            "thumb": "Fabrics/Belize/Ivory 391.jpg",
+            "thumb": "thumbs/Fabrics/Belize/Ivory 391.webp",
             "title": "Ivory",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Belize/Natural 379.jpg",
-            "thumb": "Fabrics/Belize/Natural 379.jpg",
+            "thumb": "thumbs/Fabrics/Belize/Natural 379.webp",
             "title": "Natural",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Belize/Nutmeg 397.jpg",
-            "thumb": "Fabrics/Belize/Nutmeg 397.jpg",
+            "thumb": "thumbs/Fabrics/Belize/Nutmeg 397.webp",
             "title": "Nutmeg",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Belize/Pink 399.jpg",
-            "thumb": "Fabrics/Belize/Pink 399.jpg",
+            "thumb": "thumbs/Fabrics/Belize/Pink 399.webp",
             "title": "Pink",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Belize/Smoke 394.jpg",
-            "thumb": "Fabrics/Belize/Smoke 394.jpg",
+            "thumb": "thumbs/Fabrics/Belize/Smoke 394.webp",
             "title": "Smoke",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Belize/Storm 398.jpg",
-            "thumb": "Fabrics/Belize/Storm 398.jpg",
+            "thumb": "thumbs/Fabrics/Belize/Storm 398.webp",
             "title": "Storm",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Belize/Tobacco 378.jpg",
-            "thumb": "Fabrics/Belize/Tobacco 378.jpg",
+            "thumb": "thumbs/Fabrics/Belize/Tobacco 378.webp",
             "title": "Tobacco",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Belize/Toffee 393.jpg",
-            "thumb": "Fabrics/Belize/Toffee 393.jpg",
+            "thumb": "thumbs/Fabrics/Belize/Toffee 393.webp",
             "title": "Toffee",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Belize/White 377.jpg",
-            "thumb": "Fabrics/Belize/White 377.jpg",
+            "thumb": "thumbs/Fabrics/Belize/White 377.webp",
             "title": "White",
             "dims": "",
             "note": ""
@@ -1794,96 +1794,96 @@
         "name": "Extreme Crush",
         "folder": "Fabrics/Extreme Crush",
         "desc": "",
-        "cover": "Fabrics/Extreme Crush/Black 943.jpg",
+        "cover": "thumbs/Fabrics/Extreme Crush/Black 943.webp",
         "count": 13,
         "items": [
           {
             "src": "Fabrics/Extreme Crush/Black 943.jpg",
-            "thumb": "Fabrics/Extreme Crush/Black 943.jpg",
+            "thumb": "thumbs/Fabrics/Extreme Crush/Black 943.webp",
             "title": "Black",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Extreme Crush/Blush 942.jpg",
-            "thumb": "Fabrics/Extreme Crush/Blush 942.jpg",
+            "thumb": "thumbs/Fabrics/Extreme Crush/Blush 942.webp",
             "title": "Blush",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Extreme Crush/Carolina Blue 948.jpg",
-            "thumb": "Fabrics/Extreme Crush/Carolina Blue 948.jpg",
+            "thumb": "thumbs/Fabrics/Extreme Crush/Carolina Blue 948.webp",
             "title": "Carolina Blue",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Extreme Crush/Gold 954.jpg",
-            "thumb": "Fabrics/Extreme Crush/Gold 954.jpg",
+            "thumb": "thumbs/Fabrics/Extreme Crush/Gold 954.webp",
             "title": "Gold",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Extreme Crush/Grass 957.jpg",
-            "thumb": "Fabrics/Extreme Crush/Grass 957.jpg",
+            "thumb": "thumbs/Fabrics/Extreme Crush/Grass 957.webp",
             "title": "Grass",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Extreme Crush/Hot Pink 946.jpg",
-            "thumb": "Fabrics/Extreme Crush/Hot Pink 946.jpg",
+            "thumb": "thumbs/Fabrics/Extreme Crush/Hot Pink 946.webp",
             "title": "Hot Pink",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Extreme Crush/Ivory 941.jpg",
-            "thumb": "Fabrics/Extreme Crush/Ivory 941.jpg",
+            "thumb": "thumbs/Fabrics/Extreme Crush/Ivory 941.webp",
             "title": "Ivory",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Extreme Crush/Mint 940.jpg",
-            "thumb": "Fabrics/Extreme Crush/Mint 940.jpg",
+            "thumb": "thumbs/Fabrics/Extreme Crush/Mint 940.webp",
             "title": "Mint",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Extreme Crush/Navy 950.jpg",
-            "thumb": "Fabrics/Extreme Crush/Navy 950.jpg",
+            "thumb": "thumbs/Fabrics/Extreme Crush/Navy 950.webp",
             "title": "Navy",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Extreme Crush/Pistachio 944.jpg",
-            "thumb": "Fabrics/Extreme Crush/Pistachio 944.jpg",
+            "thumb": "thumbs/Fabrics/Extreme Crush/Pistachio 944.webp",
             "title": "Pistachio",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Extreme Crush/Red 947.jpg",
-            "thumb": "Fabrics/Extreme Crush/Red 947.jpg",
+            "thumb": "thumbs/Fabrics/Extreme Crush/Red 947.webp",
             "title": "Red",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Extreme Crush/Silver 960.jpg",
-            "thumb": "Fabrics/Extreme Crush/Silver 960.jpg",
+            "thumb": "thumbs/Fabrics/Extreme Crush/Silver 960.webp",
             "title": "Silver",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Extreme Crush/White 945.jpg",
-            "thumb": "Fabrics/Extreme Crush/White 945.jpg",
+            "thumb": "thumbs/Fabrics/Extreme Crush/White 945.webp",
             "title": "White",
             "dims": "",
             "note": ""
@@ -1895,89 +1895,89 @@
         "name": "Glimmer",
         "folder": "Fabrics/Glimmer",
         "desc": "",
-        "cover": "Fabrics/Glimmer/Black 206.jpg",
+        "cover": "thumbs/Fabrics/Glimmer/Black 206.webp",
         "count": 12,
         "items": [
           {
             "src": "Fabrics/Glimmer/Black 206.jpg",
-            "thumb": "Fabrics/Glimmer/Black 206.jpg",
+            "thumb": "thumbs/Fabrics/Glimmer/Black 206.webp",
             "title": "Black",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Glimmer/Blush 207.jpg",
-            "thumb": "Fabrics/Glimmer/Blush 207.jpg",
+            "thumb": "thumbs/Fabrics/Glimmer/Blush 207.webp",
             "title": "Blush",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Glimmer/Charcoal 209.jpg",
-            "thumb": "Fabrics/Glimmer/Charcoal 209.jpg",
+            "thumb": "thumbs/Fabrics/Glimmer/Charcoal 209.webp",
             "title": "Charcoal",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Glimmer/Crimson 210.jpg",
-            "thumb": "Fabrics/Glimmer/Crimson 210.jpg",
+            "thumb": "thumbs/Fabrics/Glimmer/Crimson 210.webp",
             "title": "Crimson",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Glimmer/Gold 211.jpg",
-            "thumb": "Fabrics/Glimmer/Gold 211.jpg",
+            "thumb": "thumbs/Fabrics/Glimmer/Gold 211.webp",
             "title": "Gold",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Glimmer/Ivory 204.jpg",
-            "thumb": "Fabrics/Glimmer/Ivory 204.jpg",
+            "thumb": "thumbs/Fabrics/Glimmer/Ivory 204.webp",
             "title": "Ivory",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Glimmer/Midnight 212.jpg",
-            "thumb": "Fabrics/Glimmer/Midnight 212.jpg",
+            "thumb": "thumbs/Fabrics/Glimmer/Midnight 212.webp",
             "title": "Midnight",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Glimmer/Nude 214.jpg",
-            "thumb": "Fabrics/Glimmer/Nude 214.jpg",
+            "thumb": "thumbs/Fabrics/Glimmer/Nude 214.webp",
             "title": "Nude",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Glimmer/Royal 215.jpg",
-            "thumb": "Fabrics/Glimmer/Royal 215.jpg",
+            "thumb": "thumbs/Fabrics/Glimmer/Royal 215.webp",
             "title": "Royal",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Glimmer/Silver 216.jpg",
-            "thumb": "Fabrics/Glimmer/Silver 216.jpg",
+            "thumb": "thumbs/Fabrics/Glimmer/Silver 216.webp",
             "title": "Silver",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Glimmer/Violet 218.jpg",
-            "thumb": "Fabrics/Glimmer/Violet 218.jpg",
+            "thumb": "thumbs/Fabrics/Glimmer/Violet 218.webp",
             "title": "Violet",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Glimmer/White 219.jpg",
-            "thumb": "Fabrics/Glimmer/White 219.jpg",
+            "thumb": "thumbs/Fabrics/Glimmer/White 219.webp",
             "title": "White",
             "dims": "",
             "note": ""
@@ -1989,166 +1989,166 @@
         "name": "Iridescent Crush",
         "folder": "Fabrics/Iridescent Crush",
         "desc": "",
-        "cover": "Fabrics/Iridescent Crush/Beige 752.jpg",
+        "cover": "thumbs/Fabrics/Iridescent Crush/Beige 752.webp",
         "count": 23,
         "items": [
           {
             "src": "Fabrics/Iridescent Crush/Beige 752.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Beige 752.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Beige 752.webp",
             "title": "Beige",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Black 783.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Black 783.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Black 783.webp",
             "title": "Black",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Camel 750.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Camel 750.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Camel 750.webp",
             "title": "Camel",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Champagne 788.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Champagne 788.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Champagne 788.webp",
             "title": "Champagne",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Claret 745.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Claret 745.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Claret 745.webp",
             "title": "Claret",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Copper 787.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Copper 787.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Copper 787.webp",
             "title": "Copper",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Gold Turquoise 721.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Gold Turquoise 721.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Gold Turquoise 721.webp",
             "title": "Gold Turquoise",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Ivory 751.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Ivory 751.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Ivory 751.webp",
             "title": "Ivory",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Light Blue 753.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Light Blue 753.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Light Blue 753.webp",
             "title": "Light Blue",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Light Pink 709.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Light Pink 709.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Light Pink 709.webp",
             "title": "Light Pink",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Lime 736.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Lime 736.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Lime 736.webp",
             "title": "Lime",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Moss 774.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Moss 774.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Moss 774.webp",
             "title": "Moss",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Olive 796.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Olive 796.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Olive 796.webp",
             "title": "Olive",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Orange 758.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Orange 758.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Orange 758.webp",
             "title": "Orange",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Red 767.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Red 767.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Red 767.webp",
             "title": "Red",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Royal 779.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Royal 779.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Royal 779.webp",
             "title": "Royal",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Silver 784.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Silver 784.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Silver 784.webp",
             "title": "Silver",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Sky Blue 727.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Sky Blue 727.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Sky Blue 727.webp",
             "title": "Sky Blue",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Teal 772.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Teal 772.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Teal 772.webp",
             "title": "Teal",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Turquoise 771.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Turquoise 771.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Turquoise 771.webp",
             "title": "Turquoise",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Valentine 717.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Valentine 717.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Valentine 717.webp",
             "title": "Valentine",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/Violet 755.jpg",
-            "thumb": "Fabrics/Iridescent Crush/Violet 755.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/Violet 755.webp",
             "title": "Violet",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Iridescent Crush/White 785.jpg",
-            "thumb": "Fabrics/Iridescent Crush/White 785.jpg",
+            "thumb": "thumbs/Fabrics/Iridescent Crush/White 785.webp",
             "title": "White",
             "dims": "",
             "note": ""
@@ -2160,446 +2160,446 @@
         "name": "Lamour Matte Satin",
         "folder": "Fabrics/Lamour Matte Satin",
         "desc": "",
-        "cover": "Fabrics/Lamour Matte Satin/Apple 623.jpg",
+        "cover": "thumbs/Fabrics/Lamour Matte Satin/Apple 623.webp",
         "count": 63,
         "items": [
           {
             "src": "Fabrics/Lamour Matte Satin/Apple 623.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Apple 623.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Apple 623.webp",
             "title": "Apple",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Aqua 621.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Aqua 621.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Aqua 621.webp",
             "title": "Aqua",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Azure 663.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Azure 663.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Azure 663.webp",
             "title": "Azure",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Black 653.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Black 653.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Black 653.webp",
             "title": "Black",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Blush 626.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Blush 626.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Blush 626.webp",
             "title": "Blush",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Brown 638.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Brown 638.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Brown 638.webp",
             "title": "Brown",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Burgundy 652.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Burgundy 652.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Burgundy 652.webp",
             "title": "Burgundy",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Camel 640.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Camel 640.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Camel 640.webp",
             "title": "Camel",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Cerise 706.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Cerise 706.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Cerise 706.webp",
             "title": "Cerise",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Cider 714.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Cider 714.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Cider 714.webp",
             "title": "Cider",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Citron 624.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Citron 624.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Citron 624.webp",
             "title": "Citron",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Cobalt 682.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Cobalt 682.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Cobalt 682.webp",
             "title": "Cobalt",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Copper 636.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Copper 636.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Copper 636.webp",
             "title": "Copper",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Coral 642.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Coral 642.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Coral 642.webp",
             "title": "Coral",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Curry 637.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Curry 637.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Curry 637.webp",
             "title": "Curry",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Eggplant 646.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Eggplant 646.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Eggplant 646.webp",
             "title": "Eggplant",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Fiesta 695.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Fiesta 695.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Fiesta 695.webp",
             "title": "Fiesta",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Gold 611.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Gold 611.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Gold 611.webp",
             "title": "Gold",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Grape 694.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Grape 694.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Grape 694.webp",
             "title": "Grape",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Honey 718.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Honey 718.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Honey 718.webp",
             "title": "Honey",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Hot Pink 614.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Hot Pink 614.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Hot Pink 614.webp",
             "title": "Hot Pink",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Hunter 686.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Hunter 686.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Hunter 686.webp",
             "title": "Hunter",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Ivory 651.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Ivory 651.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Ivory 651.webp",
             "title": "Ivory",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Jewel 683.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Jewel 683.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Jewel 683.webp",
             "title": "Jewel",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Lagoon 657.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Lagoon 657.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Lagoon 657.webp",
             "title": "Lagoon",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Lemon 604.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Lemon 604.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Lemon 604.webp",
             "title": "Lemon",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Light Blue 627.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Light Blue 627.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Light Blue 627.webp",
             "title": "Light Blue",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Light Olive 620.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Light Olive 620.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Light Olive 620.webp",
             "title": "Light Olive",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Light Pink 609.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Light Pink 609.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Light Pink 609.webp",
             "title": "Light Pink",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Lilac 661.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Lilac 661.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Lilac 661.webp",
             "title": "Lilac",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Magenta 647.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Magenta 647.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Magenta 647.webp",
             "title": "Magenta",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Maize 603.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Maize 603.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Maize 603.webp",
             "title": "Maize",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Mauve 689.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Mauve 689.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Mauve 689.webp",
             "title": "Mauve",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Midnight 707.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Midnight 707.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Midnight 707.webp",
             "title": "Midnight",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Mint 697.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Mint 697.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Mint 697.webp",
             "title": "Mint",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Moss 698.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Moss 698.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Moss 698.webp",
             "title": "Moss",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Navy 658.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Navy 658.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Navy 658.webp",
             "title": "Navy",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Orange 608.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Orange 608.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Orange 608.webp",
             "title": "Orange",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Orchid 692.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Orchid 692.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Orchid 692.webp",
             "title": "Orchid",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Peach 688.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Peach 688.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Peach 688.webp",
             "title": "Peach",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Periwinkle 612.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Periwinkle 612.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Periwinkle 612.webp",
             "title": "Periwinkle",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Petal 712.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Petal 712.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Petal 712.webp",
             "title": "Petal",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Pink 656.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Pink 656.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Pink 656.webp",
             "title": "Pink",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Platinum 708.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Platinum 708.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Platinum 708.webp",
             "title": "Platinum",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Purple 696.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Purple 696.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Purple 696.webp",
             "title": "Purple",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Red 659.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Red 659.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Red 659.webp",
             "title": "Red",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Rose 691.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Rose 691.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Rose 691.webp",
             "title": "Rose",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Royal 639.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Royal 639.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Royal 639.webp",
             "title": "Royal",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Ruby 644.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Ruby 644.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Ruby 644.webp",
             "title": "Ruby",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Sage 649.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Sage 649.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Sage 649.webp",
             "title": "Sage",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Sand 662.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Sand 662.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Sand 662.webp",
             "title": "Sand",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Shamrock 699.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Shamrock 699.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Shamrock 699.webp",
             "title": "Shamrock",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Silver 654.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Silver 654.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Silver 654.webp",
             "title": "Silver",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Stone 687.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Stone 687.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Stone 687.webp",
             "title": "Stone",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Storm 684.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Storm 684.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Storm 684.webp",
             "title": "Storm",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Tangerine 648.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Tangerine 648.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Tangerine 648.webp",
             "title": "Tangerine",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Taupe 690.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Taupe 690.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Taupe 690.webp",
             "title": "Taupe",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Teal 680.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Teal 680.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Teal 680.webp",
             "title": "Teal",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Turquoise 641.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Turquoise 641.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Turquoise 641.webp",
             "title": "Turquoise",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Violet 664.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Violet 664.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Violet 664.webp",
             "title": "Violet",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Wheat 645.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Wheat 645.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Wheat 645.webp",
             "title": "Wheat",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/White 650.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/White 650.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/White 650.webp",
             "title": "White",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Lamour Matte Satin/Wisteria 693.jpg",
-            "thumb": "Fabrics/Lamour Matte Satin/Wisteria 693.jpg",
+            "thumb": "thumbs/Fabrics/Lamour Matte Satin/Wisteria 693.webp",
             "title": "Wisteria",
             "dims": "",
             "note": ""
@@ -2611,173 +2611,173 @@
         "name": "Panama",
         "folder": "Fabrics/Panama",
         "desc": "",
-        "cover": "Fabrics/Panama/Beige 870.jpg",
+        "cover": "thumbs/Fabrics/Panama/Beige 870.webp",
         "count": 24,
         "items": [
           {
             "src": "Fabrics/Panama/Beige 870.jpg",
-            "thumb": "Fabrics/Panama/Beige 870.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Beige 870.webp",
             "title": "Beige",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Black 843.jpg",
-            "thumb": "Fabrics/Panama/Black 843.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Black 843.webp",
             "title": "Black",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Brown 872.jpg",
-            "thumb": "Fabrics/Panama/Brown 872.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Brown 872.webp",
             "title": "Brown",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Buttercup 845.jpg",
-            "thumb": "Fabrics/Panama/Buttercup 845.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Buttercup 845.webp",
             "title": "Buttercup",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Celery 873.jpg",
-            "thumb": "Fabrics/Panama/Celery 873.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Celery 873.webp",
             "title": "Celery",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Cement 861.jpg",
-            "thumb": "Fabrics/Panama/Cement 861.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Cement 861.webp",
             "title": "Cement",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Charcoal 886.jpg",
-            "thumb": "Fabrics/Panama/Charcoal 886.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Charcoal 886.webp",
             "title": "Charcoal",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Cobalt 864.jpg",
-            "thumb": "Fabrics/Panama/Cobalt 864.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Cobalt 864.webp",
             "title": "Cobalt",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Coral 842.jpg",
-            "thumb": "Fabrics/Panama/Coral 842.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Coral 842.webp",
             "title": "Coral",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Ivory 869.jpg",
-            "thumb": "Fabrics/Panama/Ivory 869.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Ivory 869.webp",
             "title": "Ivory",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Light Pink 866.jpg",
-            "thumb": "Fabrics/Panama/Light Pink 866.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Light Pink 866.webp",
             "title": "Light Pink",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Lime 846.jpg",
-            "thumb": "Fabrics/Panama/Lime 846.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Lime 846.webp",
             "title": "Lime",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Mustard 883.jpg",
-            "thumb": "Fabrics/Panama/Mustard 883.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Mustard 883.webp",
             "title": "Mustard",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Natural 871.jpg",
-            "thumb": "Fabrics/Panama/Natural 871.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Natural 871.webp",
             "title": "Natural",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Navy 852.jpg",
-            "thumb": "Fabrics/Panama/Navy 852.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Navy 852.webp",
             "title": "Navy",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Paprika 854.jpg",
-            "thumb": "Fabrics/Panama/Paprika 854.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Paprika 854.webp",
             "title": "Paprika",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Plum 874.jpg",
-            "thumb": "Fabrics/Panama/Plum 874.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Plum 874.webp",
             "title": "Plum",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Silver 840.jpg",
-            "thumb": "Fabrics/Panama/Silver 840.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Silver 840.webp",
             "title": "Silver",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Sky 862.jpg",
-            "thumb": "Fabrics/Panama/Sky 862.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Sky 862.webp",
             "title": "Sky",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Spice 860.jpg",
-            "thumb": "Fabrics/Panama/Spice 860.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Spice 860.webp",
             "title": "Spice",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Tangerine 856.jpg",
-            "thumb": "Fabrics/Panama/Tangerine 856.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Tangerine 856.webp",
             "title": "Tangerine",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Taupe 853.jpg",
-            "thumb": "Fabrics/Panama/Taupe 853.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Taupe 853.webp",
             "title": "Taupe",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/Turquoise 849.jpg",
-            "thumb": "Fabrics/Panama/Turquoise 849.jpg",
+            "thumb": "thumbs/Fabrics/Panama/Turquoise 849.webp",
             "title": "Turquoise",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Panama/White 868.jpg",
-            "thumb": "Fabrics/Panama/White 868.jpg",
+            "thumb": "thumbs/Fabrics/Panama/White 868.webp",
             "title": "White",
             "dims": "",
             "note": ""
@@ -2789,117 +2789,117 @@
         "name": "Premium Prints",
         "folder": "Fabrics/Premium Prints",
         "desc": "",
-        "cover": "Fabrics/Premium Prints/Barocco Celery P048.jpg",
+        "cover": "thumbs/Fabrics/Premium Prints/Barocco Celery P048.webp",
         "count": 16,
         "items": [
           {
             "src": "Fabrics/Premium Prints/Barocco Celery P048.jpg",
-            "thumb": "Fabrics/Premium Prints/Barocco Celery P048.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Barocco Celery P048.webp",
             "title": "Barocco Celery",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Barocco Grey P049.jpg",
-            "thumb": "Fabrics/Premium Prints/Barocco Grey P049.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Barocco Grey P049.webp",
             "title": "Barocco Grey",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Barocco Taupe P047.jpg",
-            "thumb": "Fabrics/Premium Prints/Barocco Taupe P047.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Barocco Taupe P047.webp",
             "title": "Barocco Taupe",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Barocco Wedgewood P044.jpg",
-            "thumb": "Fabrics/Premium Prints/Barocco Wedgewood P044.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Barocco Wedgewood P044.webp",
             "title": "Barocco Wedgewood",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Buffalo Check Aztec P046.jpg",
-            "thumb": "Fabrics/Premium Prints/Buffalo Check Aztec P046.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Buffalo Check Aztec P046.webp",
             "title": "Buffalo Check Aztec",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Buffalo Check Red P045.jpg",
-            "thumb": "Fabrics/Premium Prints/Buffalo Check Red P045.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Buffalo Check Red P045.webp",
             "title": "Buffalo Check Red",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Katie_s Watercolor Multi on White P187.jpg",
-            "thumb": "Fabrics/Premium Prints/Katie_s Watercolor Multi on White P187.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Katie_s Watercolor Multi on White P187.webp",
             "title": "Katie's Watercolor Multi on White",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Morgan Stripe Black P043.jpg",
-            "thumb": "Fabrics/Premium Prints/Morgan Stripe Black P043.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Morgan Stripe Black P043.webp",
             "title": "Morgan Stripe Black",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Morgan Stripe French Blue P042.jpg",
-            "thumb": "Fabrics/Premium Prints/Morgan Stripe French Blue P042.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Morgan Stripe French Blue P042.webp",
             "title": "Morgan Stripe French Blue",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Morgan Stripe Navy P040.jpg",
-            "thumb": "Fabrics/Premium Prints/Morgan Stripe Navy P040.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Morgan Stripe Navy P040.webp",
             "title": "Morgan Stripe Navy",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Morgan Stripe Rose P041.jpg",
-            "thumb": "Fabrics/Premium Prints/Morgan Stripe Rose P041.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Morgan Stripe Rose P041.webp",
             "title": "Morgan Stripe Rose",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Morgan Stripe Tobacco P039.jpg",
-            "thumb": "Fabrics/Premium Prints/Morgan Stripe Tobacco P039.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Morgan Stripe Tobacco P039.webp",
             "title": "Morgan Stripe Tobacco",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Party Toile Avocado P183.jpg",
-            "thumb": "Fabrics/Premium Prints/Party Toile Avocado P183.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Party Toile Avocado P183.webp",
             "title": "Party Toile Avocado",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Party Toile Black P184.jpg",
-            "thumb": "Fabrics/Premium Prints/Party Toile Black P184.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Party Toile Black P184.webp",
             "title": "Party Toile Black",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Party Toile Blue P182.jpg",
-            "thumb": "Fabrics/Premium Prints/Party Toile Blue P182.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Party Toile Blue P182.webp",
             "title": "Party Toile Blue",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Premium Prints/Party Toile Rose P185.jpg",
-            "thumb": "Fabrics/Premium Prints/Party Toile Rose P185.jpg",
+            "thumb": "thumbs/Fabrics/Premium Prints/Party Toile Rose P185.webp",
             "title": "Party Toile Rose",
             "dims": "",
             "note": ""
@@ -2911,117 +2911,117 @@
         "name": "Rattan",
         "folder": "Fabrics/Rattan",
         "desc": "",
-        "cover": "Fabrics/Rattan/Black 786.jpg",
+        "cover": "thumbs/Fabrics/Rattan/Black 786.webp",
         "count": 16,
         "items": [
           {
             "src": "Fabrics/Rattan/Black 786.jpg",
-            "thumb": "Fabrics/Rattan/Black 786.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Black 786.webp",
             "title": "Black",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/Carolina Blue 789.jpg",
-            "thumb": "Fabrics/Rattan/Carolina Blue 789.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Carolina Blue 789.webp",
             "title": "Carolina Blue",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/Charcoal 778.jpg",
-            "thumb": "Fabrics/Rattan/Charcoal 778.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Charcoal 778.webp",
             "title": "Charcoal",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/Copper 756.jpg",
-            "thumb": "Fabrics/Rattan/Copper 756.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Copper 756.webp",
             "title": "Copper",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/Hot Pink 799.jpg",
-            "thumb": "Fabrics/Rattan/Hot Pink 799.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Hot Pink 799.webp",
             "title": "Hot Pink",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/Kiwi 777.jpg",
-            "thumb": "Fabrics/Rattan/Kiwi 777.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Kiwi 777.webp",
             "title": "Kiwi",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/Lipstick 794.jpg",
-            "thumb": "Fabrics/Rattan/Lipstick 794.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Lipstick 794.webp",
             "title": "Lipstick",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/Mint 797.jpg",
-            "thumb": "Fabrics/Rattan/Mint 797.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Mint 797.webp",
             "title": "Mint",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/Natural 791.jpg",
-            "thumb": "Fabrics/Rattan/Natural 791.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Natural 791.webp",
             "title": "Natural",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/Navy 776.jpg",
-            "thumb": "Fabrics/Rattan/Navy 776.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Navy 776.webp",
             "title": "Navy",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/Nougat 790.jpg",
-            "thumb": "Fabrics/Rattan/Nougat 790.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Nougat 790.webp",
             "title": "Nougat",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/Silver 775.jpg",
-            "thumb": "Fabrics/Rattan/Silver 775.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Silver 775.webp",
             "title": "Silver",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/Solar 793.jpg",
-            "thumb": "Fabrics/Rattan/Solar 793.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Solar 793.webp",
             "title": "Solar",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/Tangerine 798.jpg",
-            "thumb": "Fabrics/Rattan/Tangerine 798.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Tangerine 798.webp",
             "title": "Tangerine",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/White 795.jpg",
-            "thumb": "Fabrics/Rattan/White 795.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/White 795.webp",
             "title": "White",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Rattan/Wicker 792.jpg",
-            "thumb": "Fabrics/Rattan/Wicker 792.jpg",
+            "thumb": "thumbs/Fabrics/Rattan/Wicker 792.webp",
             "title": "Wicker",
             "dims": "",
             "note": ""
@@ -3033,208 +3033,208 @@
         "name": "Supernova Shantung",
         "folder": "Fabrics/Supernova Shantung",
         "desc": "",
-        "cover": "Fabrics/Supernova Shantung/Apple 019.jpg",
+        "cover": "thumbs/Fabrics/Supernova Shantung/Apple 019.webp",
         "count": 29,
         "items": [
           {
             "src": "Fabrics/Supernova Shantung/Apple 019.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Apple 019.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Apple 019.webp",
             "title": "Apple",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Aqua 021.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Aqua 021.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Aqua 021.webp",
             "title": "Aqua",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Black 007.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Black 007.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Black 007.webp",
             "title": "Black",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Blush 037.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Blush 037.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Blush 037.webp",
             "title": "Blush",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Brown 022.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Brown 022.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Brown 022.webp",
             "title": "Brown",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Burgundy 012.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Burgundy 012.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Burgundy 012.webp",
             "title": "Burgundy",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Burnt Orange 011.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Burnt Orange 011.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Burnt Orange 011.webp",
             "title": "Burnt Orange",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Butterscotch 036.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Butterscotch 036.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Butterscotch 036.webp",
             "title": "Butterscotch",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Copper 018.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Copper 018.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Copper 018.webp",
             "title": "Copper",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Gold 010.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Gold 010.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Gold 010.webp",
             "title": "Gold",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Grey 034.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Grey 034.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Grey 034.webp",
             "title": "Grey",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Hunter 014.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Hunter 014.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Hunter 014.webp",
             "title": "Hunter",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Ivory 008.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Ivory 008.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Ivory 008.webp",
             "title": "Ivory",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Khaki 023.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Khaki 023.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Khaki 023.webp",
             "title": "Khaki",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Lemon 020.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Lemon 020.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Lemon 020.webp",
             "title": "Lemon",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Light Pink 003.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Light Pink 003.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Light Pink 003.webp",
             "title": "Light Pink",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Lilac 026.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Lilac 026.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Lilac 026.webp",
             "title": "Lilac",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Magenta 015.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Magenta 015.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Magenta 015.webp",
             "title": "Magenta",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Navy 028.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Navy 028.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Navy 028.webp",
             "title": "Navy",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Olive 006.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Olive 006.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Olive 006.webp",
             "title": "Olive",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Pink 002.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Pink 002.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Pink 002.webp",
             "title": "Pink",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Purple 027.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Purple 027.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Purple 027.webp",
             "title": "Purple",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Red 004.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Red 004.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Red 004.webp",
             "title": "Red",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Royal 031.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Royal 031.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Royal 031.webp",
             "title": "Royal",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Sage 016.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Sage 016.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Sage 016.webp",
             "title": "Sage",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Silver 005.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Silver 005.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Silver 005.webp",
             "title": "Silver",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Slate 013.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Slate 013.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Slate 013.webp",
             "title": "Slate",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/Turquoise 024.jpg",
-            "thumb": "Fabrics/Supernova Shantung/Turquoise 024.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/Turquoise 024.webp",
             "title": "Turquoise",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Supernova Shantung/White 009.jpg",
-            "thumb": "Fabrics/Supernova Shantung/White 009.jpg",
+            "thumb": "thumbs/Fabrics/Supernova Shantung/White 009.webp",
             "title": "White",
             "dims": "",
             "note": ""
@@ -3246,215 +3246,215 @@
         "name": "Velvet",
         "folder": "Fabrics/Velvet",
         "desc": "",
-        "cover": "Fabrics/Velvet/Aqua 918.jpg",
+        "cover": "thumbs/Fabrics/Velvet/Aqua 918.webp",
         "count": 30,
         "items": [
           {
             "src": "Fabrics/Velvet/Aqua 918.jpg",
-            "thumb": "Fabrics/Velvet/Aqua 918.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Aqua 918.webp",
             "title": "Aqua",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Black 963.jpg",
-            "thumb": "Fabrics/Velvet/Black 963.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Black 963.webp",
             "title": "Black",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Blush 988.jpg",
-            "thumb": "Fabrics/Velvet/Blush 988.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Blush 988.webp",
             "title": "Blush",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Brown 969.jpg",
-            "thumb": "Fabrics/Velvet/Brown 969.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Brown 969.webp",
             "title": "Brown",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Cashmere 962.jpg",
-            "thumb": "Fabrics/Velvet/Cashmere 962.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Cashmere 962.webp",
             "title": "Cashmere",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Charcoal 966.jpg",
-            "thumb": "Fabrics/Velvet/Charcoal 966.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Charcoal 966.webp",
             "title": "Charcoal",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Coral 922.jpg",
-            "thumb": "Fabrics/Velvet/Coral 922.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Coral 922.webp",
             "title": "Coral",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Cream 912.jpg",
-            "thumb": "Fabrics/Velvet/Cream 912.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Cream 912.webp",
             "title": "Cream",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Golden 995.jpg",
-            "thumb": "Fabrics/Velvet/Golden 995.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Golden 995.webp",
             "title": "Golden",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Grape 926.jpg",
-            "thumb": "Fabrics/Velvet/Grape 926.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Grape 926.webp",
             "title": "Grape",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Hot Pink 993.jpg",
-            "thumb": "Fabrics/Velvet/Hot Pink 993.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Hot Pink 993.webp",
             "title": "Hot Pink",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Hunter 975.jpg",
-            "thumb": "Fabrics/Velvet/Hunter 975.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Hunter 975.webp",
             "title": "Hunter",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Ivory 961.jpg",
-            "thumb": "Fabrics/Velvet/Ivory 961.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Ivory 961.webp",
             "title": "Ivory",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Lavender 925.jpg",
-            "thumb": "Fabrics/Velvet/Lavender 925.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Lavender 925.webp",
             "title": "Lavender",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Leaf 976.jpg",
-            "thumb": "Fabrics/Velvet/Leaf 976.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Leaf 976.webp",
             "title": "Leaf",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Light Pink 921.jpg",
-            "thumb": "Fabrics/Velvet/Light Pink 921.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Light Pink 921.webp",
             "title": "Light Pink",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Loden 913.jpg",
-            "thumb": "Fabrics/Velvet/Loden 913.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Loden 913.webp",
             "title": "Loden",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Marine 992.jpg",
-            "thumb": "Fabrics/Velvet/Marine 992.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Marine 992.webp",
             "title": "Marine",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Merlot 972.jpg",
-            "thumb": "Fabrics/Velvet/Merlot 972.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Merlot 972.webp",
             "title": "Merlot",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Mink 970.jpg",
-            "thumb": "Fabrics/Velvet/Mink 970.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Mink 970.webp",
             "title": "Mink",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Ocean 991.jpg",
-            "thumb": "Fabrics/Velvet/Ocean 991.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Ocean 991.webp",
             "title": "Ocean",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Red 978.jpg",
-            "thumb": "Fabrics/Velvet/Red 978.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Red 978.webp",
             "title": "Red",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Rose 989.jpg",
-            "thumb": "Fabrics/Velvet/Rose 989.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Rose 989.webp",
             "title": "Rose",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Silver 928.jpg",
-            "thumb": "Fabrics/Velvet/Silver 928.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Silver 928.webp",
             "title": "Silver",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Smoke 964.jpg",
-            "thumb": "Fabrics/Velvet/Smoke 964.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Smoke 964.webp",
             "title": "Smoke",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Spice 937.jpg",
-            "thumb": "Fabrics/Velvet/Spice 937.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Spice 937.webp",
             "title": "Spice",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Storm 924.jpg",
-            "thumb": "Fabrics/Velvet/Storm 924.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Storm 924.webp",
             "title": "Storm",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Sunshine 923.jpg",
-            "thumb": "Fabrics/Velvet/Sunshine 923.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Sunshine 923.webp",
             "title": "Sunshine",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/Taupe 920.jpg",
-            "thumb": "Fabrics/Velvet/Taupe 920.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/Taupe 920.webp",
             "title": "Taupe",
             "dims": "",
             "note": ""
           },
           {
             "src": "Fabrics/Velvet/White 965.jpg",
-            "thumb": "Fabrics/Velvet/White 965.jpg",
+            "thumb": "thumbs/Fabrics/Velvet/White 965.webp",
             "title": "White",
             "dims": "",
             "note": ""
@@ -3466,12 +3466,12 @@
         "name": "Hemstitch Napkins",
         "folder": "Fabrics/Hemstitch Napkins",
         "desc": "",
-        "cover": "Fabrics/Hemstitch Napkins/Hemstitch color Napkins.jpg",
+        "cover": "thumbs/Fabrics/Hemstitch Napkins/Hemstitch color Napkins.webp",
         "count": 1,
         "items": [
           {
             "src": "Fabrics/Hemstitch Napkins/Hemstitch color Napkins.jpg",
-            "thumb": "Fabrics/Hemstitch Napkins/Hemstitch color Napkins.jpg",
+            "thumb": "thumbs/Fabrics/Hemstitch Napkins/Hemstitch color Napkins.webp",
             "title": "Hemstitch Color Napkins",
             "dims": "",
             "note": ""
@@ -3485,19 +3485,19 @@
     "name": "Furniture",
     "folder": "Furniture",
     "desc": "Complete your event with our furniture rentals — day beds, ramps, napkins and event essentials designed for comfort and elegance.",
-    "cover": "Furniture/White Day Bed Size 6’.png",
+    "cover": "thumbs/Furniture/White Day Bed Size 6’.webp",
     "count": 2,
     "items": [
       {
         "src": "Furniture/Handicap ramps.png",
-        "thumb": "Furniture/Handicap ramps.png",
+        "thumb": "thumbs/Furniture/Handicap ramps.webp",
         "title": "Handicap Ramps",
         "dims": "",
         "note": ""
       },
       {
         "src": "Furniture/White Day Bed Size 6’.png",
-        "thumb": "Furniture/White Day Bed Size 6’.png",
+        "thumb": "thumbs/Furniture/White Day Bed Size 6’.webp",
         "title": "White Day Bed Size 6'",
         "dims": "",
         "note": ""
@@ -3509,19 +3509,19 @@
     "name": "Lamps & Lighting",
     "folder": "Lamps & Lighting",
     "desc": "Brighten your event with our elegant lamps and lighting rentals, creating a warm, inviting atmosphere that enhances the ambiance of any occasion.",
-    "cover": "Lamps & Lighting/8_ single lamp post with round lamp.png",
+    "cover": "thumbs/Lamps & Lighting/8_ single lamp post with round lamp.webp",
     "count": 2,
     "items": [
       {
         "src": "Lamps & Lighting/8_ single lamp post with round lamp.png",
-        "thumb": "Lamps & Lighting/8_ single lamp post with round lamp.png",
+        "thumb": "thumbs/Lamps & Lighting/8_ single lamp post with round lamp.webp",
         "title": "Single Lamp Post with Round Lamp",
         "dims": "8\"",
         "note": ""
       },
       {
         "src": "Lamps & Lighting/8_ single lamp post with teardrop lamp.png",
-        "thumb": "Lamps & Lighting/8_ single lamp post with teardrop lamp.png",
+        "thumb": "thumbs/Lamps & Lighting/8_ single lamp post with teardrop lamp.webp",
         "title": "Single Lamp Post with Teardrop Lamp",
         "dims": "8\"",
         "note": ""
@@ -3533,152 +3533,152 @@
     "name": "Pedestals & Columns",
     "folder": "Pedestals & Columns",
     "desc": "Elevate your event decor with our elegant pedestals and columns. Ideal for floral displays or dramatic focal points, adding height and sophistication to any space.",
-    "cover": "Pedestals & Columns/33_ fluted pedestal. This item can be custom painted any color.png",
+    "cover": "thumbs/Pedestals & Columns/33_ fluted pedestal. This item can be custom painted any color.webp",
     "count": 21,
     "items": [
       {
         "src": "Pedestals & Columns/33_ fluted pedestal. This item can be custom painted any color.png",
-        "thumb": "Pedestals & Columns/33_ fluted pedestal. This item can be custom painted any color.png",
+        "thumb": "thumbs/Pedestals & Columns/33_ fluted pedestal. This item can be custom painted any color.webp",
         "title": "Fluted Pedestal",
         "dims": "33\"",
         "note": "This item can be custom painted any color"
       },
       {
         "src": "Pedestals & Columns/8_ ivory greek column_.png",
-        "thumb": "Pedestals & Columns/8_ ivory greek column_.png",
+        "thumb": "thumbs/Pedestals & Columns/8_ ivory greek column_.webp",
         "title": "Ivory Greek Column",
         "dims": "8\"",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/4_ ivory plain fluted pedestal.png",
-        "thumb": "Pedestals & Columns/4_ ivory plain fluted pedestal.png",
+        "thumb": "thumbs/Pedestals & Columns/4_ ivory plain fluted pedestal.webp",
         "title": "Ivory Plain Fluted Pedestal",
         "dims": "4\"",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/28_ ivory plain fluted pedestal.png",
-        "thumb": "Pedestals & Columns/28_ ivory plain fluted pedestal.png",
+        "thumb": "thumbs/Pedestals & Columns/28_ ivory plain fluted pedestal.webp",
         "title": "Ivory Plain Fluted Pedestal",
         "dims": "28\"",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/3_ ivory plain fluted pedestal_.png",
-        "thumb": "Pedestals & Columns/3_ ivory plain fluted pedestal_.png",
+        "thumb": "thumbs/Pedestals & Columns/3_ ivory plain fluted pedestal_.webp",
         "title": "Ivory Plain Fluted Pedestal",
         "dims": "3\"",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/Large shiny white oman stand. 47_Hx15.5_W.png",
-        "thumb": "Pedestals & Columns/Large shiny white oman stand. 47_Hx15.5_W.png",
+        "thumb": "thumbs/Pedestals & Columns/Large shiny white oman stand. 47_Hx15.5_W.webp",
         "title": "Large Shiny White Oman Stand",
         "dims": "47\"H × 15.5\"W",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/28_ rust plain fluted pedestal.png",
-        "thumb": "Pedestals & Columns/28_ rust plain fluted pedestal.png",
+        "thumb": "thumbs/Pedestals & Columns/28_ rust plain fluted pedestal.webp",
         "title": "Rust Plain Fluted Pedestal",
         "dims": "28\"",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/Silver metal display stands. Available in 49_ and 32_ heights both with a 12_ base and top_.png",
-        "thumb": "Pedestals & Columns/Silver metal display stands. Available in 49_ and 32_ heights both with a 12_ base and top_.png",
+        "thumb": "thumbs/Pedestals & Columns/Silver metal display stands. Available in 49_ and 32_ heights both with a 12_ base and top_.webp",
         "title": "Silver Metal Display Stands",
         "dims": "",
         "note": "Available in 49\" and 32\" heights both with a 12\" base and top"
       },
       {
         "src": "Pedestals & Columns/Small shiny white oman stand. 29.5_Hx15.5_W.png",
-        "thumb": "Pedestals & Columns/Small shiny white oman stand. 29.5_Hx15.5_W.png",
+        "thumb": "thumbs/Pedestals & Columns/Small shiny white oman stand. 29.5_Hx15.5_W.webp",
         "title": "Small Shiny White Oman Stand",
         "dims": "29.5\"H × 15.5\"W",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/8_ stone grey greek column.png",
-        "thumb": "Pedestals & Columns/8_ stone grey greek column.png",
+        "thumb": "thumbs/Pedestals & Columns/8_ stone grey greek column.webp",
         "title": "Stone Grey Greek Column",
         "dims": "8\"",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/7_ stone grey greek column. Also available in ivory.png",
-        "thumb": "Pedestals & Columns/7_ stone grey greek column. Also available in ivory.png",
+        "thumb": "thumbs/Pedestals & Columns/7_ stone grey greek column. Also available in ivory.webp",
         "title": "Stone Grey Greek Column",
         "dims": "7\"",
         "note": "Also available in ivory"
       },
       {
         "src": "Pedestals & Columns/6_ stone grey greek column.png",
-        "thumb": "Pedestals & Columns/6_ stone grey greek column.png",
+        "thumb": "thumbs/Pedestals & Columns/6_ stone grey greek column.webp",
         "title": "Stone Grey Greek Column",
         "dims": "6\"",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/3_ stone grey greek pedestal.png",
-        "thumb": "Pedestals & Columns/3_ stone grey greek pedestal.png",
+        "thumb": "thumbs/Pedestals & Columns/3_ stone grey greek pedestal.webp",
         "title": "Stone Grey Greek Pedestal",
         "dims": "3\"",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/4_ stone grey greek pedestal. Also available in Ivory.png",
-        "thumb": "Pedestals & Columns/4_ stone grey greek pedestal. Also available in Ivory.png",
+        "thumb": "thumbs/Pedestals & Columns/4_ stone grey greek pedestal. Also available in Ivory.webp",
         "title": "Stone Grey Greek Pedestal",
         "dims": "4\"",
         "note": "Also available in Ivory"
       },
       {
         "src": "Pedestals & Columns/4_ stone grey plain fluted pedestal.png",
-        "thumb": "Pedestals & Columns/4_ stone grey plain fluted pedestal.png",
+        "thumb": "thumbs/Pedestals & Columns/4_ stone grey plain fluted pedestal.webp",
         "title": "Stone Grey Plain Fluted Pedestal",
         "dims": "4\"",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/28_ stone grey plain fluted pedestal_.png",
-        "thumb": "Pedestals & Columns/28_ stone grey plain fluted pedestal_.png",
+        "thumb": "thumbs/Pedestals & Columns/28_ stone grey plain fluted pedestal_.webp",
         "title": "Stone Grey Plain Fluted Pedestal",
         "dims": "28\"",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/3_ stone grey plain fluted pedestal.png",
-        "thumb": "Pedestals & Columns/3_ stone grey plain fluted pedestal.png",
+        "thumb": "thumbs/Pedestals & Columns/3_ stone grey plain fluted pedestal.webp",
         "title": "Stone Grey Plain Fluted Pedestal",
         "dims": "3\"",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/4_ tall iron column. This item can be custom painted any color.png",
-        "thumb": "Pedestals & Columns/4_ tall iron column. This item can be custom painted any color.png",
+        "thumb": "thumbs/Pedestals & Columns/4_ tall iron column. This item can be custom painted any color.webp",
         "title": "Tall Iron Column",
         "dims": "4\"",
         "note": "This item can be custom painted any color"
       },
       {
         "src": "Pedestals & Columns/7_ wrought iron grecian column. This item can be custom painted any color_.png",
-        "thumb": "Pedestals & Columns/7_ wrought iron grecian column. This item can be custom painted any color_.png",
+        "thumb": "thumbs/Pedestals & Columns/7_ wrought iron grecian column. This item can be custom painted any color_.webp",
         "title": "Wrought Iron Grecian Column",
         "dims": "7\"",
         "note": "This item can be custom painted any color"
       },
       {
         "src": "Pedestals & Columns/5_ wrought iron grecian pedestal. This item can be custom painted any color.png",
-        "thumb": "Pedestals & Columns/5_ wrought iron grecian pedestal. This item can be custom painted any color.png",
+        "thumb": "thumbs/Pedestals & Columns/5_ wrought iron grecian pedestal. This item can be custom painted any color.webp",
         "title": "Wrought Iron Grecian Pedestal",
         "dims": "5\"",
         "note": "This item can be custom painted any color"
       },
       {
         "src": "Pedestals & Columns/3_ wrought iron grecian pedestal. This item can be custom painted any color.png",
-        "thumb": "Pedestals & Columns/3_ wrought iron grecian pedestal. This item can be custom painted any color.png",
+        "thumb": "thumbs/Pedestals & Columns/3_ wrought iron grecian pedestal. This item can be custom painted any color.webp",
         "title": "Wrought Iron Grecian Pedestal",
         "dims": "3\"",
         "note": "This item can be custom painted any color"
@@ -3690,12 +3690,12 @@
     "name": "Risers & Stages",
     "folder": "Risers & Stages",
     "desc": "Sturdy risers and staging to add height and create a focal point — perfect for cakes, head tables and performances.",
-    "cover": "Risers & Stages/White riser with stairs.png",
+    "cover": "thumbs/Risers & Stages/White riser with stairs.webp",
     "count": 1,
     "items": [
       {
         "src": "Risers & Stages/White riser with stairs.png",
-        "thumb": "Risers & Stages/White riser with stairs.png",
+        "thumb": "thumbs/Risers & Stages/White riser with stairs.webp",
         "title": "White Riser with Stairs",
         "dims": "",
         "note": ""
@@ -3707,7 +3707,7 @@
     "name": "Tables",
     "folder": "Tables",
     "desc": "A full range of event tables — banquet, cocktail, round, serpentine, classroom and specialty tables in wood, glass and mirrored finishes.",
-    "cover": "Tables/Country wood table. It has cast iron legs with a distressed wood top. This table measures W98_xD39_xH31.jpg",
+    "cover": "thumbs/Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.webp",
     "count": 20,
     "children": [
       {
@@ -3715,35 +3715,42 @@
         "name": "Wood & Banquet Tables",
         "folder": "Tables",
         "desc": "Classic wood, banquet, serpentine and classroom tables — the sturdy foundation for any seated event.",
-        "cover": "Tables/Banquet and Tuscan Tables.jpg",
-        "count": 4,
+        "cover": "thumbs/Tables/7’ Serpentine Tables.webp",
+        "count": 5,
         "items": [
           {
-            "src": "Tables/Banquet and Tuscan Tables.jpg",
-            "thumb": "Tables/Banquet and Tuscan Tables.jpg",
+            "src": "Tables/7’ Serpentine Tables.jpg",
+            "thumb": "thumbs/Tables/7’ Serpentine Tables.webp",
+            "title": "7’ Serpentine Tables",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Tables/Banquet and Tuscan Tables 6’x30”x30” 8’x30”x30” 6’x30”x42” high  8’x30”x42” high  8’x42”x30” 10’x42”x30.jpg",
+            "thumb": "thumbs/Tables/Banquet and Tuscan Tables 6’x30”x30” 8’x30”x30” 6’x30”x42” high  8’x30”x42” high  8’x42”x30” 10’x42”x30.webp",
             "title": "Banquet and Tuscan Tables",
-            "dims": "",
+            "dims": "6' x 30\" x 30\" · 8' x 30\" x 30\" · 6' x 30\" x 42\" high · 8' x 30\" x 42\" high · 8' x 42\" x 30\" · 10' x 42\" x 30",
             "note": ""
           },
           {
-            "src": "Tables/Classroom Tables.jpg",
-            "thumb": "Tables/Classroom Tables.jpg",
+            "src": "Tables/Classroom Tables Size 6’x18”x30”high Size 8’x18”x30”high  Size 8’x18’x42” high  Size 6’x18”x42” high.jpg",
+            "thumb": "thumbs/Tables/Classroom Tables Size 6’x18”x30”high Size 8’x18”x30”high  Size 8’x18’x42” high  Size 6’x18”x42” high.webp",
             "title": "Classroom Tables",
-            "dims": "",
+            "dims": "6' x 18\" x 30\" high · 8' x 18\" x 30\" high · 8' x 18' x 42\" high · 6' x 18\" x 42\" high",
             "note": ""
           },
           {
-            "src": "Tables/Country wood table. It has cast iron legs with a distressed wood top. This table measures W98_xD39_xH31.jpg",
-            "thumb": "Tables/Country wood table. It has cast iron legs with a distressed wood top. This table measures W98_xD39_xH31.jpg",
+            "src": "Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.jpg",
+            "thumb": "thumbs/Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.webp",
             "title": "Country Wood Table",
-            "dims": "",
-            "note": "It has cast iron legs with a distressed wood top. This table measures W98\"xD39\"xH31"
+            "dims": "W98 x D39 x H31",
+            "note": "It has cast iron legs with a distressed wood top"
           },
           {
-            "src": "Tables/Serpentine Tables.jpg",
-            "thumb": "Tables/Serpentine Tables.jpg",
-            "title": "Serpentine Tables",
-            "dims": "",
+            "src": "Tables/Farm tables Size 9’x39”wide x30” high  Size 8’x39”wide x30 high.jpg",
+            "thumb": "thumbs/Tables/Farm tables Size 9’x39”wide x30” high  Size 8’x39”wide x30 high.webp",
+            "title": "Farm Tables",
+            "dims": "9' x 39\" wide x 30\" high · 8' x 39\" wide x 30 high",
             "note": ""
           }
         ]
@@ -3753,26 +3760,26 @@
         "name": "Round Tables",
         "folder": "Tables",
         "desc": "Round and cocktail-round tables, perfect for guest seating and dining.",
-        "cover": "Tables/Cocktail and Round Tables 2.jpg",
+        "cover": "thumbs/Tables/Cocktail and Round Tables.webp",
         "count": 3,
         "items": [
           {
-            "src": "Tables/Cocktail and Round Tables 2.jpg",
-            "thumb": "Tables/Cocktail and Round Tables 2.jpg",
+            "src": "Tables/Cocktail and Round Tables.jpg",
+            "thumb": "thumbs/Tables/Cocktail and Round Tables.webp",
             "title": "Cocktail and Round Tables",
             "dims": "",
             "note": ""
           },
           {
-            "src": "Tables/Cocktail and Round Tables.jpg",
-            "thumb": "Tables/Cocktail and Round Tables.jpg",
-            "title": "Cocktail and Round Tables",
-            "dims": "",
+            "src": "Tables/Half moon tables 30”x30” low 36”x30” low  48” Round  60” Round  72” Round  84” Round  48”.jpg",
+            "thumb": "thumbs/Tables/Half moon tables 30”x30” low 36”x30” low  48” Round  60” Round  72” Round  84” Round  48”.webp",
+            "title": "Half Moon Tables",
+            "dims": "30\" x 30\" low · 36\" x 30\" low · 48\" Round · 60\" Round · 72\" Round · 84\" Round · 48\"",
             "note": ""
           },
           {
             "src": "Tables/White round tables.png",
-            "thumb": "Tables/White round tables.png",
+            "thumb": "thumbs/Tables/White round tables.webp",
             "title": "White Round Tables",
             "dims": "",
             "note": ""
@@ -3784,47 +3791,40 @@
         "name": "Cocktail Tables",
         "folder": "Tables",
         "desc": "Low and high cocktail tables, including styles on wheels, for lounge and mingling areas.",
-        "cover": "Tables/High Cocktail Table.jpg",
-        "count": 6,
+        "cover": "thumbs/Tables/High cocktail 30”x42” high  36”x42” high.webp",
+        "count": 5,
         "items": [
           {
-            "src": "Tables/High Cocktail Table.jpg",
-            "thumb": "Tables/High Cocktail Table.jpg",
-            "title": "High Cocktail Table",
-            "dims": "",
+            "src": "Tables/High cocktail 30”x42” high  36”x42” high.jpg",
+            "thumb": "thumbs/Tables/High cocktail 30”x42” high  36”x42” high.webp",
+            "title": "High Cocktail",
+            "dims": "30\" x 42\" high · 36\" x 42\" high",
             "note": ""
           },
           {
             "src": "Tables/Low and High Cocktail Tables.png",
-            "thumb": "Tables/Low and High Cocktail Tables.png",
+            "thumb": "thumbs/Tables/Low and High Cocktail Tables.webp",
             "title": "Low and High Cocktail Tables",
             "dims": "",
             "note": ""
           },
           {
             "src": "Tables/Low and High Cocktail Tables 3.png",
-            "thumb": "Tables/Low and High Cocktail Tables 3.png",
+            "thumb": "thumbs/Tables/Low and High Cocktail Tables 3.webp",
             "title": "Low and High Cocktail Tables",
             "dims": "",
             "note": ""
           },
           {
             "src": "Tables/Low and High Cocktail Tables 2.png",
-            "thumb": "Tables/Low and High Cocktail Tables 2.png",
+            "thumb": "thumbs/Tables/Low and High Cocktail Tables 2.webp",
             "title": "Low and High Cocktail Tables",
             "dims": "",
             "note": ""
           },
           {
-            "src": "Tables/Low Tables on Wheels 2.jpg",
-            "thumb": "Tables/Low Tables on Wheels 2.jpg",
-            "title": "Low Tables on Wheels",
-            "dims": "",
-            "note": ""
-          },
-          {
             "src": "Tables/Low Tables on Wheels.jpg",
-            "thumb": "Tables/Low Tables on Wheels.jpg",
+            "thumb": "thumbs/Tables/Low Tables on Wheels.webp",
             "title": "Low Tables on Wheels",
             "dims": "",
             "note": ""
@@ -3836,49 +3836,49 @@
         "name": "Acrylic, Crystal & Glass Tables",
         "folder": "Tables",
         "desc": "Modern acrylic, crystal, glass and mirrored tables for a sleek, elegant look.",
-        "cover": "Tables/Clear Acrylic High Cocktail Table.jpg",
+        "cover": "thumbs/Tables/Clear Acrylic High Cocktail Table.webp",
         "count": 6,
         "items": [
           {
             "src": "Tables/Clear Acrylic High Cocktail Table.jpg",
-            "thumb": "Tables/Clear Acrylic High Cocktail Table.jpg",
+            "thumb": "thumbs/Tables/Clear Acrylic High Cocktail Table.webp",
             "title": "Clear Acrylic High Cocktail Table",
             "dims": "",
             "note": ""
           },
           {
             "src": "Tables/Glass top bar table.jpg",
-            "thumb": "Tables/Glass top bar table.jpg",
+            "thumb": "thumbs/Tables/Glass top bar table.webp",
             "title": "Glass Top Bar Table",
             "dims": "",
             "note": ""
           },
           {
             "src": "Tables/High Acrylic Tables.png",
-            "thumb": "Tables/High Acrylic Tables.png",
+            "thumb": "thumbs/Tables/High Acrylic Tables.webp",
             "title": "High Acrylic Tables",
             "dims": "",
             "note": ""
           },
           {
             "src": "Tables/High Crystal Tables.png",
-            "thumb": "Tables/High Crystal Tables.png",
+            "thumb": "thumbs/Tables/High Crystal Tables.webp",
             "title": "High Crystal Tables",
             "dims": "",
             "note": ""
           },
           {
-            "src": "Tables/Mirrored Cocktail Table.jpg",
-            "thumb": "Tables/Mirrored Cocktail Table.jpg",
+            "src": "Tables/Mirrored Cocktail Table 36'' x 36'' Square.jpg",
+            "thumb": "thumbs/Tables/Mirrored Cocktail Table 36'' x 36'' Square.webp",
             "title": "Mirrored Cocktail Table",
-            "dims": "",
+            "dims": "36\" x 36\" Square",
             "note": ""
           },
           {
-            "src": "Tables/White Acrylic Tables.png",
-            "thumb": "Tables/White Acrylic Tables.png",
+            "src": "Tables/White Acrylic Tables Size 10’x42”x30” high  Size 8’x42”x30” high.png",
+            "thumb": "thumbs/Tables/White Acrylic Tables Size 10’x42”x30” high  Size 8’x42”x30” high.webp",
             "title": "White Acrylic Tables",
-            "dims": "",
+            "dims": "10' x 42\" x 30\" high · 8' x 42\" x 30\" high",
             "note": ""
           }
         ]
@@ -3888,13 +3888,13 @@
         "name": "Specialty Tables",
         "folder": "Tables",
         "desc": "Statement pieces like our light-up tables to add a wow factor to your event.",
-        "cover": "Tables/Light-Up Tables and Chairs.png",
+        "cover": "thumbs/Tables/High and low light tables and chairs.webp",
         "count": 1,
         "items": [
           {
-            "src": "Tables/Light-Up Tables and Chairs.png",
-            "thumb": "Tables/Light-Up Tables and Chairs.png",
-            "title": "Light-Up Tables and Chairs",
+            "src": "Tables/High and low light tables and chairs.png",
+            "thumb": "thumbs/Tables/High and low light tables and chairs.webp",
+            "title": "High and Low Light Tables and Chairs",
             "dims": "",
             "note": ""
           }
@@ -3907,117 +3907,117 @@
     "name": "Urns",
     "folder": "Urns",
     "desc": "Add timeless elegance with our classic urn rentals, perfect for showcasing beautiful floral arrangements indoors or outdoors.",
-    "cover": "Urns/Ivory basket-weave planter.png",
+    "cover": "thumbs/Urns/Ivory basket-weave planter.webp",
     "count": 16,
     "items": [
       {
         "src": "Urns/Ivory basket-weave planter.png",
-        "thumb": "Urns/Ivory basket-weave planter.png",
+        "thumb": "thumbs/Urns/Ivory basket-weave planter.webp",
         "title": "Ivory Basket-weave Planter",
         "dims": "",
         "note": ""
       },
       {
         "src": "Urns/24_ ivory fluted urn.png",
-        "thumb": "Urns/24_ ivory fluted urn.png",
+        "thumb": "thumbs/Urns/24_ ivory fluted urn.webp",
         "title": "Ivory Fluted Urn",
         "dims": "24\"",
         "note": ""
       },
       {
         "src": "Urns/Ivory low squat urn.png",
-        "thumb": "Urns/Ivory low squat urn.png",
+        "thumb": "thumbs/Urns/Ivory low squat urn.webp",
         "title": "Ivory Low Squat Urn",
         "dims": "",
         "note": ""
       },
       {
         "src": "Urns/21_ ivory urn.png",
-        "thumb": "Urns/21_ ivory urn.png",
+        "thumb": "thumbs/Urns/21_ ivory urn.webp",
         "title": "Ivory Urn",
         "dims": "21\"",
         "note": ""
       },
       {
         "src": "Urns/16_and 19_ rust woven urn.png",
-        "thumb": "Urns/16_and 19_ rust woven urn.png",
+        "thumb": "thumbs/Urns/16_and 19_ rust woven urn.webp",
         "title": "Rust Woven Urn",
         "dims": "16\" / 19\"",
         "note": ""
       },
       {
         "src": "Urns/Shiny white urns. The large urn stands 60_ tall with a 33_ opening and a 17_ base. The smaller urn stands 35_ tall with a 18_ opening and a 10_ base.png",
-        "thumb": "Urns/Shiny white urns. The large urn stands 60_ tall with a 33_ opening and a 17_ base. The smaller urn stands 35_ tall with a 18_ opening and a 10_ base.png",
+        "thumb": "thumbs/Urns/Shiny white urns. The large urn stands 60_ tall with a 33_ opening and a 17_ base. The smaller urn stands 35_ tall with a 18_ opening and a 10_ base.webp",
         "title": "Shiny White Urns",
         "dims": "",
         "note": "The large urn stands 60\" tall with a 33\" opening and a 17\" base. The smaller urn stands 35\" tall with a 18\" opening and a 10\" base"
       },
       {
         "src": "Urns/Shiny white vase stands 40_ all with a 9_ base, and a 4 3_4_ opening.png",
-        "thumb": "Urns/Shiny white vase stands 40_ all with a 9_ base, and a 4 3_4_ opening.png",
+        "thumb": "thumbs/Urns/Shiny white vase stands 40_ all with a 9_ base, and a 4 3_4_ opening.webp",
         "title": "Shiny White Vase Stands All with a Base, and a Opening",
         "dims": "40\" / 9\" / 4 3/4\"",
         "note": ""
       },
       {
         "src": "Urns/Shiny white vase stands 76_ tall with a 17_ opening and a 10_ base.png",
-        "thumb": "Urns/Shiny white vase stands 76_ tall with a 17_ opening and a 10_ base.png",
+        "thumb": "thumbs/Urns/Shiny white vase stands 76_ tall with a 17_ opening and a 10_ base.webp",
         "title": "Shiny White Vase Stands Tall with a Opening and a Base",
         "dims": "76\" / 17\" / 10\"",
         "note": ""
       },
       {
         "src": "Urns/24_ stone grey cache pot.png",
-        "thumb": "Urns/24_ stone grey cache pot.png",
+        "thumb": "thumbs/Urns/24_ stone grey cache pot.webp",
         "title": "Stone Grey Cache Pot",
         "dims": "24\"",
         "note": ""
       },
       {
         "src": "Urns/24_ stone grey fluted urn.png",
-        "thumb": "Urns/24_ stone grey fluted urn.png",
+        "thumb": "thumbs/Urns/24_ stone grey fluted urn.webp",
         "title": "Stone Grey Fluted Urn",
         "dims": "24\"",
         "note": ""
       },
       {
         "src": "Urns/36_ stone grey leaf urn.png",
-        "thumb": "Urns/36_ stone grey leaf urn.png",
+        "thumb": "thumbs/Urns/36_ stone grey leaf urn.webp",
         "title": "Stone Grey Leaf Urn",
         "dims": "36\"",
         "note": ""
       },
       {
         "src": "Urns/Stone grey low squat urn.png",
-        "thumb": "Urns/Stone grey low squat urn.png",
+        "thumb": "thumbs/Urns/Stone grey low squat urn.webp",
         "title": "Stone Grey Low Squat Urn",
         "dims": "",
         "note": ""
       },
       {
         "src": "Urns/21_ stone grey star urn.png",
-        "thumb": "Urns/21_ stone grey star urn.png",
+        "thumb": "thumbs/Urns/21_ stone grey star urn.webp",
         "title": "Stone Grey Star Urn",
         "dims": "21\"",
         "note": ""
       },
       {
         "src": "Urns/18_ stone grey urn.png",
-        "thumb": "Urns/18_ stone grey urn.png",
+        "thumb": "thumbs/Urns/18_ stone grey urn.webp",
         "title": "Stone Grey Urn",
         "dims": "18\"",
         "note": ""
       },
       {
         "src": "Urns/21_ stone grey urn.png",
-        "thumb": "Urns/21_ stone grey urn.png",
+        "thumb": "thumbs/Urns/21_ stone grey urn.webp",
         "title": "Stone Grey Urn",
         "dims": "21\"",
         "note": ""
       },
       {
         "src": "Urns/urns.png",
-        "thumb": "Urns/urns.png",
+        "thumb": "thumbs/Urns/urns.webp",
         "title": "Urns",
         "dims": "",
         "note": ""

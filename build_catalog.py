@@ -135,11 +135,11 @@ def table_rank(f):
     n = f.lower()
     if any(k in n for k in ('acrylic', 'crystal', 'glass', 'mirror')):
         return 3
-    if 'light-up' in n or 'light up' in n:
+    if 'light' in n:                       # light-up / "light tables"
         return 4
-    if any(k in n for k in ('wood', 'tuscan', 'banquet', 'serpentine', 'classroom')):
+    if any(k in n for k in ('wood', 'tuscan', 'banquet', 'serpentine', 'classroom', 'farm')):
         return 0
-    if 'round' in n:
+    if 'half moon' in n or 'halfmoon' in n or 'round' in n:
         return 1
     if 'cocktail' in n or 'wheels' in n:
         return 2
@@ -245,6 +245,52 @@ def parse_name(filename):
     return titlecase(base), dims, note
 
 
+# Inicio de la lista de medidas en los nombres de mesas
+TABLE_MEAS_START = re.compile(
+    r'\bSizes?\b|\bmeasures?\b|'
+    r'\d+\s*(?:\'\'|´´|\'|’|"|”)\s*[x×]', re.I)
+
+
+def _clean_table_meas(s):
+    s = re.sub(r'\bSizes?\b|\bmeasures?\b', '', s, flags=re.I)
+    s = (s.replace('´´', '"').replace('”', '"').replace('“', '"').replace('″', '"')
+          .replace('’', "'").replace('‘', "'").replace('′', "'").replace("''", '"'))
+    s = s.replace('_x', ' x ').replace('_', ' ')
+    s = re.sub(r'\s*[x×]\s*', ' x ', s)
+    s = re.sub(r'(["\'])(?=[A-Za-z])', r'\1 ', s)   # 39"wide -> 39" wide
+    # separa las distintas tallas con " · "
+    s = re.sub(r'"\s+(?=\d)', '" · ', s)
+    s = re.sub(r'\b(high|low|round|square|wide)\s+(?=\d)', r'\1 · ', s, flags=re.I)
+    s = re.sub(r'\s+', ' ', s).strip(' .,-·')
+    return s
+
+
+def table_parse(f):
+    """Separa el nombre limpio de la lista de medidas (mesas)."""
+    base = f.rsplit('.', 1)[0]
+    base = re.sub(r'\s*\(\d+\)\s*$', '', base)
+    m = TABLE_MEAS_START.search(base)
+    if m:
+        name_part, meas = base[:m.start()], _clean_table_meas(base[m.start():])
+    else:
+        name_part, meas = base, ''
+    name_part = name_part.replace('_', ' ')
+    note = ''
+    nm = NOTE_SPLIT.search(name_part)
+    if nm:
+        note = name_part[nm.start():].strip(' .,')
+        name_part = name_part[:nm.start()]
+    elif '. ' in name_part:
+        name_part, note = name_part.split('. ', 1)
+        note = note.strip(' .,')
+    name_part = re.sub(r'\s+[1-9]\d?$', '', name_part.strip(' .,-'))   # indice de foto
+    name_part = re.sub(r'\s+', ' ', name_part).strip(' .,-')
+    note = re.sub(r'\s+', ' ', note).strip(' .,')
+    if note:
+        note = note[0].upper() + note[1:]
+    return titlecase(name_part), meas, note
+
+
 def whiten_bg(im):
     """Se dejan los fondos originales tal cual (sin blanqueado automatico)."""
     return im.convert('RGB')
@@ -335,7 +381,7 @@ def images_in(rel):
     items = []
     for f in files:
         src = rel + '/' + f
-        title, dims, note = parse_name(f)
+        title, dims, note = table_parse(f) if rel == 'Tables' else parse_name(f)
         if rel.startswith('Fabrics'):
             # quita el codigo del final (ej. "Apple 623", "Barocco Celery P048")
             title = re.sub(r'\s+[A-Za-z]{0,2}\d+$', '', title).strip()
