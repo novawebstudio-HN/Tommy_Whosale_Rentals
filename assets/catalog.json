@@ -318,7 +318,7 @@
     "folder": "Bar",
     "desc": "Statement bars for any event — from classic white and black designs to rustic and modern LED-lit styles.",
     "cover": "thumbs/Bar/Versa Bar.webp",
-    "count": 15,
+    "count": 16,
     "items": [
       {
         "src": "Bar/Bar Lids.png",
@@ -416,6 +416,13 @@
         "thumb": "thumbs/Bar/White Beaded Front Bar Size 8_ Wide X 18_ Deep.webp",
         "title": "White Beaded Front Bar",
         "dims": "8\" Wide / 18\" Deep",
+        "note": ""
+      },
+      {
+        "src": "Bar/White DJ Booth.jpeg",
+        "thumb": "thumbs/Bar/White DJ Booth.webp",
+        "title": "White DJ Booth",
+        "dims": "",
         "note": ""
       },
       {
@@ -1124,24 +1131,17 @@
     "name": "Chairs",
     "folder": "Chairs",
     "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
-    "cover": "thumbs/Chairs/Chiavari Ballroom Gold Chair.webp",
-    "count": 34,
+    "cover": "thumbs/Chairs/Fruitwood ballroom chair.webp",
+    "count": 33,
     "children": [
       {
         "type": "category",
         "name": "Chairs",
         "folder": "Chairs",
         "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
-        "cover": "thumbs/Chairs/Chiavari Ballroom Gold Chair.webp",
-        "count": 27,
+        "cover": "thumbs/Chairs/Fruitwood ballroom chair.webp",
+        "count": 26,
         "items": [
-          {
-            "src": "Chairs/Chiavari Ballroom Gold Chair.png",
-            "thumb": "thumbs/Chairs/Chiavari Ballroom Gold Chair.webp",
-            "title": "Chiavari Ballroom Gold Chair",
-            "dims": "",
-            "note": ""
-          },
           {
             "src": "Chairs/Fruitwood ballroom chair.png",
             "thumb": "thumbs/Chairs/Fruitwood ballroom chair.webp",
@@ -1393,7 +1393,7 @@
     "folder": "Dance Floors",
     "desc": "Available in red, black, and white — all with a high-shine finish. Your dance floor can be made in almost any even size (note: every floor has a 5\" edging).",
     "cover": "thumbs/Dance Floors/Par 3.webp",
-    "count": 33,
+    "count": 36,
     "items": [
       {
         "src": "Dance Floors/Par 3.jpg",
@@ -1615,6 +1615,27 @@
       {
         "src": "Dance Floors/18.png",
         "thumb": "thumbs/Dance Floors/18.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/20.jpeg",
+        "thumb": "thumbs/Dance Floors/20.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/21.jpeg",
+        "thumb": "thumbs/Dance Floors/21.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/22.jpeg",
+        "thumb": "thumbs/Dance Floors/22.webp",
         "title": "",
         "dims": "",
         "note": ""
