@@ -419,7 +419,7 @@
     "folder": "Candelabras",
     "desc": "Add timeless elegance to your event with our exquisite candelabras. These striking centerpieces bring sophistication and warmth, creating a captivating ambiance with their classic design and soft candlelight.",
     "cover": "thumbs/Candelabras/10 arm all crystal contemporary candelabra with candle hurricanes.webp",
-    "count": 20,
+    "count": 19,
     "items": [
       {
         "src": "Candelabras/10 arm all crystal contemporary candelabra with candle hurricanes.png",
@@ -431,22 +431,22 @@
       {
         "src": "Candelabras/64_ 13 arm wrought iron candelabra.png",
         "thumb": "thumbs/Candelabras/64_ 13 arm wrought iron candelabra.webp",
-        "title": "13 Arm Wrought Iron Candelabra",
-        "dims": "64\"",
+        "title": "64\" 13 Arm Wrought Iron Candelabra",
+        "dims": "",
         "note": ""
       },
       {
         "src": "Candelabras/64_ 13 arm wrought iron candelabra in gold.png",
         "thumb": "thumbs/Candelabras/64_ 13 arm wrought iron candelabra in gold.webp",
-        "title": "13 Arm Wrought Iron Candelabra in Gold",
-        "dims": "64\"",
+        "title": "64\" 13 Arm Wrought Iron Candelabra in Gold",
+        "dims": "",
         "note": ""
       },
       {
-        "src": "Candelabras/5_ 4 arm candelabra with center.png",
-        "thumb": "thumbs/Candelabras/5_ 4 arm candelabra with center.webp",
-        "title": "4 Arm Candelabra with Center",
-        "dims": "5\"",
+        "src": "Candelabras/4 Arm Gold Candelabra with Dish.png",
+        "thumb": "thumbs/Candelabras/4 Arm Gold Candelabra with Dish.webp",
+        "title": "4 Arm Gold Candelabra with Dish",
+        "dims": "",
         "note": ""
       },
       {
@@ -466,56 +466,42 @@
       {
         "src": "Candelabras/30_ crystal and gold 4 arm candelabra with dish.png",
         "thumb": "thumbs/Candelabras/30_ crystal and gold 4 arm candelabra with dish.webp",
-        "title": "Crystal and Gold 4 Arm Candelabra with Dish",
-        "dims": "30\"",
+        "title": "30\" Crystal and Gold 4 Arm Candelabra with Dish",
+        "dims": "",
         "note": ""
       },
       {
         "src": "Candelabras/30_ crystal and silver 5 arm candelabra.png",
         "thumb": "thumbs/Candelabras/30_ crystal and silver 5 arm candelabra.webp",
-        "title": "Crystal and Silver 5 Arm Candelabra",
-        "dims": "30\"",
+        "title": "30\" Crystal and Silver 5 Arm Candelabra",
+        "dims": "",
         "note": ""
       },
       {
         "src": "Candelabras/30_ crystal and silver 5 arm candelabra(1).png",
         "thumb": "thumbs/Candelabras/30_ crystal and silver 5 arm candelabra(1).webp",
-        "title": "Crystal and Silver 5 Arm Candelabra",
-        "dims": "30\"",
+        "title": "30\" Crystal and Silver 5 Arm Candelabra",
+        "dims": "",
         "note": ""
       },
       {
         "src": "Candelabras/39_ four arm silver candelabra.png",
         "thumb": "thumbs/Candelabras/39_ four arm silver candelabra.webp",
-        "title": "Four Arm Silver Candelabra",
-        "dims": "39\"",
+        "title": "39\" Four Arm Silver Candelabra",
+        "dims": "",
         "note": ""
       },
       {
         "src": "Candelabras/24_ gold 4 arm candelabra.png",
         "thumb": "thumbs/Candelabras/24_ gold 4 arm candelabra.webp",
-        "title": "Gold 4 Arm Candelabra",
-        "dims": "24\"",
-        "note": ""
-      },
-      {
-        "src": "Candelabras/24_ gold 4 arm candelabra(1).png",
-        "thumb": "thumbs/Candelabras/24_ gold 4 arm candelabra(1).webp",
-        "title": "Gold 4 Arm Candelabra",
-        "dims": "24\"",
+        "title": "24\" Gold 4 Arm Candelabra",
+        "dims": "",
         "note": ""
       },
       {
         "src": "Candelabras/24_ gold 4 or 5 arm candelabra.png",
         "thumb": "thumbs/Candelabras/24_ gold 4 or 5 arm candelabra.webp",
-        "title": "Gold 4 or 5 Arm Candelabra",
-        "dims": "24\"",
-        "note": ""
-      },
-      {
-        "src": "Candelabras/Large gold 5 arm candelabra.png",
-        "thumb": "thumbs/Candelabras/Large gold 5 arm candelabra.webp",
-        "title": "Large Gold 5 Arm Candelabra",
+        "title": "24\" Gold 4 or 5 Arm Candelabra",
         "dims": "",
         "note": ""
       },
@@ -536,22 +522,29 @@
       {
         "src": "Candelabras/39_ silver 5 arm candelabra.png",
         "thumb": "thumbs/Candelabras/39_ silver 5 arm candelabra.webp",
-        "title": "Silver 5 Arm Candelabra",
-        "dims": "39\"",
+        "title": "39\" Silver 5 Arm Candelabra",
+        "dims": "",
         "note": ""
       },
       {
         "src": "Candelabras/24_ silver 5 arm candelabra.png",
         "thumb": "thumbs/Candelabras/24_ silver 5 arm candelabra.webp",
-        "title": "Silver 5 Arm Candelabra",
-        "dims": "24\"",
+        "title": "24\" Silver 5 Arm Candelabra",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Candelabras/Silver and Crystal 4 arm with Dish.png",
+        "thumb": "thumbs/Candelabras/Silver and Crystal 4 arm with Dish.webp",
+        "title": "Silver and Crystal 4 Arm with Dish",
+        "dims": "",
         "note": ""
       },
       {
         "src": "Candelabras/30_ silver candelabra. Available as 5 candle or 4 arm with a center bowl.png",
         "thumb": "thumbs/Candelabras/30_ silver candelabra. Available as 5 candle or 4 arm with a center bowl.webp",
-        "title": "Silver Candelabra",
-        "dims": "30\"",
+        "title": "30\" Silver Candelabra",
+        "dims": "",
         "note": "Available as 5 candle or 4 arm with a center bowl"
       },
       {
@@ -1111,7 +1104,7 @@
     "folder": "Chairs",
     "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
     "cover": "thumbs/Chairs/Chiavari Ballroom Gold Chair.webp",
-    "count": 36,
+    "count": 34,
     "children": [
       {
         "type": "category",
@@ -1119,7 +1112,7 @@
         "folder": "Chairs",
         "desc": "Discover our range of stylish chair rentals. From elegant ballroom and classic Chiavari chairs to sleek leatherette and clear acrylic options, we offer seating that combines comfort and sophistication.",
         "cover": "thumbs/Chairs/Chiavari Ballroom Gold Chair.webp",
-        "count": 29,
+        "count": 27,
         "items": [
           {
             "src": "Chairs/Chiavari Ballroom Gold Chair.png",
@@ -1127,13 +1120,6 @@
             "title": "Chiavari Ballroom Gold Chair",
             "dims": "",
             "note": ""
-          },
-          {
-            "src": "Chairs/Chivari bar stools. Available in gold, white, black, silver, fruitwood.png",
-            "thumb": "thumbs/Chairs/Chivari bar stools. Available in gold, white, black, silver, fruitwood.webp",
-            "title": "Chivari Bar Stools",
-            "dims": "",
-            "note": "Available in gold, white, black, silver, fruitwood"
           },
           {
             "src": "Chairs/Fruitwood ballroom chair.png",
@@ -1160,13 +1146,6 @@
             "src": "Chairs/Pearl Essence Ballroom Chairs.png",
             "thumb": "thumbs/Chairs/Pearl Essence Ballroom Chairs.webp",
             "title": "Pearl Essence Ballroom Chairs",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Chairs/Pearl Essence Chivari Ballroom Chair.png",
-            "thumb": "thumbs/Chairs/Pearl Essence Chivari Ballroom Chair.webp",
-            "title": "Pearl Essence Chivari Ballroom Chair",
             "dims": "",
             "note": ""
           },
@@ -1392,37 +1371,9 @@
     "name": "Dance Floors",
     "folder": "Dance Floors",
     "desc": "Available in red, black, and white — all with a high-shine finish. Your dance floor can be made in almost any even size (note: every floor has a 5\" edging).",
-    "cover": "thumbs/Dance Floors/Par 1.webp",
-    "count": 36,
+    "cover": "thumbs/Dance Floors/Par 3.webp",
+    "count": 33,
     "items": [
-      {
-        "src": "Dance Floors/Par 1.png",
-        "thumb": "thumbs/Dance Floors/Par 1.webp",
-        "title": "",
-        "dims": "",
-        "note": ""
-      },
-      {
-        "src": "Dance Floors/Par 1.1.png",
-        "thumb": "thumbs/Dance Floors/Par 1.1.webp",
-        "title": "",
-        "dims": "",
-        "note": ""
-      },
-      {
-        "src": "Dance Floors/Par 2.png",
-        "thumb": "thumbs/Dance Floors/Par 2.webp",
-        "title": "",
-        "dims": "",
-        "note": ""
-      },
-      {
-        "src": "Dance Floors/Par 2.2.png",
-        "thumb": "thumbs/Dance Floors/Par 2.2.webp",
-        "title": "",
-        "dims": "",
-        "note": ""
-      },
       {
         "src": "Dance Floors/Par 3.jpg",
         "thumb": "thumbs/Dance Floors/Par 3.webp",
@@ -1560,6 +1511,13 @@
         "src": "Dance Floors/Par 12.1.png",
         "thumb": "thumbs/Dance Floors/Par 12.1.webp",
         "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/Floor black and white.png",
+        "thumb": "thumbs/Dance Floors/Floor black and white.webp",
+        "title": "Black and White",
         "dims": "",
         "note": ""
       },
@@ -3708,15 +3666,15 @@
     "folder": "Tables",
     "desc": "A full range of event tables — banquet, cocktail, round, serpentine, classroom and specialty tables in wood, glass and mirrored finishes.",
     "cover": "thumbs/Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.webp",
-    "count": 20,
+    "count": 22,
     "children": [
       {
         "type": "category",
-        "name": "Wood & Banquet Tables",
+        "name": "Folding Tables",
         "folder": "Tables",
-        "desc": "Classic wood, banquet, serpentine and classroom tables — the sturdy foundation for any seated event.",
+        "desc": "Classic folding banquet, serpentine, classroom and round tables — the sturdy, versatile foundation for any seated event.",
         "cover": "thumbs/Tables/7’ Serpentine Tables.webp",
-        "count": 5,
+        "count": 7,
         "items": [
           {
             "src": "Tables/7’ Serpentine Tables.jpg",
@@ -3740,6 +3698,44 @@
             "note": ""
           },
           {
+            "src": "Tables/Cocktail and Round Tables.jpg",
+            "thumb": "thumbs/Tables/Cocktail and Round Tables.webp",
+            "title": "Cocktail and Round Tables",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Tables/Half moon tables 30”x30” low 36”x30” low  48” Round  60” Round  72” Round  84” Round  48”.jpg",
+            "thumb": "thumbs/Tables/Half moon tables 30”x30” low 36”x30” low  48” Round  60” Round  72” Round  84” Round  48”.webp",
+            "title": "Half Moon Tables",
+            "dims": "30\" × 30\" Low · 36\" × 30\" Low · 48\" Round · 60\" Round · 72\" Round · 84\" Round · 48\"",
+            "note": ""
+          },
+          {
+            "src": "Tables/High cocktail 30”x42” high  36”x42” high.jpg",
+            "thumb": "thumbs/Tables/High cocktail 30”x42” high  36”x42” high.webp",
+            "title": "High Cocktail",
+            "dims": "30\" × 42\" High · 36\" × 42\" High",
+            "note": ""
+          },
+          {
+            "src": "Tables/Low Tables on Wheels.jpg",
+            "thumb": "thumbs/Tables/Low Tables on Wheels.webp",
+            "title": "Low Tables on Wheels",
+            "dims": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "name": "Farm Tables",
+        "folder": "Tables",
+        "desc": "Rustic wood farm and country tables that bring warmth and character to weddings and gatherings.",
+        "cover": "thumbs/Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.webp",
+        "count": 2,
+        "items": [
+          {
             "src": "Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.jpg",
             "thumb": "thumbs/Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.webp",
             "title": "Country Wood Table",
@@ -3757,48 +3753,52 @@
       },
       {
         "type": "category",
-        "name": "Round Tables",
+        "name": "Acrylic, Crystal & Glass Tables",
         "folder": "Tables",
-        "desc": "Round and cocktail-round tables, perfect for guest seating and dining.",
-        "cover": "thumbs/Tables/Cocktail and Round Tables.webp",
-        "count": 3,
+        "desc": "Modern acrylic, crystal, glass and mirrored tables for a sleek, elegant look.",
+        "cover": "thumbs/Tables/Clear Acrylic High Cocktail Table.webp",
+        "count": 11,
         "items": [
           {
-            "src": "Tables/Cocktail and Round Tables.jpg",
-            "thumb": "thumbs/Tables/Cocktail and Round Tables.webp",
-            "title": "Cocktail and Round Tables",
+            "src": "Tables/Clear Acrylic High Cocktail Table.jpg",
+            "thumb": "thumbs/Tables/Clear Acrylic High Cocktail Table.webp",
+            "title": "Clear Acrylic High Cocktail Table",
             "dims": "",
             "note": ""
           },
           {
-            "src": "Tables/Half moon tables 30”x30” low 36”x30” low  48” Round  60” Round  72” Round  84” Round  48”.jpg",
-            "thumb": "thumbs/Tables/Half moon tables 30”x30” low 36”x30” low  48” Round  60” Round  72” Round  84” Round  48”.webp",
-            "title": "Half Moon Tables",
-            "dims": "30\" × 30\" Low · 36\" × 30\" Low · 48\" Round · 60\" Round · 72\" Round · 84\" Round · 48\"",
+            "src": "Tables/Glass top bar table.jpg",
+            "thumb": "thumbs/Tables/Glass top bar table.webp",
+            "title": "Glass Top Bar Table",
+            "dims": "",
             "note": ""
           },
           {
-            "src": "Tables/White round tables.png",
-            "thumb": "thumbs/Tables/White round tables.webp",
-            "title": "White Round Tables",
+            "src": "Tables/High Acrylic Tables.png",
+            "thumb": "thumbs/Tables/High Acrylic Tables.webp",
+            "title": "High Acrylic Tables",
             "dims": "",
             "note": ""
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "name": "Cocktail Tables",
-        "folder": "Tables",
-        "desc": "Low and high cocktail tables, including styles on wheels, for lounge and mingling areas.",
-        "cover": "thumbs/Tables/High cocktail 30”x42” high  36”x42” high.webp",
-        "count": 5,
-        "items": [
+          },
           {
-            "src": "Tables/High cocktail 30”x42” high  36”x42” high.jpg",
-            "thumb": "thumbs/Tables/High cocktail 30”x42” high  36”x42” high.webp",
-            "title": "High Cocktail",
-            "dims": "30\" × 42\" High · 36\" × 42\" High",
+            "src": "Tables/High and low light tables and chairs.png",
+            "thumb": "thumbs/Tables/High and low light tables and chairs.webp",
+            "title": "High and Low Light Tables and Chairs",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Tables/High Crystal Cocktail.png",
+            "thumb": "thumbs/Tables/High Crystal Cocktail.webp",
+            "title": "High Crystal Cocktail",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Tables/High Crystal Tables.png",
+            "thumb": "thumbs/Tables/High Crystal Tables.webp",
+            "title": "High Crystal Tables",
+            "dims": "",
             "note": ""
           },
           {
@@ -3823,9 +3823,16 @@
             "note": ""
           },
           {
-            "src": "Tables/Low Tables on Wheels.jpg",
-            "thumb": "thumbs/Tables/Low Tables on Wheels.webp",
-            "title": "Low Tables on Wheels",
+            "src": "Tables/48” low glass tables.png",
+            "thumb": "thumbs/Tables/48” low glass tables.webp",
+            "title": "48” Low Glass Tables",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Tables/White round tables.png",
+            "thumb": "thumbs/Tables/White round tables.webp",
+            "title": "White Round Tables",
             "dims": "",
             "note": ""
           }
@@ -3833,40 +3840,12 @@
       },
       {
         "type": "category",
-        "name": "Acrylic, Crystal & Glass Tables",
+        "name": "Mirror Tables and Versa Tables",
         "folder": "Tables",
-        "desc": "Modern acrylic, crystal, glass and mirrored tables for a sleek, elegant look.",
-        "cover": "thumbs/Tables/Clear Acrylic High Cocktail Table.webp",
-        "count": 6,
+        "desc": "Mirrored and versatile acrylic tables for a sleek, elegant, modern look.",
+        "cover": "thumbs/Tables/Mirrored Cocktail Table 36'' x 36'' Square.webp",
+        "count": 2,
         "items": [
-          {
-            "src": "Tables/Clear Acrylic High Cocktail Table.jpg",
-            "thumb": "thumbs/Tables/Clear Acrylic High Cocktail Table.webp",
-            "title": "Clear Acrylic High Cocktail Table",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Tables/Glass top bar table.jpg",
-            "thumb": "thumbs/Tables/Glass top bar table.webp",
-            "title": "Glass Top Bar Table",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Tables/High Acrylic Tables.png",
-            "thumb": "thumbs/Tables/High Acrylic Tables.webp",
-            "title": "High Acrylic Tables",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Tables/High Crystal Tables.png",
-            "thumb": "thumbs/Tables/High Crystal Tables.webp",
-            "title": "High Crystal Tables",
-            "dims": "",
-            "note": ""
-          },
           {
             "src": "Tables/Mirrored Cocktail Table 36'' x 36'' Square.jpg",
             "thumb": "thumbs/Tables/Mirrored Cocktail Table 36'' x 36'' Square.webp",
@@ -3879,23 +3858,6 @@
             "thumb": "thumbs/Tables/White Acrylic Tables Size 10’x42”x30” high  Size 8’x42”x30” high.webp",
             "title": "White Acrylic Tables",
             "dims": "10' × 42\" × 30\" High · 8' × 42\" × 30\" High",
-            "note": ""
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "name": "Specialty Tables",
-        "folder": "Tables",
-        "desc": "Statement pieces like our light-up tables to add a wow factor to your event.",
-        "cover": "thumbs/Tables/High and low light tables and chairs.webp",
-        "count": 1,
-        "items": [
-          {
-            "src": "Tables/High and low light tables and chairs.png",
-            "thumb": "thumbs/Tables/High and low light tables and chairs.webp",
-            "title": "High and Low Light Tables and Chairs",
-            "dims": "",
             "note": ""
           }
         ]

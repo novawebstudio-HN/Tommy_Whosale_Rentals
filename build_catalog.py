@@ -64,6 +64,12 @@ DESC = {
     'Acrylic, Crystal & Glass Tables': 'Modern acrylic, crystal, glass and mirrored tables for a sleek, elegant look.',
     'Specialty Tables': 'Statement pieces like our light-up tables to add a wow factor to your event.',
     'Other Tables': 'Additional table options for your event.',
+    'Folding Tables': 'Classic folding banquet, serpentine, classroom and round tables — the sturdy, versatile foundation for any seated event.',
+    'Farm Tables': 'Rustic wood farm and country tables that bring warmth and character to weddings and gatherings.',
+    'Mirror Tables and Versa Tables': 'Mirrored and versatile acrylic tables for a sleek, elegant, modern look.',
+    'Acrylic, Crystal & glass tables': 'Modern acrylic, crystal and glass tables — including light-up and cocktail styles — for a chic, contemporary look.',
+    'Acrylic, Crystal y glass tables': 'Modern acrylic, crystal and glass tables — including light-up and cocktail styles — for a chic, contemporary look.',
+    'Acrylic, Crystal and glass tables': 'Modern acrylic, crystal and glass tables — including light-up and cocktail styles — for a chic, contemporary look.',
     'Risers & Stages': 'Sturdy risers and staging to add height and create a focal point — perfect for cakes, head tables and performances.',
     'Lamps & Lighting': 'Brighten your event with our elegant lamps and lighting rentals, creating a warm, inviting atmosphere that enhances the ambiance of any occasion.',
     'Pedestals & Columns': 'Elevate your event decor with our elegant pedestals and columns. Ideal for floral displays or dramatic focal points, adding height and sophistication to any space.',
@@ -115,46 +121,54 @@ def chair_sort_key(rel, f):
     return (srank, light, title.lower())
 
 
-def dancefloor_key(f):
-    """Salon ('Par N') primero con cada par junto; renders de producto al final."""
+def dancefloor_key(rel, f):
+    """Salon ('Par N') primero con cada par junto; luego renders de producto de
+    fondo blanco; y los de fondo oscuro ('black floor') al final."""
     name = f.rsplit('.', 1)[0]
+    low = name.lower()
     m = re.match(r'\s*par\s+(\d+)(?:\.(\d+))?\s*$', name, re.I)
     if m:
         return (0, int(m.group(1)), 1 if m.group(2) else 0, int(m.group(2) or 0))
+    if f == 'Floor black and white.png':      # fondo blanco -> con los blancos
+        return (1, -1, low)
+    if 'black' in low and 'white' not in low:  # fondo oscuro -> al final
+        return (2, 999, low)
     nums = re.findall(r'\d+', name)
-    return (1, int(nums[0]) if nums else 999, name.lower())
+    return (1, int(nums[0]) if nums else 999, low)
 
 
 def table_key(f):
-    """Agrupa por material/tipo: madera/banquete, redondas, coctel,
-    acrilico/cristal/vidrio/espejo, y especiales (light-up) al final."""
+    """Ordena las mesas por categoria y luego por nombre."""
     return (table_rank(f), parse_name(f)[0].lower())
+
+
+# Categorias de mesas (el orden aqui es el orden en que salen en la pagina).
+# Cada mesa se asigna por palabras clave de su nombre de archivo.
+TABLE_SUBCATS = {
+    0: 'Folding Tables',
+    1: 'Farm Tables',
+    2: 'Acrylic, Crystal & Glass Tables',
+    3: 'Mirror Tables and Versa Tables',
+    4: 'Other Tables',
+}
+
+# (rank, palabras clave). Se evalua en orden: la primera que coincide gana.
+TABLE_RULES = [
+    (3, ('mirrored', 'white acrylic')),          # Mirror & Versa
+    (1, ('farm table', 'country wood')),         # Farm
+    (2, ('acrylic', 'crystal', 'glass', 'light table', 'light tables',
+         'low and high cocktail', 'white round')),
+    (0, ('serpentine', 'banquet', 'tuscan', 'classroom', 'half moon',
+         'wheels', 'high cocktail', 'cocktail and round')),
+]
 
 
 def table_rank(f):
     n = f.lower()
-    if any(k in n for k in ('acrylic', 'crystal', 'glass', 'mirror')):
-        return 3
-    if 'light' in n:                       # light-up / "light tables"
-        return 4
-    if any(k in n for k in ('wood', 'tuscan', 'banquet', 'serpentine', 'classroom', 'farm')):
-        return 0
-    if 'half moon' in n or 'halfmoon' in n or 'round' in n:
-        return 1
-    if 'cocktail' in n or 'wheels' in n:
-        return 2
-    return 5
-
-
-# Nombre de subcategoria por rank (para dividir Tables en secciones)
-TABLE_SUBCATS = {
-    0: 'Wood & Banquet Tables',
-    1: 'Round Tables',
-    2: 'Cocktail Tables',
-    3: 'Acrylic, Crystal & Glass Tables',
-    4: 'Specialty Tables',
-    5: 'Other Tables',
-}
+    for rank, kws in TABLE_RULES:
+        if any(k in n for k in kws):
+            return rank
+    return 4
 
 MINOR = {'a', 'an', 'and', 'the', 'of', 'with', 'in', 'on', 'or', 'to', 'for', 'x'}
 KEEP_UPPER = {'LED', 'U', 'US', 'TV', 'DJ'}
@@ -384,7 +398,7 @@ def images_in(rel):
     if rel == 'Chairs':
         files.sort(key=lambda f: chair_sort_key(rel, f))
     elif rel == 'Dance Floors':
-        files.sort(key=dancefloor_key)
+        files.sort(key=lambda f: dancefloor_key(rel, f))
     elif rel == 'Tables':
         files.sort(key=table_key)
     else:
@@ -392,12 +406,18 @@ def images_in(rel):
     items = []
     for f in files:
         src = rel + '/' + f
-        title, dims, note = table_parse(f) if rel == 'Tables' else parse_name(f)
+        is_table = rel == 'Tables' or rel.startswith('Tables/')
+        title, dims, note = table_parse(f) if is_table else parse_name(f)
         if rel.startswith('Fabrics'):
             # quita el codigo del final (ej. "Apple 623", "Barocco Celery P048")
             title = re.sub(r'\s+[A-Za-z]{0,2}\d+$', '', title).strip()
+        if rel == 'Candelabras' and dims:
+            # la medida va junto al nombre, no en linea aparte
+            title, dims = (dims + ' ' + title).strip(), ''
         if f.lower().startswith('chatgpt image') or rel == 'Dance Floors':
             title, dims, note = '', '', ''   # Dance Floors: sin nombre, solo la foto
+            if f == 'Floor black and white.png':
+                title = 'Black and White'
         items.append({'src': src, 'thumb': make_thumb(src),
                       'title': title, 'dims': dims, 'note': note, 'file': f})
     return items   # sin fusionar: cada imagen es su propia tarjeta
@@ -467,7 +487,9 @@ def main():
 
     tree = []
     for top in tops:
-        if top == 'Tables':
+        # Tables plano (sin subcarpetas) -> se divide por material automaticamente.
+        # Con subcarpetas -> usa esas carpetas como subcategorias (logica normal).
+        if top == 'Tables' and not subdirs(top):
             tree.append(build_table_group())
             continue
         direct = images_in(top)
