@@ -34,6 +34,7 @@ COVER_OVERRIDE = {
     'Tables': 'country wood table',
     'Furniture': 'white day bed',
     'Centerpieces': 'silver footed bowl with handles',
+    'Bar': 'versa bar',
 }
 
 # Descripcion general por categoria / grupo (nombre visible -> texto)
@@ -150,12 +151,14 @@ TABLE_SUBCATS = {
     0: 'Acrylic, Crystal & Glass Tables',
     1: 'Farm Tables',
     2: 'Folding Tables',
-    3: 'Other Tables',
+    3: 'Mirror Tables and Versa Tables',
+    4: 'Other Tables',
 }
 
 # (rank, palabras clave). Se evalua en orden: la primera que coincide gana.
 TABLE_RULES = [
-    (1, ('farm table', 'country wood', 'mirrored', 'white acrylic')),   # Farm
+    (3, ('mirrored',)),                                  # Mirror & Versa
+    (1, ('farm table', 'country wood', 'white acrylic')),  # Farm
     (0, ('acrylic', 'crystal', 'glass', 'light table', 'light tables',
          'low and high cocktail', 'white round')),
     (2, ('serpentine', 'banquet', 'tuscan', 'classroom', 'half moon',
