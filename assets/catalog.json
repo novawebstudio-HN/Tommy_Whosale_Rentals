@@ -1517,7 +1517,7 @@
       {
         "src": "Dance Floors/Floor black and white.png",
         "thumb": "thumbs/Dance Floors/Floor black and white.webp",
-        "title": "Black and White",
+        "title": "",
         "dims": "",
         "note": ""
       },
@@ -3870,7 +3870,7 @@
     "folder": "Urns",
     "desc": "Add timeless elegance with our classic urn rentals, perfect for showcasing beautiful floral arrangements indoors or outdoors.",
     "cover": "thumbs/Urns/Ivory basket-weave planter.webp",
-    "count": 16,
+    "count": 17,
     "items": [
       {
         "src": "Urns/Ivory basket-weave planter.png",
@@ -3884,6 +3884,13 @@
         "thumb": "thumbs/Urns/24_ ivory fluted urn.webp",
         "title": "Ivory Fluted Urn",
         "dims": "24\"",
+        "note": ""
+      },
+      {
+        "src": "Urns/Example urn.png",
+        "thumb": "thumbs/Urns/Example urn.webp",
+        "title": "Example Urn",
+        "dims": "",
         "note": ""
       },
       {

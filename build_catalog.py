@@ -401,6 +401,9 @@ def images_in(rel):
         files.sort(key=lambda f: dancefloor_key(rel, f))
     elif rel == 'Tables':
         files.sort(key=table_key)
+    elif rel == 'Urns':
+        files.sort(key=lambda f: parse_name(f)[0].lower())
+        files = urn_order(files)
     else:
         files.sort(key=lambda f: parse_name(f)[0].lower())
     items = []
@@ -416,11 +419,25 @@ def images_in(rel):
             title, dims = (dims + ' ' + title).strip(), ''
         if f.lower().startswith('chatgpt image') or rel == 'Dance Floors':
             title, dims, note = '', '', ''   # Dance Floors: sin nombre, solo la foto
-            if f == 'Floor black and white.png':
-                title = 'Black and White'
         items.append({'src': src, 'thumb': make_thumb(src),
                       'title': title, 'dims': dims, 'note': note, 'file': f})
     return items   # sin fusionar: cada imagen es su propia tarjeta
+
+
+def urn_order(files):
+    """'Example urn' va en la 3a posicion; el resto mantiene su orden."""
+    pos = {'example urn.png': 2}          # indice 2 = tercera imagen
+    fixed = {}
+    rest = []
+    for f in files:
+        i = pos.get(f.lower())
+        if i is None:
+            rest.append(f)
+        else:
+            fixed[i] = f
+    for i in sorted(fixed):
+        rest.insert(min(i, len(rest)), fixed[i])
+    return rest
 
 
 def subdirs(rel):
