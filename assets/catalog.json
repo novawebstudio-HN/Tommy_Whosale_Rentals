@@ -3925,7 +3925,7 @@
         "folder": "Tables",
         "desc": "Rustic wood farm and country tables that bring warmth and character to weddings and gatherings.",
         "cover": "thumbs/Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.webp",
-        "count": 3,
+        "count": 2,
         "items": [
           {
             "src": "Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.jpg",
@@ -3939,13 +3939,6 @@
             "thumb": "thumbs/Tables/Farm tables Size 9’x39”wide x30” high  Size 8’x39”wide x30 high.webp",
             "title": "Farm Tables",
             "dims": "9' × 39\" wide × 30\" High · 8' × 39\" wide × 30 High",
-            "note": ""
-          },
-          {
-            "src": "Tables/White Acrylic Tables Size 10’x42”x30” high  Size 8’x42”x30” high.png",
-            "thumb": "thumbs/Tables/White Acrylic Tables Size 10’x42”x30” high  Size 8’x42”x30” high.webp",
-            "title": "White Acrylic Tables",
-            "dims": "10' × 42\" × 30\" High · 8' × 42\" × 30\" High",
             "note": ""
           }
         ]
@@ -4015,13 +4008,20 @@
         "folder": "Tables",
         "desc": "Mirrored and versatile acrylic tables for a sleek, elegant, modern look.",
         "cover": "thumbs/Tables/Mirrored Cocktail Table 36'' x 36'' Square.webp",
-        "count": 1,
+        "count": 2,
         "items": [
           {
             "src": "Tables/Mirrored Cocktail Table 36'' x 36'' Square.jpg",
             "thumb": "thumbs/Tables/Mirrored Cocktail Table 36'' x 36'' Square.webp",
             "title": "Mirrored Cocktail Table",
             "dims": "36\" × 36\" Square",
+            "note": ""
+          },
+          {
+            "src": "Tables/White Acrylic Tables Size 10’x42”x30” high  Size 8’x42”x30” high.png",
+            "thumb": "thumbs/Tables/White Acrylic Tables Size 10’x42”x30” high  Size 8’x42”x30” high.webp",
+            "title": "White Acrylic Tables",
+            "dims": "10' × 42\" × 30\" High · 8' × 42\" × 30\" High",
             "note": ""
           }
         ]
