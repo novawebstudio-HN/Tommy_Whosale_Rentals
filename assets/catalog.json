@@ -264,8 +264,8 @@
       {
         "src": "Arches & Chuppahs/Veranda arbor, 48_Wx12_Dx88_H.png",
         "thumb": "thumbs/Arches & Chuppahs/Veranda arbor, 48_Wx12_Dx88_H.webp",
-        "title": "Veranda Arbor",
-        "dims": "48\"W × 12\"D × 88\"H",
+        "title": "Veranda Arbor, Wx Dx",
+        "dims": "48\" / 12\" / 88\"H",
         "note": ""
       },
       {
@@ -306,8 +306,8 @@
       {
         "src": "Arches & Chuppahs/Wrought iron with point, 55_Wx12_Dx101_H.png",
         "thumb": "thumbs/Arches & Chuppahs/Wrought iron with point, 55_Wx12_Dx101_H.webp",
-        "title": "Wrought Iron with Point",
-        "dims": "55\"W × 12\"D × 101\"H",
+        "title": "Wrought Iron with Point, Wx Dx",
+        "dims": "55\" / 12\" / 101\"H",
         "note": ""
       }
     ]
@@ -317,49 +317,56 @@
     "name": "Bar",
     "folder": "Bar",
     "desc": "Statement bars for any event — from classic white and black designs to rustic and modern LED-lit styles.",
-    "cover": "thumbs/Bar/Black Bar  Size 7’ wide x 24” deep.webp",
-    "count": 13,
+    "cover": "thumbs/Bar/Bar Lids.webp",
+    "count": 15,
     "items": [
       {
-        "src": "Bar/Black Bar  Size 7’ wide x 24” deep.jpg",
-        "thumb": "thumbs/Bar/Black Bar  Size 7’ wide x 24” deep.webp",
-        "title": "Black Bar Size 7' Wide x Deep",
-        "dims": "24\"",
+        "src": "Bar/Bar Lids.png",
+        "thumb": "thumbs/Bar/Bar Lids.webp",
+        "title": "Bar Lids",
+        "dims": "",
         "note": ""
       },
       {
         "src": "Bar/Black Bar Size 5_ Wide X 3_ Deep.png",
         "thumb": "thumbs/Bar/Black Bar Size 5_ Wide X 3_ Deep.webp",
-        "title": "Black Bar Size Ide x Eep",
-        "dims": "5\" W / 3\" D",
+        "title": "Black Bar",
+        "dims": "5\" Wide / 3\" Deep",
+        "note": ""
+      },
+      {
+        "src": "Bar/Black Bar  Size 7’ wide x 24” deep.jpg",
+        "thumb": "thumbs/Bar/Black Bar  Size 7’ wide x 24” deep.webp",
+        "title": "Black Bar 7' Wide",
+        "dims": "24\" deep",
         "note": ""
       },
       {
         "src": "Bar/Boom Box DJ Booth  Size 6’ wide x 20” deep.png",
         "thumb": "thumbs/Bar/Boom Box DJ Booth  Size 6’ wide x 20” deep.webp",
-        "title": "Boom Box DJ Booth Size 6' Wide x Deep",
-        "dims": "20\"",
+        "title": "Boom Box DJ Booth 6' Wide",
+        "dims": "20\" deep",
         "note": ""
       },
       {
         "src": "Bar/Corrugated Metal Led Bar Size 5_ Wide X 20_ Deep.png",
         "thumb": "thumbs/Bar/Corrugated Metal Led Bar Size 5_ Wide X 20_ Deep.webp",
-        "title": "Corrugated Metal LED Bar Size Ide x Eep",
-        "dims": "5\" W / 20\" D",
+        "title": "Corrugated Metal LED Bar",
+        "dims": "5\" Wide / 20\" Deep",
         "note": ""
       },
       {
         "src": "Bar/Natural wood Bar  Size 6’ wide x 24” deep.png",
         "thumb": "thumbs/Bar/Natural wood Bar  Size 6’ wide x 24” deep.webp",
-        "title": "Natural Wood Bar Size 6' Wide x Deep",
-        "dims": "24\"",
+        "title": "Natural Wood Bar 6' Wide",
+        "dims": "24\" deep",
         "note": ""
       },
       {
         "src": "Bar/Rustic Wood And Concrete Bar Size 8_ Wide X 30_ Deep.png",
         "thumb": "thumbs/Bar/Rustic Wood And Concrete Bar Size 8_ Wide X 30_ Deep.webp",
-        "title": "Rustic Wood and Concrete Bar Size Ide x Eep",
-        "dims": "8\" W / 30\" D",
+        "title": "Rustic Wood and Concrete Bar",
+        "dims": "8\" Wide / 30\" Deep",
         "note": ""
       },
       {
@@ -379,8 +386,15 @@
       {
         "src": "Bar/White and Black Versa Bar  Custom  Size 6’ wide x 24” deep.png",
         "thumb": "thumbs/Bar/White and Black Versa Bar  Custom  Size 6’ wide x 24” deep.webp",
-        "title": "White and Black Versa Bar Custom Size 6' Wide x Deep",
-        "dims": "24\"",
+        "title": "White and Black Versa Bar Custom 6' Wide",
+        "dims": "24\" deep",
+        "note": ""
+      },
+      {
+        "src": "Bar/White back bar.png",
+        "thumb": "thumbs/Bar/White back bar.webp",
+        "title": "White Back Bar",
+        "dims": "",
         "note": ""
       },
       {
@@ -393,22 +407,22 @@
       {
         "src": "Bar/White Bar with Mirror  Size 6’ wide x 24” deep.png",
         "thumb": "thumbs/Bar/White Bar with Mirror  Size 6’ wide x 24” deep.webp",
-        "title": "White Bar with Mirror Size 6' Wide x Deep",
-        "dims": "24\"",
+        "title": "White Bar with Mirror 6' Wide",
+        "dims": "24\" deep",
         "note": ""
       },
       {
         "src": "Bar/White Beaded Front Bar Size 8_ Wide X 18_ Deep.png",
         "thumb": "thumbs/Bar/White Beaded Front Bar Size 8_ Wide X 18_ Deep.webp",
-        "title": "White Beaded Front Bar Size Ide x Eep",
-        "dims": "8\" W / 18\" D",
+        "title": "White Beaded Front Bar",
+        "dims": "8\" Wide / 18\" Deep",
         "note": ""
       },
       {
         "src": "Bar/White Honeycomb Led Bar Size 6_ Wide X 12_ Deep.png",
         "thumb": "thumbs/Bar/White Honeycomb Led Bar Size 6_ Wide X 12_ Deep.webp",
-        "title": "White Honeycomb LED Bar Size Ide x Eep",
-        "dims": "6\" W / 12\" D",
+        "title": "White Honeycomb LED Bar",
+        "dims": "6\" Wide / 12\" Deep",
         "note": ""
       }
     ]
@@ -850,7 +864,7 @@
     "folder": "Centerpieces",
     "desc": "Bowls and pedestals to build stunning floral centerpieces with height and drama.",
     "cover": "thumbs/Centerpieces/Centerpiece Bowls/ 8 1_2_ silver footed bowl with handles.webp",
-    "count": 32,
+    "count": 33,
     "children": [
       {
         "type": "category",
@@ -923,9 +937,16 @@
         "name": "Centerpiece Pedestals",
         "folder": "Centerpieces/Centerpiece Pedestals",
         "desc": "Make a bold statement with our versatile centerpiece pedestals. Perfect for elevating floral arrangements on tables or creating striking displays on the floor.",
-        "cover": "thumbs/Centerpieces/Centerpiece Pedestals/27.5_x7.8_ cast iron pillar candle holder.This item can be custom painted.webp",
-        "count": 24,
+        "cover": "thumbs/Centerpieces/Centerpiece Pedestals/Acrylic Center Piece.webp",
+        "count": 25,
         "items": [
+          {
+            "src": "Centerpieces/Centerpiece Pedestals/Acrylic Center Piece.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/Acrylic Center Piece.webp",
+            "title": "Acrylic Center Piece",
+            "dims": "",
+            "note": ""
+          },
           {
             "src": "Centerpieces/Centerpiece Pedestals/27.5_x7.8_ cast iron pillar candle holder.This item can be custom painted.png",
             "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/27.5_x7.8_ cast iron pillar candle holder.This item can be custom painted.webp",
@@ -1639,8 +1660,8 @@
       {
         "src": "Displays/Shiny white vase stands 76_ tall with a 17_ opening and a 10_ base.png",
         "thumb": "thumbs/Displays/Shiny white vase stands 76_ tall with a 17_ opening and a 10_ base.webp",
-        "title": "Shiny White Vase Stands Tall with a Opening and a Base",
-        "dims": "76\" / 17\" / 10\"",
+        "title": "Shiny White Vase Stands with a Opening and a Base",
+        "dims": "76\" tall / 17\" / 10\"",
         "note": ""
       }
     ]
@@ -1649,7 +1670,7 @@
     "type": "group",
     "name": "Fabrics",
     "folder": "Fabrics",
-    "desc": "Premium linens and fabrics in a wide range of colors and textures — from Lamour matte satin and velvet to shantung, prints and more — to dress your tables, chairs and backdrops.",
+    "desc": "Premium linens and fabrics in a wide range of colors and textures — from Lamour matte satin and velvet to shantung, prints and more — to dress your tables, chairs and backdrops. Available sizes: 96\" RD · 108\" RD · 120\" RD · 120\" x 120\" SQ · 132\" RD · 90 x 132 · 90 x 156 · 102 x 156 · 102 x 180 · 114 x 156 · 114 x 180.",
     "cover": "thumbs/Fabrics/Belize/Cactus 395.webp",
     "count": 239,
     "children": [
@@ -3444,8 +3465,22 @@
     "folder": "Furniture",
     "desc": "Complete your event with our furniture rentals — day beds, ramps, napkins and event essentials designed for comfort and elegance.",
     "cover": "thumbs/Furniture/White Day Bed Size 6’.webp",
-    "count": 2,
+    "count": 8,
     "items": [
+      {
+        "src": "Furniture/Black bench.png",
+        "thumb": "thumbs/Furniture/Black bench.webp",
+        "title": "Black Bench",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Furniture/Custom Bench.png",
+        "thumb": "thumbs/Furniture/Custom Bench.webp",
+        "title": "Custom Bench",
+        "dims": "",
+        "note": ""
+      },
       {
         "src": "Furniture/Handicap ramps.png",
         "thumb": "thumbs/Furniture/Handicap ramps.webp",
@@ -3454,9 +3489,37 @@
         "note": ""
       },
       {
+        "src": "Furniture/Light Bench.png",
+        "thumb": "thumbs/Furniture/Light Bench.webp",
+        "title": "Light Bench",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Furniture/Light Bench(1).png",
+        "thumb": "thumbs/Furniture/Light Bench(1).webp",
+        "title": "Light Bench",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Furniture/Red bench.png",
+        "thumb": "thumbs/Furniture/Red bench.webp",
+        "title": "Red Bench",
+        "dims": "",
+        "note": ""
+      },
+      {
         "src": "Furniture/White Day Bed Size 6’.png",
         "thumb": "thumbs/Furniture/White Day Bed Size 6’.webp",
         "title": "White Day Bed Size 6'",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Furniture/White lounge.png",
+        "thumb": "thumbs/Furniture/White lounge.webp",
+        "title": "White Lounge",
         "dims": "",
         "note": ""
       }
@@ -3488,6 +3551,58 @@
   },
   {
     "type": "category",
+    "name": "Miscellaneous",
+    "folder": "Miscellaneous",
+    "desc": "Event extras and finishing touches — coat racks, podiums, stanchions, event counters and light-up frames to complete your setup.",
+    "cover": "thumbs/Miscellaneous/Acrylic Podium.webp",
+    "count": 6,
+    "items": [
+      {
+        "src": "Miscellaneous/Acrylic Podium.png",
+        "thumb": "thumbs/Miscellaneous/Acrylic Podium.webp",
+        "title": "Acrylic Podium",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Miscellaneous/5_ Chrome Folding Coat Rack.png",
+        "thumb": "thumbs/Miscellaneous/5_ Chrome Folding Coat Rack.webp",
+        "title": "Chrome Folding Coat Rack",
+        "dims": "5\"",
+        "note": ""
+      },
+      {
+        "src": "Miscellaneous/Coat Rack.png",
+        "thumb": "thumbs/Miscellaneous/Coat Rack.webp",
+        "title": "Coat Rack",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Miscellaneous/Curved Event Counter.png",
+        "thumb": "thumbs/Miscellaneous/Curved Event Counter.webp",
+        "title": "Curved Event Counter",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Miscellaneous/Light up Picture Frame.png",
+        "thumb": "thumbs/Miscellaneous/Light up Picture Frame.webp",
+        "title": "Light Up Picture Frame",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Miscellaneous/Rope and Stanchion.png",
+        "thumb": "thumbs/Miscellaneous/Rope and Stanchion.webp",
+        "title": "Rope and Stanchion",
+        "dims": "",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "type": "category",
     "name": "Pedestals & Columns",
     "folder": "Pedestals & Columns",
     "desc": "Elevate your event decor with our elegant pedestals and columns. Ideal for floral displays or dramatic focal points, adding height and sophistication to any space.",
@@ -3499,6 +3614,13 @@
         "thumb": "thumbs/Pedestals & Columns/33_ fluted pedestal. This item can be custom painted any color.webp",
         "title": "Fluted Pedestal",
         "dims": "33\"",
+        "note": "This item can be custom painted any color"
+      },
+      {
+        "src": "Pedestals & Columns/4_ tall iron column. This item can be custom painted any color.png",
+        "thumb": "thumbs/Pedestals & Columns/4_ tall iron column. This item can be custom painted any color.webp",
+        "title": "Iron Column",
+        "dims": "4\" tall",
         "note": "This item can be custom painted any color"
       },
       {
@@ -3614,13 +3736,6 @@
         "note": ""
       },
       {
-        "src": "Pedestals & Columns/4_ tall iron column. This item can be custom painted any color.png",
-        "thumb": "thumbs/Pedestals & Columns/4_ tall iron column. This item can be custom painted any color.webp",
-        "title": "Tall Iron Column",
-        "dims": "4\"",
-        "note": "This item can be custom painted any color"
-      },
-      {
         "src": "Pedestals & Columns/7_ wrought iron grecian column. This item can be custom painted any color_.png",
         "thumb": "thumbs/Pedestals & Columns/7_ wrought iron grecian column. This item can be custom painted any color_.webp",
         "title": "Wrought Iron Grecian Column",
@@ -3648,14 +3763,42 @@
     "name": "Risers & Stages",
     "folder": "Risers & Stages",
     "desc": "Sturdy risers and staging to add height and create a focal point — perfect for cakes, head tables and performances.",
-    "cover": "thumbs/Risers & Stages/White riser with stairs.webp",
-    "count": 1,
+    "cover": "thumbs/Risers & Stages/White Acrylic Riser Any Size.webp",
+    "count": 5,
     "items": [
+      {
+        "src": "Risers & Stages/White Acrylic Riser Any Size.png",
+        "thumb": "thumbs/Risers & Stages/White Acrylic Riser Any Size.webp",
+        "title": "White Acrylic Riser Any Size",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Risers & Stages/White Acrylic Riser Any size(1).png",
+        "thumb": "thumbs/Risers & Stages/White Acrylic Riser Any size(1).webp",
+        "title": "White Acrylic Riser Any Size",
+        "dims": "",
+        "note": ""
+      },
       {
         "src": "Risers & Stages/White riser with stairs.png",
         "thumb": "thumbs/Risers & Stages/White riser with stairs.webp",
         "title": "White Riser with Stairs",
         "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Risers & Stages/White Round Riser.png",
+        "thumb": "thumbs/Risers & Stages/White Round Riser.webp",
+        "title": "White Round Riser",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Risers & Stages/White Stairs  Size 12” hight Size 16” hight Size 24” hight.png",
+        "thumb": "thumbs/Risers & Stages/White Stairs  Size 12” hight Size 16” hight Size 24” hight.webp",
+        "title": "White Stairs",
+        "dims": "12\" high / 16\" high / 24\" high",
         "note": ""
       }
     ]
@@ -3670,89 +3813,6 @@
     "children": [
       {
         "type": "category",
-        "name": "Folding Tables",
-        "folder": "Tables",
-        "desc": "Classic folding banquet, serpentine, classroom and round tables — the sturdy, versatile foundation for any seated event.",
-        "cover": "thumbs/Tables/7’ Serpentine Tables.webp",
-        "count": 7,
-        "items": [
-          {
-            "src": "Tables/7’ Serpentine Tables.jpg",
-            "thumb": "thumbs/Tables/7’ Serpentine Tables.webp",
-            "title": "7’ Serpentine Tables",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Tables/Banquet and Tuscan Tables 6’x30”x30” 8’x30”x30” 6’x30”x42” high  8’x30”x42” high  8’x42”x30” 10’x42”x30.jpg",
-            "thumb": "thumbs/Tables/Banquet and Tuscan Tables 6’x30”x30” 8’x30”x30” 6’x30”x42” high  8’x30”x42” high  8’x42”x30” 10’x42”x30.webp",
-            "title": "Banquet and Tuscan Tables",
-            "dims": "6' × 30\" × 30\" High · 8' × 30\" × 30\" High · 6' × 30\" × 42\" High · 8' × 30\" × 42\" High · 8' × 42\" × 30\" High · 10' × 42\" × 30 High",
-            "note": ""
-          },
-          {
-            "src": "Tables/Classroom Tables Size 6’x18”x30”high Size 8’x18”x30”high  Size 8’x18’x42” high  Size 6’x18”x42” high.jpg",
-            "thumb": "thumbs/Tables/Classroom Tables Size 6’x18”x30”high Size 8’x18”x30”high  Size 8’x18’x42” high  Size 6’x18”x42” high.webp",
-            "title": "Classroom Tables",
-            "dims": "6' × 18\" × 30\" High · 8' × 18\" × 30\" High · 8' × 18' × 42\" High · 6' × 18\" × 42\" High",
-            "note": ""
-          },
-          {
-            "src": "Tables/Cocktail and Round Tables.jpg",
-            "thumb": "thumbs/Tables/Cocktail and Round Tables.webp",
-            "title": "Cocktail and Round Tables",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Tables/Half moon tables 30”x30” low 36”x30” low  48” Round  60” Round  72” Round  84” Round  48”.jpg",
-            "thumb": "thumbs/Tables/Half moon tables 30”x30” low 36”x30” low  48” Round  60” Round  72” Round  84” Round  48”.webp",
-            "title": "Half Moon Tables",
-            "dims": "30\" × 30\" Low · 36\" × 30\" Low · 48\" Round · 60\" Round · 72\" Round · 84\" Round · 48\"",
-            "note": ""
-          },
-          {
-            "src": "Tables/High cocktail 30”x42” high  36”x42” high.jpg",
-            "thumb": "thumbs/Tables/High cocktail 30”x42” high  36”x42” high.webp",
-            "title": "High Cocktail",
-            "dims": "30\" × 42\" High · 36\" × 42\" High",
-            "note": ""
-          },
-          {
-            "src": "Tables/Low Tables on Wheels.jpg",
-            "thumb": "thumbs/Tables/Low Tables on Wheels.webp",
-            "title": "Low Tables on Wheels",
-            "dims": "",
-            "note": ""
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "name": "Farm Tables",
-        "folder": "Tables",
-        "desc": "Rustic wood farm and country tables that bring warmth and character to weddings and gatherings.",
-        "cover": "thumbs/Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.webp",
-        "count": 2,
-        "items": [
-          {
-            "src": "Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.jpg",
-            "thumb": "thumbs/Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.webp",
-            "title": "Country Wood Table",
-            "dims": "W98 × D39 × H31",
-            "note": "It has cast iron legs with a distressed wood top"
-          },
-          {
-            "src": "Tables/Farm tables Size 9’x39”wide x30” high  Size 8’x39”wide x30 high.jpg",
-            "thumb": "thumbs/Tables/Farm tables Size 9’x39”wide x30” high  Size 8’x39”wide x30 high.webp",
-            "title": "Farm Tables",
-            "dims": "9' × 39\" wide × 30\" High · 8' × 39\" wide × 30 High",
-            "note": ""
-          }
-        ]
-      },
-      {
-        "type": "category",
         "name": "Acrylic, Crystal & Glass Tables",
         "folder": "Tables",
         "desc": "Modern acrylic, crystal, glass and mirrored tables for a sleek, elegant look.",
@@ -3763,6 +3823,13 @@
             "src": "Tables/Clear Acrylic High Cocktail Table.jpg",
             "thumb": "thumbs/Tables/Clear Acrylic High Cocktail Table.webp",
             "title": "Clear Acrylic High Cocktail Table",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Tables/48” low glass tables.png",
+            "thumb": "thumbs/Tables/48” low glass tables.webp",
+            "title": "48” Low Glass Tables",
             "dims": "",
             "note": ""
           },
@@ -3823,13 +3890,6 @@
             "note": ""
           },
           {
-            "src": "Tables/48” low glass tables.png",
-            "thumb": "thumbs/Tables/48” low glass tables.webp",
-            "title": "48” Low Glass Tables",
-            "dims": "",
-            "note": ""
-          },
-          {
             "src": "Tables/White round tables.png",
             "thumb": "thumbs/Tables/White round tables.webp",
             "title": "White Round Tables",
@@ -3840,12 +3900,26 @@
       },
       {
         "type": "category",
-        "name": "Mirror Tables and Versa Tables",
+        "name": "Farm Tables",
         "folder": "Tables",
-        "desc": "Mirrored and versatile acrylic tables for a sleek, elegant, modern look.",
-        "cover": "thumbs/Tables/Mirrored Cocktail Table 36'' x 36'' Square.webp",
-        "count": 2,
+        "desc": "Rustic wood farm and country tables that bring warmth and character to weddings and gatherings.",
+        "cover": "thumbs/Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.webp",
+        "count": 4,
         "items": [
+          {
+            "src": "Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.jpg",
+            "thumb": "thumbs/Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.webp",
+            "title": "Country Wood Table",
+            "dims": "W98 × D39 × H31",
+            "note": "It has cast iron legs with a distressed wood top"
+          },
+          {
+            "src": "Tables/Farm tables Size 9’x39”wide x30” high  Size 8’x39”wide x30 high.jpg",
+            "thumb": "thumbs/Tables/Farm tables Size 9’x39”wide x30” high  Size 8’x39”wide x30 high.webp",
+            "title": "Farm Tables",
+            "dims": "9' × 39\" wide × 30\" High · 8' × 39\" wide × 30 High",
+            "note": ""
+          },
           {
             "src": "Tables/Mirrored Cocktail Table 36'' x 36'' Square.jpg",
             "thumb": "thumbs/Tables/Mirrored Cocktail Table 36'' x 36'' Square.webp",
@@ -3858,6 +3932,65 @@
             "thumb": "thumbs/Tables/White Acrylic Tables Size 10’x42”x30” high  Size 8’x42”x30” high.webp",
             "title": "White Acrylic Tables",
             "dims": "10' × 42\" × 30\" High · 8' × 42\" × 30\" High",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "name": "Folding Tables",
+        "folder": "Tables",
+        "desc": "Classic folding banquet, serpentine, classroom and round tables — the sturdy, versatile foundation for any seated event.",
+        "cover": "thumbs/Tables/7’ Serpentine Tables.webp",
+        "count": 7,
+        "items": [
+          {
+            "src": "Tables/7’ Serpentine Tables.jpg",
+            "thumb": "thumbs/Tables/7’ Serpentine Tables.webp",
+            "title": "7’ Serpentine Tables",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Tables/Banquet and Tuscan Tables 6’x30”x30” 8’x30”x30” 6’x30”x42” high  8’x30”x42” high  8’x42”x30” 10’x42”x30.jpg",
+            "thumb": "thumbs/Tables/Banquet and Tuscan Tables 6’x30”x30” 8’x30”x30” 6’x30”x42” high  8’x30”x42” high  8’x42”x30” 10’x42”x30.webp",
+            "title": "Banquet and Tuscan Tables",
+            "dims": "6' × 30\" × 30\" High · 8' × 30\" × 30\" High · 6' × 30\" × 42\" High · 8' × 30\" × 42\" High · 8' × 42\" × 30\" High · 10' × 42\" × 30 High",
+            "note": ""
+          },
+          {
+            "src": "Tables/Classroom Tables Size 6’x18”x30”high Size 8’x18”x30”high  Size 8’x18’x42” high  Size 6’x18”x42” high.jpg",
+            "thumb": "thumbs/Tables/Classroom Tables Size 6’x18”x30”high Size 8’x18”x30”high  Size 8’x18’x42” high  Size 6’x18”x42” high.webp",
+            "title": "Classroom Tables",
+            "dims": "6' × 18\" × 30\" High · 8' × 18\" × 30\" High · 8' × 18' × 42\" High · 6' × 18\" × 42\" High",
+            "note": ""
+          },
+          {
+            "src": "Tables/Cocktail and Round Tables.jpg",
+            "thumb": "thumbs/Tables/Cocktail and Round Tables.webp",
+            "title": "Cocktail and Round Tables",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Tables/Half moon tables 30”x30” low 36”x30” low  48” Round  60” Round  72” Round  84” Round  48”.jpg",
+            "thumb": "thumbs/Tables/Half moon tables 30”x30” low 36”x30” low  48” Round  60” Round  72” Round  84” Round  48”.webp",
+            "title": "Half Moon Tables",
+            "dims": "30\" × 30\" Low · 36\" × 30\" Low · 48\" Round · 60\" Round · 72\" Round · 84\" Round · 48\"",
+            "note": ""
+          },
+          {
+            "src": "Tables/High cocktail 30”x42” high  36”x42” high.jpg",
+            "thumb": "thumbs/Tables/High cocktail 30”x42” high  36”x42” high.webp",
+            "title": "High Cocktail",
+            "dims": "30\" × 42\" High · 36\" × 42\" High",
+            "note": ""
+          },
+          {
+            "src": "Tables/Low Tables on Wheels.jpg",
+            "thumb": "thumbs/Tables/Low Tables on Wheels.webp",
+            "title": "Low Tables on Wheels",
+            "dims": "",
             "note": ""
           }
         ]
@@ -3931,8 +4064,8 @@
       {
         "src": "Urns/Shiny white vase stands 76_ tall with a 17_ opening and a 10_ base.png",
         "thumb": "thumbs/Urns/Shiny white vase stands 76_ tall with a 17_ opening and a 10_ base.webp",
-        "title": "Shiny White Vase Stands Tall with a Opening and a Base",
-        "dims": "76\" / 17\" / 10\"",
+        "title": "Shiny White Vase Stands with a Opening and a Base",
+        "dims": "76\" tall / 17\" / 10\"",
         "note": ""
       },
       {

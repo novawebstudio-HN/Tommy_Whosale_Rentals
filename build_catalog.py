@@ -74,7 +74,9 @@ DESC = {
     'Lamps & Lighting': 'Brighten your event with our elegant lamps and lighting rentals, creating a warm, inviting atmosphere that enhances the ambiance of any occasion.',
     'Pedestals & Columns': 'Elevate your event decor with our elegant pedestals and columns. Ideal for floral displays or dramatic focal points, adding height and sophistication to any space.',
     'Urns': 'Add timeless elegance with our classic urn rentals, perfect for showcasing beautiful floral arrangements indoors or outdoors.',
-    'Fabrics': 'Premium linens and fabrics in a wide range of colors and textures — from Lamour matte satin and velvet to shantung, prints and more — to dress your tables, chairs and backdrops.',
+    'Fabrics': 'Premium linens and fabrics in a wide range of colors and textures — from Lamour matte satin and velvet to shantung, prints and more — to dress your tables, chairs and backdrops. '
+               'Available sizes: 96" RD · 108" RD · 120" RD · 120" x 120" SQ · 132" RD · 90 x 132 · 90 x 156 · 102 x 156 · 102 x 180 · 114 x 156 · 114 x 180.',
+    'Miscellaneous': 'Event extras and finishing touches — coat racks, podiums, stanchions, event counters and light-up frames to complete your setup.',
 }
 
 # Orden por estilo para las sillas (para que no salgan "regadas")
@@ -145,20 +147,18 @@ def table_key(f):
 # Categorias de mesas (el orden aqui es el orden en que salen en la pagina).
 # Cada mesa se asigna por palabras clave de su nombre de archivo.
 TABLE_SUBCATS = {
-    0: 'Folding Tables',
+    0: 'Acrylic, Crystal & Glass Tables',
     1: 'Farm Tables',
-    2: 'Acrylic, Crystal & Glass Tables',
-    3: 'Mirror Tables and Versa Tables',
-    4: 'Other Tables',
+    2: 'Folding Tables',
+    3: 'Other Tables',
 }
 
 # (rank, palabras clave). Se evalua en orden: la primera que coincide gana.
 TABLE_RULES = [
-    (3, ('mirrored', 'white acrylic')),          # Mirror & Versa
-    (1, ('farm table', 'country wood')),         # Farm
-    (2, ('acrylic', 'crystal', 'glass', 'light table', 'light tables',
+    (1, ('farm table', 'country wood', 'mirrored', 'white acrylic')),   # Farm
+    (0, ('acrylic', 'crystal', 'glass', 'light table', 'light tables',
          'low and high cocktail', 'white round')),
-    (0, ('serpentine', 'banquet', 'tuscan', 'classroom', 'half moon',
+    (2, ('serpentine', 'banquet', 'tuscan', 'classroom', 'half moon',
          'wheels', 'high cocktail', 'cocktail and round')),
 ]
 
@@ -178,7 +178,8 @@ NOTE_SPLIT = re.compile(
     r'this item|this table|it has|vase is|the large urn|the smaller urn|complete)\b',
     re.I)
 DIMS_ONLY = re.compile(r'^[\d\s./"HWDx×.-]+$')
-MEAS = re.compile(r'\d[\d\s./]*"(?:\s*[HWD])?(?:\s*[x×]\s*\d[\d\s./]*"?(?:\s*[HWD])?)*')
+MEAS = re.compile(r'\d[\d\s./]*"(?:\s*[HWD]\b)?(?:\s*[x×]\s*\d[\d\s./]*"?(?:\s*[HWD]\b)?)*'
+                  r'(?:\s*(?i:hight|height|high|low|wide|tall|deep)\b)?')
 
 
 def _units(name):
@@ -237,10 +238,13 @@ def parse_name(filename):
         parts = []
         for d in found:
             d = re.sub(r'\s*[x×]\s*', ' × ', d)
+            d = re.sub(r'\bhight\b', 'high', d, flags=re.I)   # typo comun
             d = re.sub(r'\s+', ' ', d).strip(' .,')
             if d:
                 parts.append(d)
         dims = ' / '.join(parts)
+        # "Size"/"Sizes" era solo la etiqueta de la medida ya extraida
+        base = re.sub(r'\bsizes?\b', ' ', base, flags=re.I)
 
     base = re.sub(r'\s+', ' ', base)
     base = re.sub(r'^\s*(?:and|with|&|x|,)\s+', '', base, flags=re.I)
