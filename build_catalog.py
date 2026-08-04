@@ -138,35 +138,37 @@ def dancefloor_key(rel, f):
 
 
 def table_key(f):
-    """Agrupa por material/tipo: madera/banquete, redondas, coctel,
-    acrilico/cristal/vidrio/espejo, y especiales (light-up) al final."""
+    """Ordena las mesas por categoria y luego por nombre."""
     return (table_rank(f), parse_name(f)[0].lower())
+
+
+# Categorias de mesas (el orden aqui es el orden en que salen en la pagina).
+# Cada mesa se asigna por palabras clave de su nombre de archivo.
+TABLE_SUBCATS = {
+    0: 'Folding Tables',
+    1: 'Farm Tables',
+    2: 'Acrylic, Crystal & Glass Tables',
+    3: 'Mirror Tables and Versa Tables',
+    4: 'Other Tables',
+}
+
+# (rank, palabras clave). Se evalua en orden: la primera que coincide gana.
+TABLE_RULES = [
+    (3, ('mirrored', 'white acrylic')),          # Mirror & Versa
+    (1, ('farm table', 'country wood')),         # Farm
+    (2, ('acrylic', 'crystal', 'glass', 'light table', 'light tables',
+         'low and high cocktail', 'white round')),
+    (0, ('serpentine', 'banquet', 'tuscan', 'classroom', 'half moon',
+         'wheels', 'high cocktail', 'cocktail and round')),
+]
 
 
 def table_rank(f):
     n = f.lower()
-    if any(k in n for k in ('acrylic', 'crystal', 'glass', 'mirror')):
-        return 3
-    if 'light' in n:                       # light-up / "light tables"
-        return 4
-    if any(k in n for k in ('wood', 'tuscan', 'banquet', 'serpentine', 'classroom', 'farm')):
-        return 0
-    if 'half moon' in n or 'halfmoon' in n or 'round' in n:
-        return 1
-    if 'cocktail' in n or 'wheels' in n:
-        return 2
-    return 5
-
-
-# Nombre de subcategoria por rank (para dividir Tables en secciones)
-TABLE_SUBCATS = {
-    0: 'Wood & Banquet Tables',
-    1: 'Round Tables',
-    2: 'Cocktail Tables',
-    3: 'Acrylic, Crystal & Glass Tables',
-    4: 'Specialty Tables',
-    5: 'Other Tables',
-}
+    for rank, kws in TABLE_RULES:
+        if any(k in n for k in kws):
+            return rank
+    return 4
 
 MINOR = {'a', 'an', 'and', 'the', 'of', 'with', 'in', 'on', 'or', 'to', 'for', 'x'}
 KEEP_UPPER = {'LED', 'U', 'US', 'TV', 'DJ'}
