@@ -37,6 +37,11 @@ COVER_OVERRIDE = {
     'Bar': 'versa bar',
 }
 
+# Medidas para piezas cuyo nombre de archivo no las trae (ruta -> medida)
+DIMS_OVERRIDE = {
+    'Centerpieces/Centerpiece Pedestals/Mirror Pedestal.png': '42" high / 12" wide',
+}
+
 # Descripcion general por categoria / grupo (nombre visible -> texto)
 DESC = {
     'Accessories': 'The finishing touches — charger plates and beaded lampshades that complete a refined table.',
@@ -428,6 +433,8 @@ def images_in(rel):
             title, dims = (dims + ' ' + title).strip(), ''
         if f.lower().startswith('chatgpt image') or rel == 'Dance Floors':
             title, dims, note = '', '', ''   # Dance Floors: sin nombre, solo la foto
+        if src in DIMS_OVERRIDE:
+            dims = DIMS_OVERRIDE[src]
         items.append({'src': src, 'thumb': make_thumb(src),
                       'title': title, 'dims': dims, 'note': note, 'file': f})
     return items   # sin fusionar: cada imagen es su propia tarjeta
