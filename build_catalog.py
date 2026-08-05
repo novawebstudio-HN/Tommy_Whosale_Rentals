@@ -76,7 +76,8 @@ DESC = {
     'Pedestals & Columns': 'Elevate your event decor with our elegant pedestals and columns. Ideal for floral displays or dramatic focal points, adding height and sophistication to any space.',
     'Urns': 'Add timeless elegance with our classic urn rentals, perfect for showcasing beautiful floral arrangements indoors or outdoors.',
     'Fabrics': 'Premium linens and fabrics in a wide range of colors and textures — from Lamour matte satin and velvet to shantung, prints and more — to dress your tables, chairs and backdrops. '
-               'Available sizes: 96" RD · 108" RD · 120" RD · 120" x 120" SQ · 132" RD · 90 x 132 · 90 x 156 · 102 x 156 · 102 x 180 · 114 x 156 · 114 x 180.',
+               'Available sizes: 96" RD · 108" RD · 120" RD · 120" x 120" SQ · 132" RD · 90 x 132 · 90 x 156 · 102 x 156 · 102 x 180 · 114 x 156 · 114 x 180. '
+               'Napkins: 20" x 20".',
     'Miscellaneous': 'Event extras and finishing touches — coat racks, podiums, stanchions, event counters and light-up frames to complete your setup.',
 }
 
@@ -160,9 +161,10 @@ TABLE_RULES = [
     (3, ('mirrored', 'white acrylic')),        # Mirror & Versa
     (1, ('farm table', 'country wood')),       # Farm
     (0, ('acrylic', 'crystal', 'glass', 'light table', 'light tables',
-         'low and high cocktail', 'white round')),
+         'low and high cocktail', 'white round', 'cocktail and round',
+         'end table')),
     (2, ('serpentine', 'banquet', 'tuscan', 'classroom', 'half moon',
-         'wheels', 'high cocktail', 'cocktail and round')),
+         'wheels', 'high cocktail')),
 ]
 
 
@@ -475,6 +477,14 @@ def category_node(rel, items):
 def build_table_group():
     """Tables es una carpeta plana; la dividimos en subcategorias por material."""
     items = images_in('Tables')          # ya vienen ordenados por rank y titulo
+    # Otra foto de la misma mesa (mismo titulo) hereda las medidas de la que si las trae
+    known = {}
+    for it in items:
+        if it['dims'] and it['title'] not in known:
+            known[it['title']] = (it['dims'], it['note'])
+    for it in items:
+        if not it['dims'] and it['title'] in known:
+            it['dims'], it['note'] = known[it['title']]
     buckets = {}
     for it in items:
         buckets.setdefault(table_rank(it['file']), []).append(it)

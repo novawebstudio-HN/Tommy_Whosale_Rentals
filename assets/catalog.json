@@ -1691,7 +1691,7 @@
     "type": "group",
     "name": "Fabrics",
     "folder": "Fabrics",
-    "desc": "Premium linens and fabrics in a wide range of colors and textures — from Lamour matte satin and velvet to shantung, prints and more — to dress your tables, chairs and backdrops. Available sizes: 96\" RD · 108\" RD · 120\" RD · 120\" x 120\" SQ · 132\" RD · 90 x 132 · 90 x 156 · 102 x 156 · 102 x 180 · 114 x 156 · 114 x 180.",
+    "desc": "Premium linens and fabrics in a wide range of colors and textures — from Lamour matte satin and velvet to shantung, prints and more — to dress your tables, chairs and backdrops. Available sizes: 96\" RD · 108\" RD · 120\" RD · 120\" x 120\" SQ · 132\" RD · 90 x 132 · 90 x 156 · 102 x 156 · 102 x 180 · 114 x 156 · 114 x 180. Napkins: 20\" x 20\".",
     "cover": "thumbs/Fabrics/Belize/Cactus 395.webp",
     "count": 239,
     "children": [
@@ -3830,7 +3830,7 @@
     "folder": "Tables",
     "desc": "A full range of event tables — banquet, cocktail, round, serpentine, classroom and specialty tables in wood, glass and mirrored finishes.",
     "cover": "thumbs/Tables/Country wood table. It has cast iron legs with a distressed wood top. measures W98_xD39_xH31.webp",
-    "count": 22,
+    "count": 24,
     "children": [
       {
         "type": "category",
@@ -3838,12 +3838,26 @@
         "folder": "Tables",
         "desc": "Modern acrylic, crystal, glass and mirrored tables for a sleek, elegant look.",
         "cover": "thumbs/Tables/Clear Acrylic High Cocktail Table.webp",
-        "count": 11,
+        "count": 13,
         "items": [
           {
             "src": "Tables/Clear Acrylic High Cocktail Table.jpg",
             "thumb": "thumbs/Tables/Clear Acrylic High Cocktail Table.webp",
             "title": "Clear Acrylic High Cocktail Table",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Tables/Cocktail and Round Tables.jpg",
+            "thumb": "thumbs/Tables/Cocktail and Round Tables.webp",
+            "title": "Cocktail and Round Tables",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Tables/End tables.jpeg",
+            "thumb": "thumbs/Tables/End tables.webp",
+            "title": "End Tables",
             "dims": "",
             "note": ""
           },
@@ -3949,7 +3963,7 @@
         "folder": "Tables",
         "desc": "Classic folding banquet, serpentine, classroom and round tables — the sturdy, versatile foundation for any seated event.",
         "cover": "thumbs/Tables/7’ Serpentine Tables.webp",
-        "count": 7,
+        "count": 6,
         "items": [
           {
             "src": "Tables/7’ Serpentine Tables.jpg",
@@ -3970,13 +3984,6 @@
             "thumb": "thumbs/Tables/Classroom Tables Size 6’x18”x30”high Size 8’x18”x30”high  Size 8’x18’x42” high  Size 6’x18”x42” high.webp",
             "title": "Classroom Tables",
             "dims": "6' × 18\" × 30\" High · 8' × 18\" × 30\" High · 8' × 18' × 42\" High · 6' × 18\" × 42\" High",
-            "note": ""
-          },
-          {
-            "src": "Tables/Cocktail and Round Tables.jpg",
-            "thumb": "thumbs/Tables/Cocktail and Round Tables.webp",
-            "title": "Cocktail and Round Tables",
-            "dims": "",
             "note": ""
           },
           {
@@ -4008,13 +4015,20 @@
         "folder": "Tables",
         "desc": "Mirrored and versatile acrylic tables for a sleek, elegant, modern look.",
         "cover": "thumbs/Tables/Mirrored Cocktail Table 36'' x 36'' Square.webp",
-        "count": 2,
+        "count": 3,
         "items": [
           {
             "src": "Tables/Mirrored Cocktail Table 36'' x 36'' Square.jpg",
             "thumb": "thumbs/Tables/Mirrored Cocktail Table 36'' x 36'' Square.webp",
             "title": "Mirrored Cocktail Table",
             "dims": "36\" × 36\" Square",
+            "note": ""
+          },
+          {
+            "src": "Tables/White Acrylic Tables 2.jpeg",
+            "thumb": "thumbs/Tables/White Acrylic Tables 2.webp",
+            "title": "White Acrylic Tables",
+            "dims": "10' × 42\" × 30\" High · 8' × 42\" × 30\" High",
             "note": ""
           },
           {
