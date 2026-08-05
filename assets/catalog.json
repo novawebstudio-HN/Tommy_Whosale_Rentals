@@ -871,7 +871,7 @@
     "folder": "Centerpieces",
     "desc": "Bowls and pedestals to build stunning floral centerpieces with height and drama.",
     "cover": "thumbs/Centerpieces/Centerpiece Bowls/ 8 1_2_ silver footed bowl with handles.webp",
-    "count": 33,
+    "count": 35,
     "children": [
       {
         "type": "category",
@@ -945,13 +945,20 @@
         "folder": "Centerpieces/Centerpiece Pedestals",
         "desc": "Make a bold statement with our versatile centerpiece pedestals. Perfect for elevating floral arrangements on tables or creating striking displays on the floor.",
         "cover": "thumbs/Centerpieces/Centerpiece Pedestals/Acrylic Center Piece.webp",
-        "count": 25,
+        "count": 27,
         "items": [
           {
             "src": "Centerpieces/Centerpiece Pedestals/Acrylic Center Piece.png",
             "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/Acrylic Center Piece.webp",
             "title": "Acrylic Center Piece",
             "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Centerpieces/Centerpiece Pedestals/Aluminum Glass Pedestal 42” hight x 12” wide.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/Aluminum Glass Pedestal 42” hight x 12” wide.webp",
+            "title": "Aluminum Glass Pedestal",
+            "dims": "42\" high / 12\" wide",
             "note": ""
           },
           {
@@ -1043,6 +1050,13 @@
             "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/48_ iron stand with glass vase.webp",
             "title": "Iron Stand with Glass Vase",
             "dims": "48\"",
+            "note": ""
+          },
+          {
+            "src": "Centerpieces/Centerpiece Pedestals/Mirror Pedestal.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/Mirror Pedestal.webp",
+            "title": "Mirror Pedestal",
+            "dims": "42\" high / 12\" wide",
             "note": ""
           },
           {
@@ -4047,16 +4061,9 @@
     "name": "Urns",
     "folder": "Urns",
     "desc": "Add timeless elegance with our classic urn rentals, perfect for showcasing beautiful floral arrangements indoors or outdoors.",
-    "cover": "thumbs/Urns/Aluminum Glass Pedestal 42” hight x 12” wide.webp",
-    "count": 21,
+    "cover": "thumbs/Urns/Ivory basket-weave planter.webp",
+    "count": 19,
     "items": [
-      {
-        "src": "Urns/Aluminum Glass Pedestal 42” hight x 12” wide.png",
-        "thumb": "thumbs/Urns/Aluminum Glass Pedestal 42” hight x 12” wide.webp",
-        "title": "Aluminum Glass Pedestal",
-        "dims": "42\" high / 12\" wide",
-        "note": ""
-      },
       {
         "src": "Urns/Ivory basket-weave planter.png",
         "thumb": "thumbs/Urns/Ivory basket-weave planter.webp",
@@ -4065,17 +4072,17 @@
         "note": ""
       },
       {
-        "src": "Urns/Example urn.png",
-        "thumb": "thumbs/Urns/Example urn.webp",
-        "title": "Example Urn",
-        "dims": "",
-        "note": ""
-      },
-      {
         "src": "Urns/24_ ivory fluted urn.png",
         "thumb": "thumbs/Urns/24_ ivory fluted urn.webp",
         "title": "Ivory Fluted Urn",
         "dims": "24\"",
+        "note": ""
+      },
+      {
+        "src": "Urns/Example urn.png",
+        "thumb": "thumbs/Urns/Example urn.webp",
+        "title": "Example Urn",
+        "dims": "",
         "note": ""
       },
       {
@@ -4090,13 +4097,6 @@
         "thumb": "thumbs/Urns/21_ ivory urn.webp",
         "title": "Ivory Urn",
         "dims": "21\"",
-        "note": ""
-      },
-      {
-        "src": "Urns/Mirror Pedestal.png",
-        "thumb": "thumbs/Urns/Mirror Pedestal.webp",
-        "title": "Mirror Pedestal",
-        "dims": "",
         "note": ""
       },
       {
