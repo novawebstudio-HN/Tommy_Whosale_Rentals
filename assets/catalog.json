@@ -2622,128 +2622,6 @@
       },
       {
         "type": "category",
-        "name": "New Line Prints",
-        "folder": "Fabrics/New Line Prints",
-        "desc": "Our newest printed linens — Lattice, Micro Check and Nassau patterns plus Vivacious and Waverly, in a fresh range of colors.",
-        "cover": "thumbs/Fabrics/New Line Prints/Lattice Light Blue.webp",
-        "count": 16,
-        "items": [
-          {
-            "src": "Fabrics/New Line Prints/Lattice Light Blue.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Light Blue.webp",
-            "title": "Lattice Light Blue",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Lattice Light Olive.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Light Olive.webp",
-            "title": "Lattice Light Olive",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Lattice Light Pink.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Light Pink.webp",
-            "title": "Lattice Light Pink",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Lattice Lilac.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Lilac.webp",
-            "title": "Lattice Lilac",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Lattice Maize.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Maize.webp",
-            "title": "Lattice Maize",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Micro Check Black.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Micro Check Black.webp",
-            "title": "Micro Check Black",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Micro Check Cherry Red.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Micro Check Cherry Red.webp",
-            "title": "Micro Check Cherry Red",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Micro Check Light Blue.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Micro Check Light Blue.webp",
-            "title": "Micro Check Light Blue",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Micro Check Rose.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Micro Check Rose.webp",
-            "title": "Micro Check Rose",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Nassau Evergreen.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Evergreen.webp",
-            "title": "Nassau Evergreen",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Nassau Raspberry.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Raspberry.webp",
-            "title": "Nassau Raspberry",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Nassau Rust.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Rust.webp",
-            "title": "Nassau Rust",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Nassau Storm.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Storm.webp",
-            "title": "Nassau Storm",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Nassau Tobacco.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Tobacco.webp",
-            "title": "Nassau Tobacco",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Vivacious.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Vivacious.webp",
-            "title": "Vivacious",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Fabrics/New Line Prints/Waverly.png",
-            "thumb": "thumbs/Fabrics/New Line Prints/Waverly.webp",
-            "title": "Waverly",
-            "dims": "",
-            "note": ""
-          }
-        ]
-      },
-      {
-        "type": "category",
         "name": "Panama",
         "folder": "Fabrics/Panama",
         "desc": "",
@@ -3037,6 +2915,128 @@
             "src": "Fabrics/Premium Prints/Party Toile Rose P185.jpg",
             "thumb": "thumbs/Fabrics/Premium Prints/Party Toile Rose P185.webp",
             "title": "Party Toile Rose",
+            "dims": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "name": "New Line Prints",
+        "folder": "Fabrics/New Line Prints",
+        "desc": "Our newest printed linens — Lattice, Micro Check and Nassau patterns plus Vivacious and Waverly, in a fresh range of colors.",
+        "cover": "thumbs/Fabrics/New Line Prints/Lattice Light Blue.webp",
+        "count": 16,
+        "items": [
+          {
+            "src": "Fabrics/New Line Prints/Lattice Light Blue.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Light Blue.webp",
+            "title": "Lattice Light Blue",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Lattice Light Olive.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Light Olive.webp",
+            "title": "Lattice Light Olive",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Lattice Light Pink.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Light Pink.webp",
+            "title": "Lattice Light Pink",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Lattice Lilac.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Lilac.webp",
+            "title": "Lattice Lilac",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Lattice Maize.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Maize.webp",
+            "title": "Lattice Maize",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Micro Check Black.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Micro Check Black.webp",
+            "title": "Micro Check Black",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Micro Check Cherry Red.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Micro Check Cherry Red.webp",
+            "title": "Micro Check Cherry Red",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Micro Check Light Blue.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Micro Check Light Blue.webp",
+            "title": "Micro Check Light Blue",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Micro Check Rose.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Micro Check Rose.webp",
+            "title": "Micro Check Rose",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Nassau Evergreen.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Evergreen.webp",
+            "title": "Nassau Evergreen",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Nassau Raspberry.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Raspberry.webp",
+            "title": "Nassau Raspberry",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Nassau Rust.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Rust.webp",
+            "title": "Nassau Rust",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Nassau Storm.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Storm.webp",
+            "title": "Nassau Storm",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Nassau Tobacco.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Tobacco.webp",
+            "title": "Nassau Tobacco",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Vivacious.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Vivacious.webp",
+            "title": "Vivacious",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Waverly.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Waverly.webp",
+            "title": "Waverly",
             "dims": "",
             "note": ""
           }
