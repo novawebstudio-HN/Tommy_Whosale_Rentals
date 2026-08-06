@@ -1707,7 +1707,7 @@
     "folder": "Fabrics",
     "desc": "Premium linens and fabrics in a wide range of colors and textures — from Lamour matte satin and velvet to shantung, prints and more — to dress your tables, chairs and backdrops. Available sizes: 96\" RD · 108\" RD · 120\" RD · 120\" x 120\" SQ · 132\" RD · 90 x 132 · 90 x 156 · 102 x 156 · 102 x 180 · 114 x 156 · 114 x 180. Napkins: 20\" x 20\".",
     "cover": "thumbs/Fabrics/Belize/Cactus 395.webp",
-    "count": 239,
+    "count": 255,
     "children": [
       {
         "type": "category",
@@ -2622,6 +2622,128 @@
       },
       {
         "type": "category",
+        "name": "New Line Prints",
+        "folder": "Fabrics/New Line Prints",
+        "desc": "Our newest printed linens — Lattice, Micro Check and Nassau patterns plus Vivacious and Waverly, in a fresh range of colors.",
+        "cover": "thumbs/Fabrics/New Line Prints/Lattice Light Blue.webp",
+        "count": 16,
+        "items": [
+          {
+            "src": "Fabrics/New Line Prints/Lattice Light Blue.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Light Blue.webp",
+            "title": "Lattice Light Blue",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Lattice Light Olive.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Light Olive.webp",
+            "title": "Lattice Light Olive",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Lattice Light Pink.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Light Pink.webp",
+            "title": "Lattice Light Pink",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Lattice Lilac.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Lilac.webp",
+            "title": "Lattice Lilac",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Lattice Maize.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Lattice Maize.webp",
+            "title": "Lattice Maize",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Micro Check Black.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Micro Check Black.webp",
+            "title": "Micro Check Black",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Micro Check Cherry Red.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Micro Check Cherry Red.webp",
+            "title": "Micro Check Cherry Red",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Micro Check Light Blue.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Micro Check Light Blue.webp",
+            "title": "Micro Check Light Blue",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Micro Check Rose.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Micro Check Rose.webp",
+            "title": "Micro Check Rose",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Nassau Evergreen.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Evergreen.webp",
+            "title": "Nassau Evergreen",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Nassau Raspberry.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Raspberry.webp",
+            "title": "Nassau Raspberry",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Nassau Rust.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Rust.webp",
+            "title": "Nassau Rust",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Nassau Storm.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Storm.webp",
+            "title": "Nassau Storm",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Nassau Tobacco.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Nassau Tobacco.webp",
+            "title": "Nassau Tobacco",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Vivacious.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Vivacious.webp",
+            "title": "Vivacious",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/New Line Prints/Waverly.png",
+            "thumb": "thumbs/Fabrics/New Line Prints/Waverly.webp",
+            "title": "Waverly",
+            "dims": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "type": "category",
         "name": "Panama",
         "folder": "Fabrics/Panama",
         "desc": "",
@@ -3517,13 +3639,6 @@
         "note": ""
       },
       {
-        "src": "Furniture/Handicap ramps.png",
-        "thumb": "thumbs/Furniture/Handicap ramps.webp",
-        "title": "Handicap Ramps",
-        "dims": "",
-        "note": ""
-      },
-      {
         "src": "Furniture/Light Bench.png",
         "thumb": "thumbs/Furniture/Light Bench.webp",
         "title": "Light Bench",
@@ -3555,6 +3670,13 @@
         "src": "Furniture/White lounge.png",
         "thumb": "thumbs/Furniture/White lounge.webp",
         "title": "White Lounge",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Furniture/Handicap ramps.png",
+        "thumb": "thumbs/Furniture/Handicap ramps.webp",
+        "title": "Handicap Ramps",
         "dims": "",
         "note": ""
       }
@@ -4028,28 +4150,28 @@
         "name": "Mirror Tables and Versa Tables",
         "folder": "Tables",
         "desc": "Mirrored and versatile acrylic tables for a sleek, elegant, modern look.",
-        "cover": "thumbs/Tables/Mirrored Cocktail Table 36'' x 36'' Square.webp",
+        "cover": "thumbs/Tables/Mirror Tables 2.webp",
         "count": 3,
         "items": [
+          {
+            "src": "Tables/Mirror Tables 2.jpeg",
+            "thumb": "thumbs/Tables/Mirror Tables 2.webp",
+            "title": "Mirror Tables",
+            "dims": "6' × 42\" × 30\" High · 8' × 42\" × 30\" High · 10' × 42\" × 30\" High",
+            "note": ""
+          },
+          {
+            "src": "Tables/Mirror Tables Size 6’x42”x30” high Size 8’x42”x30” high Size 10’x42”x30” high.png",
+            "thumb": "thumbs/Tables/Mirror Tables Size 6’x42”x30” high Size 8’x42”x30” high Size 10’x42”x30” high.webp",
+            "title": "Mirror Tables",
+            "dims": "6' × 42\" × 30\" High · 8' × 42\" × 30\" High · 10' × 42\" × 30\" High",
+            "note": ""
+          },
           {
             "src": "Tables/Mirrored Cocktail Table 36'' x 36'' Square.jpg",
             "thumb": "thumbs/Tables/Mirrored Cocktail Table 36'' x 36'' Square.webp",
             "title": "Mirrored Cocktail Table",
             "dims": "36\" × 36\" Square",
-            "note": ""
-          },
-          {
-            "src": "Tables/White Acrylic Tables 2.jpeg",
-            "thumb": "thumbs/Tables/White Acrylic Tables 2.webp",
-            "title": "White Acrylic Tables",
-            "dims": "10' × 42\" × 30\" High · 8' × 42\" × 30\" High",
-            "note": ""
-          },
-          {
-            "src": "Tables/White Acrylic Tables Size 10’x42”x30” high  Size 8’x42”x30” high.png",
-            "thumb": "thumbs/Tables/White Acrylic Tables Size 10’x42”x30” high  Size 8’x42”x30” high.webp",
-            "title": "White Acrylic Tables",
-            "dims": "10' × 42\" × 30\" High · 8' × 42\" × 30\" High",
             "note": ""
           }
         ]

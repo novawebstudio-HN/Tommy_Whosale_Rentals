@@ -84,6 +84,7 @@ DESC = {
                'Available sizes: 96" RD · 108" RD · 120" RD · 120" x 120" SQ · 132" RD · 90 x 132 · 90 x 156 · 102 x 156 · 102 x 180 · 114 x 156 · 114 x 180. '
                'Napkins: 20" x 20".',
     'Miscellaneous': 'Event extras and finishing touches — coat racks, podiums, stanchions, event counters and light-up frames to complete your setup.',
+    'New Line Prints': 'Our newest printed linens — Lattice, Micro Check and Nassau patterns plus Vivacious and Waverly, in a fresh range of colors.',
 }
 
 # Orden por estilo para las sillas (para que no salgan "regadas")
@@ -163,7 +164,7 @@ TABLE_SUBCATS = {
 
 # (rank, palabras clave). Se evalua en orden: la primera que coincide gana.
 TABLE_RULES = [
-    (3, ('mirrored', 'white acrylic')),        # Mirror & Versa
+    (3, ('mirror',)),                          # Mirror & Versa (mirror/mirrored)
     (1, ('farm table', 'country wood')),       # Farm
     (0, ('acrylic', 'crystal', 'glass', 'light table', 'light tables',
          'low and high cocktail', 'white round', 'cocktail and round',
@@ -418,6 +419,9 @@ def images_in(rel):
     elif rel == 'Urns':
         files.sort(key=lambda f: parse_name(f)[0].lower())
         files = urn_order(files)
+    elif rel == 'Furniture':
+        # Handicap Ramps siempre de ultimo
+        files.sort(key=lambda f: ('handicap' in f.lower(), parse_name(f)[0].lower()))
     else:
         files.sort(key=lambda f: parse_name(f)[0].lower())
     items = []
