@@ -4150,18 +4150,11 @@
         "name": "Mirror Tables and Versa Tables",
         "folder": "Tables",
         "desc": "Mirrored and versatile acrylic tables for a sleek, elegant, modern look.",
-        "cover": "thumbs/Tables/Mirror Tables 2.webp",
+        "cover": "thumbs/Tables/Mirror Tables Size 6’x42”x30” high Size 8’x42”x30” high Size 10’x42”x30” high.webp",
         "count": 3,
         "items": [
           {
-            "src": "Tables/Mirror Tables 2.jpeg",
-            "thumb": "thumbs/Tables/Mirror Tables 2.webp",
-            "title": "Mirror Tables",
-            "dims": "6' × 42\" × 30\" High · 8' × 42\" × 30\" High · 10' × 42\" × 30\" High",
-            "note": ""
-          },
-          {
-            "src": "Tables/Mirror Tables Size 6’x42”x30” high Size 8’x42”x30” high Size 10’x42”x30” high.png",
+            "src": "Tables/Mirror Tables Size 6’x42”x30” high Size 8’x42”x30” high Size 10’x42”x30” high.jpeg",
             "thumb": "thumbs/Tables/Mirror Tables Size 6’x42”x30” high Size 8’x42”x30” high Size 10’x42”x30” high.webp",
             "title": "Mirror Tables",
             "dims": "6' × 42\" × 30\" High · 8' × 42\" × 30\" High · 10' × 42\" × 30\" High",
@@ -4172,6 +4165,13 @@
             "thumb": "thumbs/Tables/Mirrored Cocktail Table 36'' x 36'' Square.webp",
             "title": "Mirrored Cocktail Table",
             "dims": "36\" × 36\" Square",
+            "note": ""
+          },
+          {
+            "src": "Tables/White Acrylic Tables Size 6’x42”x30” high Size 8’x42”x30” high Size 10’x42”x30” high.png",
+            "thumb": "thumbs/Tables/White Acrylic Tables Size 6’x42”x30” high Size 8’x42”x30” high Size 10’x42”x30” high.webp",
+            "title": "White Acrylic Tables",
+            "dims": "6' × 42\" × 30\" High · 8' × 42\" × 30\" High · 10' × 42\" × 30\" High",
             "note": ""
           }
         ]

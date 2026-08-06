@@ -164,7 +164,7 @@ TABLE_SUBCATS = {
 
 # (rank, palabras clave). Se evalua en orden: la primera que coincide gana.
 TABLE_RULES = [
-    (3, ('mirror',)),                          # Mirror & Versa (mirror/mirrored)
+    (3, ('mirror', 'white acrylic')),          # Mirror & Versa
     (1, ('farm table', 'country wood')),       # Farm
     (0, ('acrylic', 'crystal', 'glass', 'light table', 'light tables',
          'low and high cocktail', 'white round', 'cocktail and round',
