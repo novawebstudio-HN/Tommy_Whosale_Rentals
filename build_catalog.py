@@ -545,7 +545,14 @@ def main():
             if imgs:
                 sub_children.append(category_node(rel, imgs))
         # Hemstitch Napkins siempre al final de sus subcategorias
-        sub_children.sort(key=lambda c: (c['name'] == 'Hemstitch Napkins', c['name'].lower()))
+        # Alfabetico, pero: New Line Prints justo despues de Premium Prints,
+        # y Hemstitch Napkins siempre de ultimo.
+        def _sub_key(c):
+            nm = c['name']
+            if nm == 'New Line Prints':
+                return (nm == 'Hemstitch Napkins', 'premium prints', 1)
+            return (nm == 'Hemstitch Napkins', nm.lower(), 0)
+        sub_children.sort(key=_sub_key)
 
         if direct and sub_children:
             children = [category_node(top, direct)] + sub_children
