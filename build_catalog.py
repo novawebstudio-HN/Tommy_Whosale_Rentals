@@ -84,6 +84,7 @@ DESC = {
                'Available sizes: 96" RD · 108" RD · 120" RD · 120" x 120" SQ · 132" RD · 90 x 132 · 90 x 156 · 102 x 156 · 102 x 180 · 114 x 156 · 114 x 180. '
                'Napkins: 20" x 20".',
     'Miscellaneous': 'Event extras and finishing touches — coat racks, podiums, stanchions, event counters and light-up frames to complete your setup.',
+    'Hemstitch Napkins': 'Available with custom designs.',
     'New Line Prints': 'Our newest printed linens — Lattice, Micro Check and Nassau patterns plus Vivacious and Waverly, in a fresh range of colors.',
 }
 

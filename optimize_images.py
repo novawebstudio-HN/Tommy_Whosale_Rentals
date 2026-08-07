@@ -14,7 +14,10 @@ import sys
 from PIL import Image
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-SKIP_DIRS = {'.git', '.github', '.claude', 'assets', 'thumbs', '__pycache__'}
+# Other/ y Team/ se dejan intactas: son el banner y las fotos grandes de portada,
+# se muestran a pantalla completa y ahi si se nota cualquier compresion.
+SKIP_DIRS = {'.git', '.github', '.claude', 'assets', 'thumbs', '__pycache__',
+             'Other', 'Team'}
 SKIP_FILES = {'logo.jpg', 'logo.png'}
 MAXW = 1600
 JPQ = 85
