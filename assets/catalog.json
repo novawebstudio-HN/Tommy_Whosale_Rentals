@@ -708,23 +708,9 @@
         "name": "Votive Holders",
         "folder": "Candle Holders/Votive Holders",
         "desc": "Enhance your event decor with our elegant votive holders, designed to cast a warm, ambient glow and add a touch of charm and intimacy to any table setting.",
-        "cover": "thumbs/Candle Holders/Votive Holders/candle holders together2.webp",
+        "cover": "thumbs/Candle Holders/Votive Holders/Crystal flared top votive holder.webp",
         "count": 15,
         "items": [
-          {
-            "src": "Candle Holders/Votive Holders/candle holders together2.png",
-            "thumb": "thumbs/Candle Holders/Votive Holders/candle holders together2.webp",
-            "title": "Candle Holders Together",
-            "dims": "",
-            "note": ""
-          },
-          {
-            "src": "Candle Holders/Votive Holders/candle holders together.png",
-            "thumb": "thumbs/Candle Holders/Votive Holders/candle holders together.webp",
-            "title": "Candle Holders Together",
-            "dims": "",
-            "note": ""
-          },
           {
             "src": "Candle Holders/Votive Holders/Crystal flared top votive holder.jpg",
             "thumb": "thumbs/Candle Holders/Votive Holders/Crystal flared top votive holder.webp",
@@ -785,6 +771,20 @@
             "src": "Candle Holders/Votive Holders/Rhinestone candle holder.png",
             "thumb": "thumbs/Candle Holders/Votive Holders/Rhinestone candle holder.webp",
             "title": "Rhinestone Candle Holder",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Candle Holders/Votive Holders/Rhinestone Candle Holder Collection.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/Rhinestone Candle Holder Collection.webp",
+            "title": "Rhinestone Candle Holder Collection",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Candle Holders/Votive Holders/Rhinestone Candle Holder Collection 2.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/Rhinestone Candle Holder Collection 2.webp",
+            "title": "Rhinestone Candle Holder Collection",
             "dims": "",
             "note": ""
           },
