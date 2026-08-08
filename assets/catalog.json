@@ -583,7 +583,7 @@
     "folder": "Candle Holders",
     "desc": "Candlelight for every setting — displays, candlesticks, votive holders and votive pegs.",
     "cover": "thumbs/Candle Holders/Candle Displays/5´ pedestal candle holder.webp",
-    "count": 34,
+    "count": 39,
     "children": [
       {
         "type": "category",
@@ -708,9 +708,23 @@
         "name": "Votive Holders",
         "folder": "Candle Holders/Votive Holders",
         "desc": "Enhance your event decor with our elegant votive holders, designed to cast a warm, ambient glow and add a touch of charm and intimacy to any table setting.",
-        "cover": "thumbs/Candle Holders/Votive Holders/Crystal flared top votive holder.webp",
-        "count": 10,
+        "cover": "thumbs/Candle Holders/Votive Holders/candle holders together2.webp",
+        "count": 15,
         "items": [
+          {
+            "src": "Candle Holders/Votive Holders/candle holders together2.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/candle holders together2.webp",
+            "title": "Candle Holders Together",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Candle Holders/Votive Holders/candle holders together.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/candle holders together.webp",
+            "title": "Candle Holders Together",
+            "dims": "",
+            "note": ""
+          },
           {
             "src": "Candle Holders/Votive Holders/Crystal flared top votive holder.jpg",
             "thumb": "thumbs/Candle Holders/Votive Holders/Crystal flared top votive holder.webp",
@@ -757,6 +771,27 @@
             "src": "Candle Holders/Votive Holders/Glass table lamp with white frosted shade.jpg",
             "thumb": "thumbs/Candle Holders/Votive Holders/Glass table lamp with white frosted shade.webp",
             "title": "Glass Table Lamp with White Frosted Shade",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Candle Holders/Votive Holders/Rhinestone cake plate.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/Rhinestone cake plate.webp",
+            "title": "Rhinestone Cake Plate",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Candle Holders/Votive Holders/Rhinestone candle holder.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/Rhinestone candle holder.webp",
+            "title": "Rhinestone Candle Holder",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Candle Holders/Votive Holders/Rhinestone pillar candle holder.png",
+            "thumb": "thumbs/Candle Holders/Votive Holders/Rhinestone pillar candle holder.webp",
+            "title": "Rhinestone Pillar Candle Holder",
             "dims": "",
             "note": ""
           },
@@ -871,7 +906,7 @@
     "folder": "Centerpieces",
     "desc": "Bowls and pedestals to build stunning floral centerpieces with height and drama.",
     "cover": "thumbs/Centerpieces/Centerpiece Bowls/ 10 1_2_ silver footed bowl with handles.webp",
-    "count": 35,
+    "count": 37,
     "children": [
       {
         "type": "category",
@@ -945,7 +980,7 @@
         "folder": "Centerpieces/Centerpiece Pedestals",
         "desc": "Make a bold statement with our versatile centerpiece pedestals. Perfect for elevating floral arrangements on tables or creating striking displays on the floor.",
         "cover": "thumbs/Centerpieces/Centerpiece Pedestals/Acrylic Center Piece.webp",
-        "count": 27,
+        "count": 29,
         "items": [
           {
             "src": "Centerpieces/Centerpiece Pedestals/Acrylic Center Piece.jpg",
@@ -1056,6 +1091,20 @@
             "src": "Centerpieces/Centerpiece Pedestals/Mirror Pedestal.jpg",
             "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/Mirror Pedestal.webp",
             "title": "Mirror Pedestal",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Centerpieces/Centerpiece Pedestals/Rhinestone pedestal2.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/Rhinestone pedestal2.webp",
+            "title": "Rhinestone Pedestal",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Centerpieces/Centerpiece Pedestals/Rhinestone pedestal.png",
+            "thumb": "thumbs/Centerpieces/Centerpiece Pedestals/Rhinestone pedestal.webp",
+            "title": "Rhinestone Pedestal",
             "dims": "",
             "note": ""
           },

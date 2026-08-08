@@ -198,6 +198,7 @@ def _units(name):
     name = name.rsplit('.', 1)[0]
     name = re.sub(r'\s*\(\d+\)\s*$', '', name)          # (1) duplicado
     name = re.sub(r'\s+[1-9]$', '', name)               # " 2" indice de foto
+    name = re.sub(r'([A-Za-z]{3,})[1-9]$', r'\1', name)  # "pedestal2" indice pegado
     name = re.sub(r'\s+[A-Za-z]$', '', name)            # " a"/" c" sufijo de orden
     name = name.replace('´´', '"').replace('’’', '"').replace("''", '"')
     name = name.replace('”', '"').replace('“', '"').replace('″', '"')
