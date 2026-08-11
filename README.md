@@ -5,11 +5,14 @@ Diseño en los colores de la marca: **negro, blanco y rojo**.
 
 ## 🌐 Ver el sitio
 
-Publicado con GitHub Pages en:
+Publicado con GitHub Pages en el dominio propio:
 
 ```
-https://novawebstudio-hn.github.io/Tommy_Whosale_Rentals/
+https://tommywholesalerentals.com
 ```
+
+> El archivo `CNAME` en la raíz del repositorio es el que conecta el dominio.
+> **No lo borres**, o el sitio dejará de cargar en esa dirección.
 
 ## 🚀 Cómo publicarlo (GitHub Pages)
 
