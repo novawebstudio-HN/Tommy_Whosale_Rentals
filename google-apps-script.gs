@@ -37,7 +37,7 @@
  */
 
 // >>>>>>>>>>>>>>>>  EDITA ESTA LINEA  <<<<<<<<<<<<<<<<
-var AVISAR_A = 'patriciarm.tommywholesale@gmail.com';   // varios: 'uno@x.com, dos@x.com'
+var AVISAR_A = 'patriciarm.tommywholesale@gmail.com, Ana.pineda2007@icloud.com';
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 var ENCABEZADOS = ['Date', 'Name', 'Phone', 'Email',
