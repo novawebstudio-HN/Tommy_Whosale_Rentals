@@ -37,11 +37,11 @@
  */
 
 // >>>>>>>>>>>>>>>>  EDITA ESTA LINEA  <<<<<<<<<<<<<<<<
-var AVISAR_A = '';   // ej: 'tucorreo@gmail.com'  o  'uno@gmail.com, dos@gmail.com'
+var AVISAR_A = 'patriciarm.tommywholesale@gmail.com';   // varios: 'uno@x.com, dos@x.com'
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-var ENCABEZADOS = ['Fecha', 'Nombre', 'Telefono', 'Email',
-                   'Fecha del evento', 'Tipo de evento', 'Mensaje'];
+var ENCABEZADOS = ['Date', 'Name', 'Phone', 'Email',
+                   'Event Date', 'Event Type', 'Message'];
 
 
 function doPost(e) {
