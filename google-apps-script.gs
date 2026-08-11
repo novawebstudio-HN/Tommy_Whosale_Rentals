@@ -1,15 +1,19 @@
 /**
- * TOMMY WHOLESALE RENTAL — Formulario de contacto -> Google Sheet
+ * TOMMY WHOLESALE RENTAL — Formulario de contacto -> Google Sheet + aviso por correo
  * =============================================================================
- * Este codigo recibe los envios del formulario de la pagina web y los guarda
- * como filas en una Google Sheet.
+ * Este codigo recibe los envios del formulario de la pagina web, los guarda
+ * como filas en una Google Sheet Y te manda un correo con cada solicitud.
+ *
+ * -----------------------------------------------------------------------------
+ * LO UNICO QUE TIENES QUE EDITAR:  la linea  AVISAR_A  aqui abajo.
+ * Pon el correo (o varios separados por coma) donde quieres recibir los avisos.
+ * Si lo dejas vacio, no se manda correo y solo se guarda en la hoja.
+ * -----------------------------------------------------------------------------
  *
  * COMO INSTALARLO (una sola vez):
  *
- * 1) Crea una Google Sheet nueva (sheets.new). En la fila 1 escribe estos
- *    encabezados (una palabra por columna):
- *        A1: Fecha   B1: Nombre   C1: Telefono   D1: Email
- *        E1: Fecha del evento   F1: Tipo de evento   G1: Mensaje
+ * 1) Crea una Google Sheet nueva (sheets.new). No hace falta escribir los
+ *    encabezados: el script los crea solo la primera vez.
  *
  * 2) En esa hoja: menu  Extensiones -> Apps Script.
  *
@@ -22,25 +26,28 @@
  *      - Quien tiene acceso:  Cualquier persona (Anyone)
  *    Da clic en  Implementar  y autoriza los permisos que pida.
  *
- * 5) Copia la  "URL de la aplicacion web"  que te da (termina en /exec).
+ * 5) Copia la  "URL de la aplicacion web"  que te da (termina en /exec)
+ *    y pasamela para ponerla en la pagina.
  *
- * 6) En el archivo  index.html  de la pagina, reemplaza:
- *        const FORM_ENDPOINT = "PASTE_YOUR_APPS_SCRIPT_URL_HERE";
- *    por tu URL, por ejemplo:
- *        const FORM_ENDPOINT = "https://script.google.com/macros/s/AKfy.../exec";
- *    Sube el cambio y listo: los envios llegaran a tu hoja.
- *
- * (Si mas adelante cambias este codigo, usa Implementar -> Administrar
- *  implementaciones -> editar -> Nueva version, para que tome los cambios.)
+ * SI YA LO TENIAS INSTALADO Y SOLO ESTAS ACTUALIZANDO ESTE CODIGO:
+ *    Implementar -> Administrar implementaciones -> (lapiz de editar) ->
+ *    Version: Nueva version -> Implementar.
+ *    Asi la URL NO cambia y no hay que tocar la pagina.
  * =============================================================================
  */
 
+// >>>>>>>>>>>>>>>>  EDITA ESTA LINEA  <<<<<<<<<<<<<<<<
+var AVISAR_A = '';   // ej: 'tucorreo@gmail.com'  o  'uno@gmail.com, dos@gmail.com'
+// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+var ENCABEZADOS = ['Fecha', 'Nombre', 'Telefono', 'Email',
+                   'Fecha del evento', 'Tipo de evento', 'Mensaje'];
+
+
 function doPost(e) {
   try {
-    var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheets()[0];
     var p = (e && e.parameter) ? e.parameter : {};
-
-    sheet.appendRow([
+    var fila = [
       new Date(),            // Fecha de recepcion
       p.name || '',          // Nombre
       p.phone || '',         // Telefono
@@ -48,22 +55,92 @@ function doPost(e) {
       p.eventDate || '',     // Fecha del evento
       p.eventType || '',     // Tipo de evento
       p.message || ''        // Mensaje
-    ]);
+    ];
 
-    return ContentService
-      .createTextOutput(JSON.stringify({ result: 'success' }))
-      .setMimeType(ContentService.MimeType.JSON);
+    guardarEnHoja_(fila);
+    avisarPorCorreo_(fila);
+
+    return respuesta_({ result: 'success' });
 
   } catch (err) {
-    return ContentService
-      .createTextOutput(JSON.stringify({ result: 'error', error: String(err) }))
-      .setMimeType(ContentService.MimeType.JSON);
+    // Si algo falla, queda registrado en Apps Script -> Ejecuciones
+    console.error(err);
+    return respuesta_({ result: 'error', error: String(err) });
   }
 }
 
-// Permite abrir la URL en el navegador para comprobar que esta activa.
+
+/** Escribe la fila en la primera hoja, creando los encabezados si faltan. */
+function guardarEnHoja_(fila) {
+  var hoja = SpreadsheetApp.getActiveSpreadsheet().getSheets()[0];
+
+  if (hoja.getLastRow() === 0) {
+    hoja.appendRow(ENCABEZADOS);
+    hoja.getRange(1, 1, 1, ENCABEZADOS.length).setFontWeight('bold');
+    hoja.setFrozenRows(1);
+  }
+  hoja.appendRow(fila);
+}
+
+
+/** Manda el aviso por correo. Si falla, NO se pierde la fila de la hoja. */
+function avisarPorCorreo_(fila) {
+  if (!AVISAR_A) return;
+
+  try {
+    var nombre = fila[1] || '(sin nombre)';
+    var cuerpo =
+        'Nueva solicitud de cotizacion desde la pagina web:\n\n' +
+        'Nombre:            ' + (fila[1] || '-') + '\n' +
+        'Telefono:          ' + (fila[2] || '-') + '\n' +
+        'Email:             ' + (fila[3] || '-') + '\n' +
+        'Fecha del evento:  ' + (fila[4] || '-') + '\n' +
+        'Tipo de evento:    ' + (fila[5] || '-') + '\n\n' +
+        'Mensaje:\n' + (fila[6] || '-') + '\n\n' +
+        '---\n' +
+        'Recibido: ' + fila[0] + '\n' +
+        'Hoja: ' + SpreadsheetApp.getActiveSpreadsheet().getUrl();
+
+    var opciones = { name: 'Tommy Wholesale Rental' };
+    if (fila[3]) opciones.replyTo = fila[3];   // responder va directo al cliente
+
+    MailApp.sendEmail(AVISAR_A,
+                      'Nueva cotizacion — ' + nombre,
+                      cuerpo,
+                      opciones);
+  } catch (err) {
+    console.error('No se pudo enviar el aviso por correo: ' + err);
+  }
+}
+
+
+function respuesta_(obj) {
+  return ContentService
+    .createTextOutput(JSON.stringify(obj))
+    .setMimeType(ContentService.MimeType.JSON);
+}
+
+
+/** Permite abrir la URL en el navegador para comprobar que esta activa. */
 function doGet() {
   return ContentService
     .createTextOutput('Tommy Wholesale Rental form endpoint is running.')
     .setMimeType(ContentService.MimeType.TEXT);
+}
+
+
+/**
+ * PRUEBA SIN USAR LA PAGINA.
+ * Selecciona  probar  en el menu de funciones y dale  Ejecutar.
+ * Debe aparecer una fila de prueba en la hoja (y llegarte el correo).
+ */
+function probar() {
+  doPost({ parameter: {
+    name: 'Prueba desde Apps Script',
+    phone: '617-000-0000',
+    email: 'prueba@ejemplo.com',
+    eventDate: '2026-12-31',
+    eventType: 'Wedding',
+    message: 'Esto es una prueba, se puede borrar.'
+  }});
 }
