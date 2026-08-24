@@ -318,7 +318,7 @@
     "folder": "Bar",
     "desc": "Statement bars for any event — from classic white and black designs to rustic and modern LED-lit styles.",
     "cover": "thumbs/Bar/Versa Bar.webp",
-    "count": 16,
+    "count": 17,
     "items": [
       {
         "src": "Bar/Bar Lids.jpg",
@@ -353,6 +353,13 @@
         "thumb": "thumbs/Bar/Corrugated Metal Led Bar Size 5_ Wide X 20_ Deep.webp",
         "title": "Corrugated Metal LED Bar",
         "dims": "5\" Wide / 20\" Deep",
+        "note": ""
+      },
+      {
+        "src": "Bar/Grey faux wood bar.png",
+        "thumb": "thumbs/Bar/Grey faux wood bar.webp",
+        "title": "Grey Faux Wood Bar",
+        "dims": "",
         "note": ""
       },
       {
