@@ -182,6 +182,10 @@ def table_rank(f):
             return rank
     return 4
 
+# En estas categorias las medidas van en PIES (comilla simple), no en pulgadas.
+# El "_" del nombre de archivo se convierte en " por defecto.
+FEET_CATEGORIES = {'Lamps & Lighting', 'Pedestals & Columns'}
+
 MINOR = {'a', 'an', 'and', 'the', 'of', 'with', 'in', 'on', 'or', 'to', 'for', 'x'}
 KEEP_UPPER = {'LED', 'U', 'US', 'TV', 'DJ'}
 
@@ -437,6 +441,10 @@ def images_in(rel):
         if rel == 'Candelabras' and dims:
             # la medida va junto al nombre, no en linea aparte
             title, dims = (dims + ' ' + title).strip(), ''
+        if rel in FEET_CATEGORIES and dims:
+            # Estas categorias miden en PIES; el "_" del nombre de archivo se
+            # convierte en " por defecto, asi que aqui se pasa a comilla simple.
+            dims = dims.replace('"', "'")
         if f.lower().startswith('chatgpt image') or rel == 'Dance Floors':
             title, dims, note = '', '', ''   # Dance Floors: sin nombre, solo la foto
         if src in DIMS_OVERRIDE:

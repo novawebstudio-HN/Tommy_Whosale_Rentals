@@ -1463,7 +1463,7 @@
     "folder": "Dance Floors",
     "desc": "Available in red, black, and white — all with a high-shine finish. Your dance floor can be made in almost any even size (note: every floor has a 5\" edging).",
     "cover": "thumbs/Dance Floors/Par 3.webp",
-    "count": 36,
+    "count": 37,
     "items": [
       {
         "src": "Dance Floors/Par 3.jpg",
@@ -1706,6 +1706,13 @@
       {
         "src": "Dance Floors/Floor black and white.jpg",
         "thumb": "thumbs/Dance Floors/Floor black and white.webp",
+        "title": "",
+        "dims": "",
+        "note": ""
+      },
+      {
+        "src": "Dance Floors/floor with flowers.jpeg",
+        "thumb": "thumbs/Dance Floors/floor with flowers.webp",
         "title": "",
         "dims": "",
         "note": ""
@@ -3750,14 +3757,14 @@
         "src": "Lamps & Lighting/8_ single lamp post with round lamp.jpg",
         "thumb": "thumbs/Lamps & Lighting/8_ single lamp post with round lamp.webp",
         "title": "Single Lamp Post with Round Lamp",
-        "dims": "8\"",
+        "dims": "8'",
         "note": ""
       },
       {
         "src": "Lamps & Lighting/8_ single lamp post with teardrop lamp.jpg",
         "thumb": "thumbs/Lamps & Lighting/8_ single lamp post with teardrop lamp.webp",
         "title": "Single Lamp Post with Teardrop Lamp",
-        "dims": "8\"",
+        "dims": "8'",
         "note": ""
       }
     ]
@@ -3826,56 +3833,56 @@
         "src": "Pedestals & Columns/33_ fluted pedestal. This item can be custom painted any color.jpg",
         "thumb": "thumbs/Pedestals & Columns/33_ fluted pedestal. This item can be custom painted any color.webp",
         "title": "Fluted Pedestal",
-        "dims": "33\"",
+        "dims": "33'",
         "note": "This item can be custom painted any color"
       },
       {
         "src": "Pedestals & Columns/4_ tall iron column. This item can be custom painted any color.jpg",
         "thumb": "thumbs/Pedestals & Columns/4_ tall iron column. This item can be custom painted any color.webp",
         "title": "Iron Column",
-        "dims": "4\" tall",
+        "dims": "4' tall",
         "note": "This item can be custom painted any color"
       },
       {
         "src": "Pedestals & Columns/8_ ivory greek column_.jpg",
         "thumb": "thumbs/Pedestals & Columns/8_ ivory greek column_.webp",
         "title": "Ivory Greek Column",
-        "dims": "8\"",
+        "dims": "8'",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/3_ ivory plain fluted pedestal_.jpg",
         "thumb": "thumbs/Pedestals & Columns/3_ ivory plain fluted pedestal_.webp",
         "title": "Ivory Plain Fluted Pedestal",
-        "dims": "3\"",
+        "dims": "3'",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/4_ ivory plain fluted pedestal.jpg",
         "thumb": "thumbs/Pedestals & Columns/4_ ivory plain fluted pedestal.webp",
         "title": "Ivory Plain Fluted Pedestal",
-        "dims": "4\"",
+        "dims": "4'",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/28_ ivory plain fluted pedestal.jpg",
         "thumb": "thumbs/Pedestals & Columns/28_ ivory plain fluted pedestal.webp",
         "title": "Ivory Plain Fluted Pedestal",
-        "dims": "28\"",
+        "dims": "28'",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/Large shiny white oman stand. 47_Hx15.5_W.jpg",
         "thumb": "thumbs/Pedestals & Columns/Large shiny white oman stand. 47_Hx15.5_W.webp",
         "title": "Large Shiny White Oman Stand",
-        "dims": "47\"H × 15.5\"W",
+        "dims": "47'H × 15.5'W",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/28_ rust plain fluted pedestal.jpg",
         "thumb": "thumbs/Pedestals & Columns/28_ rust plain fluted pedestal.webp",
         "title": "Rust Plain Fluted Pedestal",
-        "dims": "28\"",
+        "dims": "28'",
         "note": ""
       },
       {
@@ -3889,84 +3896,84 @@
         "src": "Pedestals & Columns/Small shiny white oman stand. 29.5_Hx15.5_W.jpg",
         "thumb": "thumbs/Pedestals & Columns/Small shiny white oman stand. 29.5_Hx15.5_W.webp",
         "title": "Small Shiny White Oman Stand",
-        "dims": "29.5\"H × 15.5\"W",
+        "dims": "29.5'H × 15.5'W",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/7_ stone grey greek column. Also available in ivory.jpg",
         "thumb": "thumbs/Pedestals & Columns/7_ stone grey greek column. Also available in ivory.webp",
         "title": "Stone Grey Greek Column",
-        "dims": "7\"",
+        "dims": "7'",
         "note": "Also available in ivory"
       },
       {
         "src": "Pedestals & Columns/6_ stone grey greek column.jpg",
         "thumb": "thumbs/Pedestals & Columns/6_ stone grey greek column.webp",
         "title": "Stone Grey Greek Column",
-        "dims": "6\"",
+        "dims": "6'",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/8_ stone grey greek column.jpg",
         "thumb": "thumbs/Pedestals & Columns/8_ stone grey greek column.webp",
         "title": "Stone Grey Greek Column",
-        "dims": "8\"",
+        "dims": "8'",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/4_ stone grey greek pedestal. Also available in Ivory.jpg",
         "thumb": "thumbs/Pedestals & Columns/4_ stone grey greek pedestal. Also available in Ivory.webp",
         "title": "Stone Grey Greek Pedestal",
-        "dims": "4\"",
+        "dims": "4'",
         "note": "Also available in Ivory"
       },
       {
         "src": "Pedestals & Columns/3_ stone grey greek pedestal.jpg",
         "thumb": "thumbs/Pedestals & Columns/3_ stone grey greek pedestal.webp",
         "title": "Stone Grey Greek Pedestal",
-        "dims": "3\"",
+        "dims": "3'",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/3_ stone grey plain fluted pedestal.jpg",
         "thumb": "thumbs/Pedestals & Columns/3_ stone grey plain fluted pedestal.webp",
         "title": "Stone Grey Plain Fluted Pedestal",
-        "dims": "3\"",
+        "dims": "3'",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/28_ stone grey plain fluted pedestal_.jpg",
         "thumb": "thumbs/Pedestals & Columns/28_ stone grey plain fluted pedestal_.webp",
         "title": "Stone Grey Plain Fluted Pedestal",
-        "dims": "28\"",
+        "dims": "28'",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/4_ stone grey plain fluted pedestal.jpg",
         "thumb": "thumbs/Pedestals & Columns/4_ stone grey plain fluted pedestal.webp",
         "title": "Stone Grey Plain Fluted Pedestal",
-        "dims": "4\"",
+        "dims": "4'",
         "note": ""
       },
       {
         "src": "Pedestals & Columns/7_ wrought iron grecian column. This item can be custom painted any color_.jpg",
         "thumb": "thumbs/Pedestals & Columns/7_ wrought iron grecian column. This item can be custom painted any color_.webp",
         "title": "Wrought Iron Grecian Column",
-        "dims": "7\"",
+        "dims": "7'",
         "note": "This item can be custom painted any color"
       },
       {
         "src": "Pedestals & Columns/3_ wrought iron grecian pedestal. This item can be custom painted any color.jpg",
         "thumb": "thumbs/Pedestals & Columns/3_ wrought iron grecian pedestal. This item can be custom painted any color.webp",
         "title": "Wrought Iron Grecian Pedestal",
-        "dims": "3\"",
+        "dims": "3'",
         "note": "This item can be custom painted any color"
       },
       {
         "src": "Pedestals & Columns/5_ wrought iron grecian pedestal. This item can be custom painted any color.jpg",
         "thumb": "thumbs/Pedestals & Columns/5_ wrought iron grecian pedestal. This item can be custom painted any color.webp",
         "title": "Wrought Iron Grecian Pedestal",
-        "dims": "5\"",
+        "dims": "5'",
         "note": "This item can be custom painted any color"
       }
     ]
