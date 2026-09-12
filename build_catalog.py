@@ -85,6 +85,24 @@ DESC = {
                'Napkins: 20" x 20".',
     'Miscellaneous': 'Event extras and finishing touches — coat racks, podiums, stanchions, event counters and light-up frames to complete your setup.',
     'Hemstitch Napkins': 'Available with custom designs.',
+    'Belize': 'Belize linens with a soft, even weave — a dependable base in a wide range of colors.',
+    'Extreme Crush': 'Deeply crushed fabric with a textured, light-catching surface for a dramatic table.',
+    'Glimmer': 'Glimmer linens with a subtle shimmer that lifts the whole table under event lighting.',
+    'Iridescent Crush': 'Crushed iridescent fabric that shifts tone as the light moves across it.',
+    'Lamour Matte Satin': 'Our largest linen line — matte satin with a smooth finish, in dozens of colors.',
+    'Panama': 'Panama linens with a clean, structured weave that drapes neatly on any table.',
+    'Premium Prints': 'Patterned premium linens for tables that need a statement.',
+    'Rattan': 'Rattan-look linens with a natural woven texture, ideal for rustic and outdoor settings.',
+    'Supernova Shantung': 'Shantung with a fine slubbed texture and a soft sheen, in a broad color range.',
+    'Velvet': 'Plush velvet linens with rich depth and color — perfect for elegant evening events.',
+    'Barcelona': 'Textured Barcelona linens in soft, versatile tones that dress a table without overpowering it.',
+    'Canopy': 'Clean, airy Canopy linens in beige and white — an understated base for any palette.',
+    'Etched Velvet': 'Velvet with an etched pattern that catches the light, for a rich and dramatic table.',
+    'La Scala': 'Elegant La Scala linens in taupe and white, with a refined finish for formal events.',
+    'Luma': 'Luma linens with a soft metallic sheen in gold, pearl and silver.',
+    'Paisley Lace': 'Delicate paisley lace overlays that add pattern and texture to any setting.',
+    'Serafina': 'Serafina linens in white and bone — subtle texture for a classic, timeless look.',
+    'Shibori Collections': 'Shibori-dyed linens in Hex and Stripe patterns, with a bold hand-dyed character.',
     'New Line Prints': 'Our newest printed linens — Lattice, Micro Check and Nassau patterns plus Vivacious and Waverly, in a fresh range of colors.',
 }
 
@@ -412,27 +430,44 @@ def dedup(items):
     return out
 
 
-def images_in(rel):
+def _files_deep(rel, deep):
+    """Devuelve (carpeta, archivo). Con deep=True, si la carpeta no tiene
+    imagenes directas las busca en sus subcarpetas (ej. Fabrics/Shibori
+    Collections/Shibori Hex/...), para que no se pierdan un nivel mas abajo.
+    Con deep=False solo mira la carpeta: asi una carpeta-grupo como Fabrics/
+    no absorbe las fotos de sus subcategorias."""
     d = os.path.join(ROOT, rel)
     files = [f for f in os.listdir(d)
              if f.lower().endswith(VALID) and f.lower() != 'logo.jpg']
+    if files or not deep:
+        return [(rel, f) for f in files]
+    out = []
+    for sub in subdirs(rel):
+        out += _files_deep(rel + '/' + sub, True)
+    return out
+
+
+def images_in(rel, deep=False):
+    pairs = _files_deep(rel, deep)
     if rel == 'Chairs':
-        files.sort(key=lambda f: chair_sort_key(rel, f))
+        pairs.sort(key=lambda p: chair_sort_key(p[0], p[1]))
     elif rel == 'Dance Floors':
-        files.sort(key=lambda f: dancefloor_key(rel, f))
+        pairs.sort(key=lambda p: dancefloor_key(p[0], p[1]))
     elif rel == 'Tables':
-        files.sort(key=table_key)
+        pairs.sort(key=lambda p: table_key(p[1]))
     elif rel == 'Urns':
-        files.sort(key=lambda f: parse_name(f)[0].lower())
-        files = urn_order(files)
+        pairs.sort(key=lambda p: parse_name(p[1])[0].lower())
+        orden = urn_order([p[1] for p in pairs])
+        pairs.sort(key=lambda p: orden.index(p[1]))
     elif rel == 'Furniture':
         # Handicap Ramps siempre de ultimo
-        files.sort(key=lambda f: ('handicap' in f.lower(), parse_name(f)[0].lower()))
+        pairs.sort(key=lambda p: ('handicap' in p[1].lower(),
+                                  parse_name(p[1])[0].lower()))
     else:
-        files.sort(key=lambda f: parse_name(f)[0].lower())
+        pairs.sort(key=lambda p: parse_name(p[1])[0].lower())
     items = []
-    for f in files:
-        src = rel + '/' + f
+    for prel, f in pairs:
+        src = prel + '/' + f
         is_table = rel == 'Tables' or rel.startswith('Tables/')
         title, dims, note = table_parse(f) if is_table else parse_name(f)
         if rel.startswith('Fabrics'):
@@ -551,7 +586,7 @@ def main():
         sub_children = []
         for sub in subdirs(top):
             rel = top + '/' + sub
-            imgs = images_in(rel)
+            imgs = images_in(rel, deep=True)
             if imgs:
                 sub_children.append(category_node(rel, imgs))
         # Hemstitch Napkins siempre al final de sus subcategorias

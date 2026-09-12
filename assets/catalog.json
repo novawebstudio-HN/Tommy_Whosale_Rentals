@@ -1769,14 +1769,80 @@
     "name": "Fabrics",
     "folder": "Fabrics",
     "desc": "Premium linens and fabrics in a wide range of colors and textures — from Lamour matte satin and velvet to shantung, prints and more — to dress your tables, chairs and backdrops. Available sizes: 96\" RD · 108\" RD · 120\" RD · 120\" x 120\" SQ · 132\" RD · 90 x 132 · 90 x 156 · 102 x 156 · 102 x 180 · 114 x 156 · 114 x 180. Napkins: 20\" x 20\".",
-    "cover": "thumbs/Fabrics/Belize/Cactus 395.webp",
-    "count": 255,
+    "cover": "thumbs/Fabrics/Barcelona/Barcelona Aquamarine.webp",
+    "count": 293,
     "children": [
+      {
+        "type": "category",
+        "name": "Barcelona",
+        "folder": "Fabrics/Barcelona",
+        "desc": "Textured Barcelona linens in soft, versatile tones that dress a table without overpowering it.",
+        "cover": "thumbs/Fabrics/Barcelona/Barcelona Aquamarine.webp",
+        "count": 8,
+        "items": [
+          {
+            "src": "Fabrics/Barcelona/Barcelona Aquamarine.jpg",
+            "thumb": "thumbs/Fabrics/Barcelona/Barcelona Aquamarine.webp",
+            "title": "Barcelona Aquamarine",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Barcelona/Barcelona Butterscotch.jpg",
+            "thumb": "thumbs/Fabrics/Barcelona/Barcelona Butterscotch.webp",
+            "title": "Barcelona Butterscotch",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Barcelona/Barcelona Cloud.jpg",
+            "thumb": "thumbs/Fabrics/Barcelona/Barcelona Cloud.webp",
+            "title": "Barcelona Cloud",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Barcelona/Barcelona Haze.jpg",
+            "thumb": "thumbs/Fabrics/Barcelona/Barcelona Haze.webp",
+            "title": "Barcelona Haze",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Barcelona/Barcelona Malt.jpg",
+            "thumb": "thumbs/Fabrics/Barcelona/Barcelona Malt.webp",
+            "title": "Barcelona Malt",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Barcelona/Barcelona Nautical.jpg",
+            "thumb": "thumbs/Fabrics/Barcelona/Barcelona Nautical.webp",
+            "title": "Barcelona Nautical",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Barcelona/Barcelona Pebble.jpg",
+            "thumb": "thumbs/Fabrics/Barcelona/Barcelona Pebble.webp",
+            "title": "Barcelona Pebble",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Barcelona/Barcelona White.jpg",
+            "thumb": "thumbs/Fabrics/Barcelona/Barcelona White.webp",
+            "title": "Barcelona White",
+            "dims": "",
+            "note": ""
+          }
+        ]
+      },
       {
         "type": "category",
         "name": "Belize",
         "folder": "Fabrics/Belize",
-        "desc": "",
+        "desc": "Belize linens with a soft, even weave — a dependable base in a wide range of colors.",
         "cover": "thumbs/Fabrics/Belize/Cactus 395.webp",
         "count": 12,
         "items": [
@@ -1868,9 +1934,92 @@
       },
       {
         "type": "category",
+        "name": "Canopy",
+        "folder": "Fabrics/Canopy",
+        "desc": "Clean, airy Canopy linens in beige and white — an understated base for any palette.",
+        "cover": "thumbs/Fabrics/Canopy/Canopy Beige.webp",
+        "count": 2,
+        "items": [
+          {
+            "src": "Fabrics/Canopy/Canopy Beige.png",
+            "thumb": "thumbs/Fabrics/Canopy/Canopy Beige.webp",
+            "title": "Canopy Beige",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Canopy/Canopy White.png",
+            "thumb": "thumbs/Fabrics/Canopy/Canopy White.webp",
+            "title": "Canopy White",
+            "dims": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "name": "Etched Velvet",
+        "folder": "Fabrics/Etched Velvet",
+        "desc": "Velvet with an etched pattern that catches the light, for a rich and dramatic table.",
+        "cover": "thumbs/Fabrics/Etched Velvet/Etched Velvet Blush.webp",
+        "count": 7,
+        "items": [
+          {
+            "src": "Fabrics/Etched Velvet/Etched Velvet Blush.png",
+            "thumb": "thumbs/Fabrics/Etched Velvet/Etched Velvet Blush.webp",
+            "title": "Etched Velvet Blush",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Etched Velvet/Etched Velvet Charcoal.png",
+            "thumb": "thumbs/Fabrics/Etched Velvet/Etched Velvet Charcoal.webp",
+            "title": "Etched Velvet Charcoal",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Etched Velvet/Etched Velvet Cream.png",
+            "thumb": "thumbs/Fabrics/Etched Velvet/Etched Velvet Cream.webp",
+            "title": "Etched Velvet Cream",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Etched Velvet/Etched Velvet Fuchsia.png",
+            "thumb": "thumbs/Fabrics/Etched Velvet/Etched Velvet Fuchsia.webp",
+            "title": "Etched Velvet Fuchsia",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Etched Velvet/Etched Velvet Rose.png",
+            "thumb": "thumbs/Fabrics/Etched Velvet/Etched Velvet Rose.webp",
+            "title": "Etched Velvet Rose",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Etched Velvet/Etched Velvet Silver.png",
+            "thumb": "thumbs/Fabrics/Etched Velvet/Etched Velvet Silver.webp",
+            "title": "Etched Velvet Silver",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Etched Velvet/Etched Velvet Storm.png",
+            "thumb": "thumbs/Fabrics/Etched Velvet/Etched Velvet Storm.webp",
+            "title": "Etched Velvet Storm",
+            "dims": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "type": "category",
         "name": "Extreme Crush",
         "folder": "Fabrics/Extreme Crush",
-        "desc": "",
+        "desc": "Deeply crushed fabric with a textured, light-catching surface for a dramatic table.",
         "cover": "thumbs/Fabrics/Extreme Crush/Black 943.webp",
         "count": 13,
         "items": [
@@ -1971,7 +2120,7 @@
         "type": "category",
         "name": "Glimmer",
         "folder": "Fabrics/Glimmer",
-        "desc": "",
+        "desc": "Glimmer linens with a subtle shimmer that lifts the whole table under event lighting.",
         "cover": "thumbs/Fabrics/Glimmer/Black 206.webp",
         "count": 12,
         "items": [
@@ -2065,7 +2214,7 @@
         "type": "category",
         "name": "Iridescent Crush",
         "folder": "Fabrics/Iridescent Crush",
-        "desc": "",
+        "desc": "Crushed iridescent fabric that shifts tone as the light moves across it.",
         "cover": "thumbs/Fabrics/Iridescent Crush/Beige 752.webp",
         "count": 23,
         "items": [
@@ -2234,9 +2383,33 @@
       },
       {
         "type": "category",
+        "name": "La Scala",
+        "folder": "Fabrics/La Scala",
+        "desc": "Elegant La Scala linens in taupe and white, with a refined finish for formal events.",
+        "cover": "thumbs/Fabrics/La Scala/La Scala Taupe.webp",
+        "count": 2,
+        "items": [
+          {
+            "src": "Fabrics/La Scala/La Scala Taupe.png",
+            "thumb": "thumbs/Fabrics/La Scala/La Scala Taupe.webp",
+            "title": "La Scala Taupe",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/La Scala/La Scala White.png",
+            "thumb": "thumbs/Fabrics/La Scala/La Scala White.webp",
+            "title": "La Scala White",
+            "dims": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "type": "category",
         "name": "Lamour Matte Satin",
         "folder": "Fabrics/Lamour Matte Satin",
-        "desc": "",
+        "desc": "Our largest linen line — matte satin with a smooth finish, in dozens of colors.",
         "cover": "thumbs/Fabrics/Lamour Matte Satin/Apple 623.webp",
         "count": 63,
         "items": [
@@ -2685,9 +2858,92 @@
       },
       {
         "type": "category",
+        "name": "Luma",
+        "folder": "Fabrics/Luma",
+        "desc": "Luma linens with a soft metallic sheen in gold, pearl and silver.",
+        "cover": "thumbs/Fabrics/Luma/Luma Gold.webp",
+        "count": 3,
+        "items": [
+          {
+            "src": "Fabrics/Luma/Luma Gold.png",
+            "thumb": "thumbs/Fabrics/Luma/Luma Gold.webp",
+            "title": "Luma Gold",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Luma/Luma Pearl.png",
+            "thumb": "thumbs/Fabrics/Luma/Luma Pearl.webp",
+            "title": "Luma Pearl",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Luma/Luma Silver.png",
+            "thumb": "thumbs/Fabrics/Luma/Luma Silver.webp",
+            "title": "Luma Silver",
+            "dims": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "name": "Paisley Lace",
+        "folder": "Fabrics/Paisley Lace",
+        "desc": "Delicate paisley lace overlays that add pattern and texture to any setting.",
+        "cover": "thumbs/Fabrics/Paisley Lace/Paisley Lace Black.webp",
+        "count": 6,
+        "items": [
+          {
+            "src": "Fabrics/Paisley Lace/Paisley Lace Black.jpg",
+            "thumb": "thumbs/Fabrics/Paisley Lace/Paisley Lace Black.webp",
+            "title": "Paisley Lace Black",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Paisley Lace/Paisley Lace Champagne.jpg",
+            "thumb": "thumbs/Fabrics/Paisley Lace/Paisley Lace Champagne.webp",
+            "title": "Paisley Lace Champagne",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Paisley Lace/Paisley Lace Gold.jpg",
+            "thumb": "thumbs/Fabrics/Paisley Lace/Paisley Lace Gold.webp",
+            "title": "Paisley Lace Gold",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Paisley Lace/Paisley Lace Navy.jpg",
+            "thumb": "thumbs/Fabrics/Paisley Lace/Paisley Lace Navy.webp",
+            "title": "Paisley Lace Navy",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Paisley Lace/Paisley Lace Red.jpg",
+            "thumb": "thumbs/Fabrics/Paisley Lace/Paisley Lace Red.webp",
+            "title": "Paisley Lace Red",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Paisley Lace/Paisley Lace White.jpg",
+            "thumb": "thumbs/Fabrics/Paisley Lace/Paisley Lace White.webp",
+            "title": "Paisley Lace White",
+            "dims": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "type": "category",
         "name": "Panama",
         "folder": "Fabrics/Panama",
-        "desc": "",
+        "desc": "Panama linens with a clean, structured weave that drapes neatly on any table.",
         "cover": "thumbs/Fabrics/Panama/Beige 870.webp",
         "count": 24,
         "items": [
@@ -2865,7 +3121,7 @@
         "type": "category",
         "name": "Premium Prints",
         "folder": "Fabrics/Premium Prints",
-        "desc": "",
+        "desc": "Patterned premium linens for tables that need a statement.",
         "cover": "thumbs/Fabrics/Premium Prints/Barocco Celery P048.webp",
         "count": 16,
         "items": [
@@ -3109,7 +3365,7 @@
         "type": "category",
         "name": "Rattan",
         "folder": "Fabrics/Rattan",
-        "desc": "",
+        "desc": "Rattan-look linens with a natural woven texture, ideal for rustic and outdoor settings.",
         "cover": "thumbs/Fabrics/Rattan/Black 786.webp",
         "count": 16,
         "items": [
@@ -3229,9 +3485,99 @@
       },
       {
         "type": "category",
+        "name": "Serafina",
+        "folder": "Fabrics/Serafina",
+        "desc": "Serafina linens in white and bone — subtle texture for a classic, timeless look.",
+        "cover": "thumbs/Fabrics/Serafina/Serafina bone.webp",
+        "count": 2,
+        "items": [
+          {
+            "src": "Fabrics/Serafina/Serafina bone.png",
+            "thumb": "thumbs/Fabrics/Serafina/Serafina bone.webp",
+            "title": "Serafina Bone",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Serafina/Serafina White.png",
+            "thumb": "thumbs/Fabrics/Serafina/Serafina White.webp",
+            "title": "Serafina White",
+            "dims": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "name": "Shibori Collections",
+        "folder": "Fabrics/Shibori Collections",
+        "desc": "Shibori-dyed linens in Hex and Stripe patterns, with a bold hand-dyed character.",
+        "cover": "thumbs/Fabrics/Shibori Collections/Shibori Hex/Shibori Hex Champagne.webp",
+        "count": 8,
+        "items": [
+          {
+            "src": "Fabrics/Shibori Collections/Shibori Hex/Shibori Hex Champagne.jpg",
+            "thumb": "thumbs/Fabrics/Shibori Collections/Shibori Hex/Shibori Hex Champagne.webp",
+            "title": "Shibori Hex Champagne",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Shibori Collections/Shibori Hex/Shibori Hex Classic Blue.jpg",
+            "thumb": "thumbs/Fabrics/Shibori Collections/Shibori Hex/Shibori Hex Classic Blue.webp",
+            "title": "Shibori Hex Classic Blue",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Shibori Collections/Shibori Hex/Shibori Hex Emerald.jpg",
+            "thumb": "thumbs/Fabrics/Shibori Collections/Shibori Hex/Shibori Hex Emerald.webp",
+            "title": "Shibori Hex Emerald",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Shibori Collections/Shibori Hex/Shibori Hex Red.jpg",
+            "thumb": "thumbs/Fabrics/Shibori Collections/Shibori Hex/Shibori Hex Red.webp",
+            "title": "Shibori Hex Red",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Shibori Collections/Shibori Stripe/Shibori Stripe Black.jpg",
+            "thumb": "thumbs/Fabrics/Shibori Collections/Shibori Stripe/Shibori Stripe Black.webp",
+            "title": "Shibori Stripe Black",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Shibori Collections/Shibori Stripe/Shibori Stripe Champagne_.jpg",
+            "thumb": "thumbs/Fabrics/Shibori Collections/Shibori Stripe/Shibori Stripe Champagne_.webp",
+            "title": "Shibori Stripe Champagne",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Shibori Collections/Shibori Stripe/Shibori Stripe Classic Blue_.jpg",
+            "thumb": "thumbs/Fabrics/Shibori Collections/Shibori Stripe/Shibori Stripe Classic Blue_.webp",
+            "title": "Shibori Stripe Classic Blue",
+            "dims": "",
+            "note": ""
+          },
+          {
+            "src": "Fabrics/Shibori Collections/Shibori Stripe/Shibori Stripe Red.jpg",
+            "thumb": "thumbs/Fabrics/Shibori Collections/Shibori Stripe/Shibori Stripe Red.webp",
+            "title": "Shibori Stripe Red",
+            "dims": "",
+            "note": ""
+          }
+        ]
+      },
+      {
+        "type": "category",
         "name": "Supernova Shantung",
         "folder": "Fabrics/Supernova Shantung",
-        "desc": "",
+        "desc": "Shantung with a fine slubbed texture and a soft sheen, in a broad color range.",
         "cover": "thumbs/Fabrics/Supernova Shantung/Apple 019.webp",
         "count": 29,
         "items": [
@@ -3444,7 +3790,7 @@
         "type": "category",
         "name": "Velvet",
         "folder": "Fabrics/Velvet",
-        "desc": "",
+        "desc": "Plush velvet linens with rich depth and color — perfect for elegant evening events.",
         "cover": "thumbs/Fabrics/Velvet/Aqua 918.webp",
         "count": 30,
         "items": [
