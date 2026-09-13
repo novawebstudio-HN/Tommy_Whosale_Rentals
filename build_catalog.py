@@ -477,9 +477,10 @@ def images_in(rel, deep=False):
             # la medida va junto al nombre, no en linea aparte
             title, dims = (dims + ' ' + title).strip(), ''
         if rel in FEET_CATEGORIES and dims:
-            # Estas categorias miden en PIES; el "_" del nombre de archivo se
-            # convierte en " por defecto, asi que aqui se pasa a comilla simple.
-            dims = dims.replace('"', "'")
+            # Las medidas de UN digito son PIES (8' poste, 4' columna, 3' pedestal).
+            # Las de dos digitos o con decimal son PULGADAS y se quedan con ":
+            # 28", 33", 47"H x 15.5"W, 29.5"H x 15.5"W.
+            dims = re.sub(r'(?<![\d.])(\d)"', r"\1'", dims)
         if f.lower().startswith('chatgpt image') or rel == 'Dance Floors':
             title, dims, note = '', '', ''   # Dance Floors: sin nombre, solo la foto
         if src in DIMS_OVERRIDE:
