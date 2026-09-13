@@ -8,7 +8,7 @@ Diseño en los colores de la marca: **negro, blanco y rojo**.
 Publicado con GitHub Pages en el dominio propio:
 
 ```
-https://tommywholesalerentals.com
+https://tommywholesale.com
 ```
 
 > El archivo `CNAME` en la raíz del repositorio es el que conecta el dominio.

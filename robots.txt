@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tommywholesalerentals.com/sitemap.xml
+Sitemap: https://tommywholesale.com/sitemap.xml
